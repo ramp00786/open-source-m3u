@@ -25,7 +25,19 @@ SOURCE_PATH = os.path.join(ROOT, "scripts", "source_channels.json")
 OUTPUT_PATH = os.path.join(ROOT, "final_m3u.m3u")
 
 LANG_ORDER = ["Hindi", "English", "Marathi", "Punjabi", "Urdu"]
-CATEGORY_ORDER = ["Movies", "News", "Entertainment", "Others"]
+CATEGORY_ORDER = [
+    "Movies",
+    "News",
+    "Entertainment",
+    "Music",
+    "Kids",
+    "Devotional",
+    "Sports",
+    "Education",
+    "Documentary",
+    "Business",
+    "Others",
+]
 
 TIMEOUT = 12
 MAX_WORKERS = 40

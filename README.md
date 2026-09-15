@@ -5,17 +5,19 @@ open-source live-TV streams for **Hindi, English, Marathi, Punjabi and
 Urdu**, grouped into per-language categories so it's easy to browse in any
 IPTV player (VLC, TiviMate, IPTV Smarters, etc.):
 
+Each of Hindi, English, Marathi, Punjabi and Urdu is split into:
+
 ```
-Hindi Movies      Hindi News        Hindi Entertainment      Hindi Others
-English Movies    English News      English Entertainment    English Others
-Marathi Movies    Marathi News      Marathi Entertainment    Marathi Others
-Punjabi Movies    Punjabi News      Punjabi Entertainment    Punjabi Others
-Urdu Movies       Urdu News         Urdu Entertainment       Urdu Others
+Movies · News · Entertainment · Music · Kids · Devotional · Sports · Education · Documentary · Business · Others
 ```
 
-Channels that don't clearly fall under Movies / News / Entertainment are
-placed in the language's `Others` group (music, sports, kids, religious,
-lifestyle, documentary, general, etc.).
+e.g. `Hindi Music`, `Hindi Kids`, `Hindi Devotional`, `Hindi Sports`,
+`English Sports`, `English News`, etc. A channel's category comes from its
+source group-title (movie/news/sport/music/kids/religious/entertainment/
+education/documentary/business keywords, checked in that priority order for
+channels tagged with more than one category). Whatever doesn't match any of
+these keywords (general, culture, lifestyle, legislative, classic, travel,
+weather, etc.) lands in the language's `Others` group.
 
 ## Source data
 
