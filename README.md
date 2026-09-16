@@ -57,6 +57,40 @@ pip install requests
 python3 scripts/check_and_filter.py
 ```
 
+## EPG (program guide)
+
+`epg.xml` is an XMLTV program guide covering as many of the playlist's
+channels as have a real, no-login public EPG source (mostly via
+`tataplay.com`, `airtelxstream.in` and `dishtv.in`, resolved automatically
+from [iptv-org/api](https://github.com/iptv-org/api)'s `guides.json`
+channel↔source mapping). `final_m3u.m3u`'s `#EXTM3U` line points at it via
+`url-tvg`/`x-tvg-url`, so any player that reads those attributes (VLC,
+TiviMate, IPTV Smarters, etc.) loads the guide automatically — nothing to
+configure by hand. Channels with no matching source (smaller/local
+channels) simply won't show program data, same as before.
+
+Regenerated daily by the same workflow, in order:
+
+1. `scripts/check_and_filter.py` → `final_m3u.m3u` (working links)
+2. `scripts/build_epg_channels.py` → `scripts/epg_channels.xml` (maps each
+   `tvg-id` still in the playlist to a site + site-specific channel id)
+3. the [iptv-org/epg](https://github.com/iptv-org/epg) grabber, run against
+   that channel list → `epg.xml`
+4. `scripts/add_epg_header.py` stamps the `url-tvg`/`x-tvg-url` attributes
+   onto `final_m3u.m3u`
+
+To run it yourself:
+
+```bash
+pip install requests
+python3 scripts/check_and_filter.py
+python3 scripts/build_epg_channels.py
+git clone --depth 1 https://github.com/iptv-org/epg.git epg-tool
+cd epg-tool && npm install
+npm run grab --- --channels=../scripts/epg_channels.xml --output=../epg.xml --maxConnections=10
+cd .. && python3 scripts/add_epg_header.py
+```
+
 ## Usage
 
 Point any IPTV player at the raw URL of `final_m3u.m3u` in this repo, or
