@@ -16,6 +16,7 @@
   <channel site="sky.com" site_id="GB#5087" lang="pa" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="tataplay.com" site_id="190" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera</channel>
   <channel site="sky.com" site_id="DE#5031" lang="en" xmltv_id="AlJazeera.qa@EnglishHD">Al Jazeera English HD</channel>
+  <channel site="tataplay.com" site_id="1321" lang="hi" xmltv_id="AllTimeMovies.in@SD">ALL Time MOVIES</channel>
   <channel site="tataplay.com" site_id="1486" lang="hi" xmltv_id="AnandTV.in@SD">Anand TV</channel>
   <channel site="tataplay.com" site_id="40" lang="hi" xmltv_id="AndTV.in@HD">&amp;tv HD</channel>
   <channel site="zee5.com" site_id="0-9-channel_122044711" lang="hi" xmltv_id="AndTV.in@International">&amp;TV HD</channel>
@@ -104,7 +105,6 @@
   <channel site="tataplay.com" site_id="117" lang="hi" xmltv_id="FoodFood.in@SD">Food Food</channel>
   <channel site="sky.com" site_id="IT#103" lang="en" xmltv_id="FoxNewsChannel.us@SD">Fox News</channel>
   <channel site="tataplay.com" site_id="131" lang="en" xmltv_id="France24.fr@English">France 24</channel>
-  <channel site="sky.com" site_id="IT#5296" lang="en" xmltv_id="France24.fr@EnglishHD">France 24 English HD</channel>
   <channel site="tataplay.com" site_id="1850" lang="pa" xmltv_id="GTCNews.in@SD">GTC News</channel>
   <channel site="tataplay.com" site_id="1836" lang="pa" xmltv_id="GTCPunjabi.in@SD">GTC Punjabi</channel>
   <channel site="tataplay.com" site_id="823" lang="hi" xmltv_id="Goldmines.in@SD">Goldmines</channel>
@@ -123,7 +123,6 @@
   <channel site="tataplay.com" site_id="27" lang="hi" xmltv_id="IBC24.in@SD">IBC 24</channel>
   <channel site="tataplay.com" site_id="698" lang="hi" xmltv_id="INH24x7.in@SD">INH 24X7</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_IND24" lang="hi" xmltv_id="Ind24.in@SD">IND24</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
   <channel site="tataplay.com" site_id="1084" lang="hi" xmltv_id="IndiaDailyLive.in@SD">India Daily 24x7</channel>
   <channel site="tataplay.com" site_id="104" lang="hi" xmltv_id="IndiaTV.in@SD">India TV</channel>
   <channel site="tataplay.com" site_id="1407" lang="hi" xmltv_id="IndiaTVSpeedNews.in@HD">India TV Speed News HD</channel>
@@ -161,7 +160,6 @@
   <channel site="tataplay.com" site_id="93" lang="en" xmltv_id="NDTVProfit.in@SD">NDTV Profit Prime</channel>
   <channel site="tataplay.com" site_id="1152" lang="hi" xmltv_id="NDTVRajasthan.in@SD">NDTV Rajasthan</channel>
   <channel site="dishtv.in" site_id="158851" lang="hi" xmltv_id="NENews.in@SD">Ne News</channel>
-  <channel site="sky.com" site_id="IT#5297" lang="en" xmltv_id="NHKWorldJapan.jp@HD">NHK World TV HD</channel>
   <channel site="tataplay.com" site_id="976" lang="en" xmltv_id="NHKWorldJapan.jp@SD">NHK World Japan</channel>
   <channel site="tataplay.com" site_id="137" lang="mr" xmltv_id="NationalGeographic.in@SD">National Geographic</channel>
   <channel site="tataplay.com" site_id="848" lang="hi" xmltv_id="Network10.in@SD">Network 10</channel>
