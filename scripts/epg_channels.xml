@@ -20,6 +20,7 @@
   <channel site="tataplay.com" site_id="1486" lang="hi" xmltv_id="AnandTV.in@SD">Anand TV</channel>
   <channel site="tataplay.com" site_id="40" lang="hi" xmltv_id="AndTV.in@HD">&amp;tv HD</channel>
   <channel site="zee5.com" site_id="0-9-channel_122044711" lang="hi" xmltv_id="AndTV.in@International">&amp;TV HD</channel>
+  <channel site="tataplay.com" site_id="1183" lang="hi" xmltv_id="AndxplorHD.in@HD">&amp;Xplor HD</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Africa">Angel TV Arabia</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Arabia">Angel TV Arabia</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Australia">Angel TV Arabia</channel>
@@ -122,7 +123,7 @@
   <channel site="tataplay.com" site_id="345" lang="hi" xmltv_id="HungamaTV.in@SD">Hungama</channel>
   <channel site="tataplay.com" site_id="27" lang="hi" xmltv_id="IBC24.in@SD">IBC 24</channel>
   <channel site="tataplay.com" site_id="698" lang="hi" xmltv_id="INH24x7.in@SD">INH 24X7</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_IND24" lang="hi" xmltv_id="Ind24.in@SD">IND24</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
   <channel site="tataplay.com" site_id="1084" lang="hi" xmltv_id="IndiaDailyLive.in@SD">India Daily 24x7</channel>
   <channel site="tataplay.com" site_id="104" lang="hi" xmltv_id="IndiaTV.in@SD">India TV</channel>
   <channel site="tataplay.com" site_id="1407" lang="hi" xmltv_id="IndiaTVSpeedNews.in@HD">India TV Speed News HD</channel>
