@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/ramp00786/open-source-m3u/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/ramp00786/open-source-m3u/main/epg.xml"
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Movies",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Movies",&xplor HD (1080p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png" group-title="Hindi Movies",All Time Movies (576p)
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",B4U Kadak (576p)
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Hindi Movies",B4U Movies (576p)
@@ -77,6 +81,8 @@ https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="Hindi News",Awaaz India TV (720p) [Not 24/7]
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-id="BansalNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png" group-title="Hindi News",Bansal News (720p)
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png" group-title="Hindi News",Bharat Samachar (576p)
 https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=720x540" group-title="Hindi News",Bharat24 (720p)
@@ -129,8 +135,6 @@ https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTINF:-1 tvg-id="NENews.in@SD" tvg-logo="https://i.imgur.com/L5GeJFb.png" group-title="Hindi News",NE News (576p)
 https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8
-#EXTINF:-1 tvg-id="NagalandTV.in@SD" tvg-logo="https://i.imgur.com/EBEIpPo.png" group-title="Hindi News",Nagaland TV (576p)
-https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png" group-title="Hindi News",News 1 India (576p)
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 #EXTINF:-1 tvg-id="News24MPChhattisgarh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24_MPCG/images/LOGO_HD/image.png" group-title="Hindi News",News 24 MP & Chhattisgarh (576p)
@@ -155,6 +159,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/ou
 https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png" group-title="Hindi News",News18 Uttar Pradesh Uttarakhand (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="OnlyBharat.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AMV_NETWORK/images/LOGO_HD/image.png" group-title="Hindi News",Only Bharat (576p)
+https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540" group-title="Hindi News",Republic Bharat (1080p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
 #EXTINF:-1 tvg-id="SachBedhadak.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158864_ld_h15_aa.png?lock=720x540" group-title="Hindi News",Sach Bedhadak (576p)
@@ -245,8 +251,6 @@ http://38.96.178.205/SONYHD/index.m3u8
 https://cloudplay-sonyliv.pages.dev/pal.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Hindi Entertainment",Sony SAB HD (1080p)
 https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi Entertainment",Zee TV HD (720p) [Geo-blocked]
-http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Hindi Entertainment",MTV
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Hindi Music",9X Jalwa (1080p)
@@ -309,8 +313,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 #EXTINF:-1 tvg-id="AdhyatmTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="Hindi Devotional",Adhyatm TV (720p)
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
-#EXTINF:-1 tvg-id="AnandTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png" group-title="Hindi Devotional",Anand TV (1080p)
-https://live.legitpro.co.in/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142649_ld_h9_aa.png?lock=720x540" group-title="Hindi Devotional",Aradana TV (576p)
 https://cdn.pishow.tv/ott/live/961/master.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="Hindi Devotional",Awakening TV (576p)
@@ -599,6 +601,8 @@ http://103.185.24.134:3001/NICK-JR/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Africa" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="English Devotional",Angel TV Africa (720p)
 https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Arabia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="English Devotional",Angel TV Arabia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Australia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="English Devotional",Angel TV Australia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Europe" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="English Devotional",Angel TV Europe (720p)
@@ -617,6 +621,8 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19
 https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in@Global" tvg-logo="https://i.imgur.com/VYorU1L.png" group-title="English Devotional",Hosanna TV Global
 https://ktismaservers.in:3349/live/hosannatvlive.m3u8
+#EXTINF:-1 tvg-id="JTBSClassic.in@Main" tvg-logo="https://jtbsclassic.dpdns.org/logo.png" group-title="English Devotional",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="SalvationTV.in@SD" tvg-logo="https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg" group-title="English Devotional",Salvation TV (1080p)
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 #EXTINF:-1 tvg-id="ZainabiaChannel.in@SD" tvg-logo="" group-title="English Devotional",Zainabia Channel
@@ -689,6 +695,8 @@ http://107.167.16.138/zeetalkies/index.m3u8?token=test
 https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 #EXTINF:-1 tvg-id="JaiMaharashtra.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="Marathi News",Jai Maharashtra (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
+#EXTINF:-1 tvg-id="MKNMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540" group-title="Marathi News",MKN Marathi (576p)
+https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
 #EXTINF:-1 tvg-id="NDTVMarathi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_MARATHI/images/LOGO_HD/image.png" http-referrer="https://marathi.ndtv.com/" group-title="Marathi News",NDTV Marathi (1080p)
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 #EXTINF:-1 tvg-id="News18Marathi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_LOKMAT/images/LOGO_HD/image.png" group-title="Marathi News",News18 Marathi (1080p)
@@ -819,6 +827,8 @@ https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
 https://cdn.pishow.tv/ott/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="7News.pk@SD" tvg-logo="https://i.imgur.com/PTl92P5.png" group-title="Urdu News",7 News (720p)
 https://sscsott.com/7news/live/index.m3u8
+#EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/eqKrL9S.png" group-title="Urdu News",92 News HD (720p)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AikNews.pk@SD" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="Urdu News",Aik News
 https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
 #EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png" group-title="Urdu News",Bharat Express (576p)
@@ -895,8 +905,6 @@ https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-id="PKSports.pk@SD" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Urdu Sports",PK Sports (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1 tvg-id="BSFilm.pk@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Urdu Others",BS Film (576p)
-https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="BSTV.pk@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg" group-title="Urdu Others",BSTV (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 #EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png" group-title="Urdu Others",DD Urdu (720p)
