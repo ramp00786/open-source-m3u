@@ -4942,5 +4942,333 @@
     "url": "http://124.109.47.101/hls/stream1.m3u8",
     "name": "aurLife HD (614p)",
     "tvg_id": "aurLifeHD.pk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@India\",Angel TV (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
+    "name": "Angel TV (720p)",
+    "tvg_id": "AngelTV.in@India"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@America\",Angel TV America (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8",
+    "name": "Angel TV America (720p)",
+    "tvg_id": "AngelTV.in@America"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@Chinese\",Angel TV Chinese (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8",
+    "name": "Angel TV Chinese (720p)",
+    "tvg_id": "AngelTV.in@Chinese"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@Hebrew\",Angel TV Hebrew (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8",
+    "name": "Angel TV Hebrew (720p)",
+    "tvg_id": "AngelTV.in@Hebrew"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@Nepal\",Angel TV Nepal (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8",
+    "name": "Angel TV Nepal (720p)",
+    "tvg_id": "AngelTV.in@Nepal"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@Portuguese\",Angel TV Portuguese (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8",
+    "name": "Angel TV Portuguese (720p)",
+    "tvg_id": "AngelTV.in@Portuguese"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@Russian\",Angel TV Russian (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "name": "Angel TV Russian (720p)",
+    "tvg_id": "AngelTV.in@Russian"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@Spanish\",Angel TV Spanish (720p)",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8",
+    "name": "Angel TV Spanish (720p)",
+    "tvg_id": "AngelTV.in@Spanish"
+  },
+  {
+    "lang": "English",
+    "category": "Business",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTVProfit.in@HD\",NDTV Profit (1080p)",
+    "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+    "name": "NDTV Profit (1080p)",
+    "tvg_id": "NDTVProfit.in@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@India\",Angel TV (576p)",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
+    "name": "Angel TV (576p)",
+    "tvg_id": "AngelTV.in@India"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"HosannaTV.in@Tamil\",Hosanna TV",
+    "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8",
+    "name": "Hosanna TV",
+    "tvg_id": "HosannaTV.in@Tamil"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"WOWKidz.in@Telugu\",WOW Kidz (720p)",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "name": "WOW Kidz (720p)",
+    "tvg_id": "WOWKidz.in@Telugu"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"WOWKidz.in@Tamil\",WOW Kidz Tamil (720p)",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "name": "WOW Kidz Tamil (720p)",
+    "tvg_id": "WOWKidz.in@Tamil"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@Russia\",Travelxp Russia (1080p)",
+    "url": "http://stream.mcquack.net/451/index.m3u8",
+    "name": "Travelxp Russia (1080p)",
+    "tvg_id": "Travelxp.in@Russia"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"Bollygold.in@HD\",Bollygold (1080p)",
+    "url": "https://jmp2.uk/stvp-IN4000600Q",
+    "name": "Bollygold (1080p)",
+    "tvg_id": "Bollygold.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"BoogleBollywood.in@SD\",Boogle Bollywood (720p)",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "name": "Boogle Bollywood (720p)",
+    "tvg_id": "BoogleBollywood.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"Kadak.in@SD\",Kadak (1080p)",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8",
+    "name": "Kadak (1080p)",
+    "tvg_id": "Kadak.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"KBCNews.in@SD\",KBC News (1080p)",
+    "url": "https://stream.ottlive.co.in/kbcnews/index.m3u8",
+    "name": "KBC News (1080p)",
+    "tvg_id": "KBCNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"KBPTimes.in@SD\",KBP Times (1080p)",
+    "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+    "name": "KBP Times (1080p)",
+    "tvg_id": "KBPTimes.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"KnockBhakti.in@SD\",Knock Bhakti (1080p)",
+    "url": "https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8",
+    "name": "Knock Bhakti (1080p)",
+    "tvg_id": "KnockBhakti.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NationNews.in@SD\",Nation News (720p)",
+    "url": "https://server.playontv.in/nationnews/index.m3u8",
+    "name": "Nation News (720p)",
+    "tvg_id": "NationNews.in@SD"
+  },
+  {
+    "lang": "Marathi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsMarathi24x7.in@SD\",News Marathi 24x7 (720p)",
+    "url": "https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8",
+    "name": "News Marathi 24x7 (720p)",
+    "tvg_id": "NewsMarathi24x7.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsNation81.in@SD\",News Nation 81 (1080p)",
+    "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+    "name": "News Nation 81 (1080p)",
+    "tvg_id": "NewsNation81.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStateMPCHG.in@SD\",News State MP & CHG (1080p)",
+    "url": "https://jmp2.uk/stvp-IN4000012ML",
+    "name": "News State MP & CHG (1080p)",
+    "tvg_id": "NewsStateMPCHG.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStatePunjabHaryanaHimachal.in@SD\",News State Punjab Haryana Himachal (1080p)",
+    "url": "https://jmp2.uk/stvp-IN300083R1",
+    "name": "News State Punjab Haryana Himachal (1080p)",
+    "tvg_id": "NewsStatePunjabHaryanaHimachal.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStateUPUK.in@SD\",News State UP & UK (1080p)",
+    "url": "https://jmp2.uk/stvp-IN3000846P",
+    "name": "News State UP & UK (1080p)",
+    "tvg_id": "NewsStateUPUK.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"NHBollyFlix.in@HD\",NH BollyFlix (1080p)",
+    "url": "https://jmp2.uk/stvp-IN46000140Q",
+    "name": "NH BollyFlix (1080p)",
+    "tvg_id": "NHBollyFlix.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"NHBollyRaga.in@HD\",NH BollyRaga (1080p)",
+    "url": "https://jmp2.uk/stvp-IN460001373",
+    "name": "NH BollyRaga (1080p)",
+    "tvg_id": "NHBollyRaga.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"NHBollyGold.in@HD\",NH BollyGold (1080p)",
+    "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+    "name": "NH BollyGold (1080p)",
+    "tvg_id": "NHBollyGold.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NSC9News.in@SD\",NSC9 News (1080p)",
+    "url": "https://legitpro.co.in/nsc9/index.m3u8",
+    "name": "NSC9 News (1080p)",
+    "tvg_id": "NSC9News.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"SwastikTV.in@SD\",Swastik TV (720p)",
+    "url": "https://server.playontv.in/swastiktv/index.m3u8",
+    "name": "Swastik TV (720p)",
+    "tvg_id": "SwastikTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"Mastiii.in@SD\",Mastiii (576p)",
+    "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8",
+    "name": "Mastiii (576p)",
+    "tvg_id": "Mastiii.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinemalu.in@HD\",Zee Cinemalu HD (720p)",
+    "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+    "name": "Zee Cinemalu HD (720p)",
+    "tvg_id": "ZeeCinemalu.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"DDSports.in@HD\",DD Sports (720p)",
+    "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
+    "name": "DD Sports (720p)",
+    "tvg_id": "DDSports.in@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AngelTV.in@India\",Angel TV (720p)",
+    "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
+    "name": "Angel TV (720p)",
+    "tvg_id": "AngelTV.in@India"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"Mastiii.in@SD\",Mastiii (576p) [Geo-blocked]",
+    "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
+    "name": "Mastiii (576p) [Geo-blocked]",
+    "tvg_id": "Mastiii.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines2.in@SD\",Goldmines 2 (576p)",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+    "name": "Goldmines 2 (576p)",
+    "tvg_id": "Goldmines2.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"PrarthanaBhawanTV.in@SD\",Prarthana Bhawan TV (576p)",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+    "name": "Prarthana Bhawan TV (576p)",
+    "tvg_id": "PrarthanaBhawanTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"SarvDharmSangam.in@SD\",Sarv Dharm Sangam (576p)",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8",
+    "name": "Sarv Dharm Sangam (576p)",
+    "tvg_id": "SarvDharmSangam.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AnandWariTV.in@SD\",Anand Wari TV (576p)",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
+    "name": "Anand Wari TV (576p)",
+    "tvg_id": "AnandWariTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"HSTV.in@SD\",HSTV (720p)",
+    "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+    "name": "HSTV (720p)",
+    "tvg_id": "HSTV.in@SD"
   }
 ]

@@ -38,6 +38,20 @@ Haryanvi-language broadcast channel in the open-source database (Haryana
 state news channels broadcast in Hindi). If you know of a real Haryanvi
 stream, add it to `scripts/source_channels.json` and it will be picked up.
 
+Every run also pulls in any extra Hindi/English/Marathi/Punjabi/Urdu
+channels available from the full India feed (`streams/in.m3u`) that
+weren't already covered by the per-language playlists — e.g. Goldmines,
+Bollygold, NH BollyFlix/BollyGold, Zee Cinemalu, News State, DD Sports.
+`Star Movies` itself isn't included: it has no free/public stream in the
+open-source database (it's a paid Disney-owned channel).
+
+`scripts/add_public_domain_movies.py` additionally adds a curated,
+genuinely public-domain **Movies** collection sourced from
+[archive.org](https://archive.org) (classics like *Nosferatu*, *The
+General*, *Night of the Living Dead*, *Plan 9 from Outer Space*) as an
+on-demand `Public Domain Movies` group — real open-source movies, not
+just live TV.
+
 ## Only working links
 
 Free IPTV stream links go down/change constantly, so "working" is checked

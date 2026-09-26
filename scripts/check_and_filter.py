@@ -24,7 +24,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE_PATH = os.path.join(ROOT, "scripts", "source_channels.json")
 OUTPUT_PATH = os.path.join(ROOT, "final_m3u.m3u")
 
-LANG_ORDER = ["Hindi", "English", "Marathi", "Punjabi", "Urdu"]
+LANG_ORDER = ["Hindi", "English", "Marathi", "Punjabi", "Urdu", "Public Domain"]
 CATEGORY_ORDER = [
     "Movies",
     "News",
