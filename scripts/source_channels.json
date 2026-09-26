@@ -5270,5 +5270,53 @@
     "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
     "name": "HSTV (720p)",
     "tvg_id": "HSTV.in@SD"
+  },
+  {
+    "lang": "Public Domain",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"pd.Nosferatu1922\" group-title=\"Public Domain Movies\",Nosferatu (1922)",
+    "url": "https://archive.org/download/Nosferatu1922/Nosferatu.mp4",
+    "name": "Nosferatu (1922)",
+    "tvg_id": "pd.Nosferatu1922"
+  },
+  {
+    "lang": "Public Domain",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"pd.TheGeneral1926\" group-title=\"Public Domain Movies\",The General (1926)",
+    "url": "https://archive.org/download/TheGeneral1926/The_General_1926_720p.mp4",
+    "name": "The General (1926)",
+    "tvg_id": "pd.TheGeneral1926"
+  },
+  {
+    "lang": "Public Domain",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"pd.his_girl_friday\" group-title=\"Public Domain Movies\",His Girl Friday (1940)",
+    "url": "https://archive.org/download/his_girl_friday/his_girl_friday.mp4",
+    "name": "His Girl Friday (1940)",
+    "tvg_id": "pd.his_girl_friday"
+  },
+  {
+    "lang": "Public Domain",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"pd.HouseOnHauntedHill1959\" group-title=\"Public Domain Movies\",House on Haunted Hill (1959)",
+    "url": "https://archive.org/download/HouseOnHauntedHill1959/House-On-Haunted-Hill.mp4",
+    "name": "House on Haunted Hill (1959)",
+    "tvg_id": "pd.HouseOnHauntedHill1959"
+  },
+  {
+    "lang": "Public Domain",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"pd.CarnivalOfSouls1962\" group-title=\"Public Domain Movies\",Carnival of Souls (1962)",
+    "url": "https://archive.org/download/CarnivalOfSouls1962/Carnival_of_Souls_512kb.mp4",
+    "name": "Carnival of Souls (1962)",
+    "tvg_id": "pd.CarnivalOfSouls1962"
+  },
+  {
+    "lang": "Public Domain",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"pd.TheLittleShopOfHorrors1960\" group-title=\"Public Domain Movies\",Little Shop of Horrors (1960)",
+    "url": "https://archive.org/download/TheLittleShopOfHorrors1960/The-Little-Shop-of-Horrors.mp4",
+    "name": "Little Shop of Horrors (1960)",
+    "tvg_id": "pd.TheLittleShopOfHorrors1960"
   }
 ]
