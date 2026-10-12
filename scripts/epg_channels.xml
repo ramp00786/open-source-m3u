@@ -15,9 +15,9 @@
   <channel site="sky.com" site_id="GB#5087" lang="pa" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="tataplay.com" site_id="190" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera</channel>
   <channel site="sky.com" site_id="DE#5031" lang="en" xmltv_id="AlJazeera.qa@EnglishHD">Al Jazeera English HD</channel>
+  <channel site="tataplay.com" site_id="1321" lang="hi" xmltv_id="AllTimeMovies.in@SD">ALL Time MOVIES</channel>
   <channel site="tataplay.com" site_id="1486" lang="hi" xmltv_id="AnandTV.in@SD">Anand TV</channel>
   <channel site="zee5.com" site_id="0-9-channel_122044711" lang="hi" xmltv_id="AndTV.in@International">&amp;TV HD</channel>
-  <channel site="tataplay.com" site_id="1183" lang="hi" xmltv_id="AndxplorHD.in@HD">&amp;Xplor HD</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Africa">Angel TV Arabia</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@America">Angel TV Arabia</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Arabia">Angel TV Arabia</channel>
@@ -41,7 +41,6 @@
   <channel site="tataplay.com" site_id="7" lang="hi" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
   <channel site="tataplay.com" site_id="9" lang="hi" xmltv_id="B4UMusic.in@India">B4U Music</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#65d92a8c8b24c80008e285c0" lang="en" xmltv_id="BBCNews.uk@Africa">BBC News</channel>
-  <channel site="teleboy.ch" site_id="400" lang="en" xmltv_id="BBCNews.uk@UK">BBC News</channel>
   <channel site="dishtv.in" site_id="142697" lang="hi" xmltv_id="BalleBalle.in@SD">Balle Balle</channel>
   <channel site="tataplay.com" site_id="1010" lang="hi" xmltv_id="Bharat24.in@SD">Bharat 24</channel>
   <channel site="tataplay.com" site_id="1051" lang="ur" xmltv_id="BharatExpress.in@SD">Bharat Express</channel>
@@ -218,12 +217,10 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANTVANI" lang="hi" xmltv_id="SantvaniChannel.in@SD">Santvani</channel>
   <channel site="tataplay.com" site_id="456" lang="hi" xmltv_id="SatsangTV.in@SD">Satsang TV</channel>
   <channel site="tataplay.com" site_id="1269" lang="hi" xmltv_id="ShemarooJosh.in@SD">Shemaroo Josh</channel>
-  <channel site="tataplay.com" site_id="800" lang="mr" xmltv_id="ShemarooMarathiBana.in@SD">Shemaroo MarathiBana</channel>
   <channel site="tataplay.com" site_id="818" lang="hi" xmltv_id="ShemarooTV.in@SD">Shemaroo TV</channel>
   <channel site="tataplay.com" site_id="1045" lang="hi" xmltv_id="ShemarooUmang.in@SD">Shemaroo UMANG</channel>
   <channel site="tataplay.com" site_id="458" lang="hi" xmltv_id="ShubhTV.in@SD">Shubh TV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV" lang="hi" xmltv_id="ShubhsandeshTV.in@SD">Shubhsandesh TV</channel>
-  <channel site="sky.com" site_id="GB#4054" lang="en" xmltv_id="SkyNews.ie@HD">Sky News HD</channel>
   <channel site="tataplay.com" site_id="127" lang="mr" xmltv_id="Sonic.in@SD">Sonic</channel>
   <channel site="tataplay.com" site_id="15" lang="hi" xmltv_id="SonyEntertainmentTelevision.in@HD">SET HD</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3800008CX" lang="hi" xmltv_id="SouthStation.in@HD">South Station</channel>
