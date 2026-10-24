@@ -11,6 +11,8 @@
   <channel site="tataplay.com" site_id="969" lang="hi" xmltv_id="AadinathTV.in@SD">Aadinath TV</channel>
   <channel site="tataplay.com" site_id="689" lang="hi" xmltv_id="AajTak.in@HD">Aaj Tak HD</channel>
   <channel site="tataplay.com" site_id="38" lang="hi" xmltv_id="Aastha.in@HD">Aastha</channel>
+  <channel site="tataplay.com" site_id="38" lang="hi" xmltv_id="Aastha.in@SD">Aastha</channel>
+  <channel site="tataplay.com" site_id="283" lang="hi" xmltv_id="AasthaBhajan.in@SD">Aastha Bhajan</channel>
   <channel site="sky.com" site_id="GB#5087" lang="pa" xmltv_id="AkaalChannel.uk@SD">Akaal Channel</channel>
   <channel site="tataplay.com" site_id="190" lang="en" xmltv_id="AlJazeera.qa@English">Al Jazeera</channel>
   <channel site="sky.com" site_id="DE#5031" lang="en" xmltv_id="AlJazeera.qa@EnglishHD">Al Jazeera English HD</channel>
@@ -35,7 +37,6 @@
   <channel site="tataplay.com" site_id="180" lang="hi" xmltv_id="AnjanTV.in@SD">Anjan TV</channel>
   <channel site="tataplay.com" site_id="285" lang="hi" xmltv_id="AradanaTV.in@SD">Aradana TV</channel>
   <channel site="tataplay.com" site_id="907" lang="hi" xmltv_id="ArgusNews.in@SD">Argus News</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL" lang="hi" xmltv_id="AryanTVNational.in@SD">ARYAN TV NATIONAL</channel>
   <channel site="tataplay.com" site_id="935" lang="hi" xmltv_id="AwakeningTV.in@SD">Awakening</channel>
   <channel site="tataplay.com" site_id="730" lang="hi" xmltv_id="B4UKadak.in@SD">B4U Kadak</channel>
   <channel site="tataplay.com" site_id="7" lang="hi" xmltv_id="B4UMovies.in@India">B4U Movies</channel>
@@ -110,8 +111,9 @@
   <channel site="tataplay.com" site_id="1836" lang="pa" xmltv_id="GTCPunjabi.in@SD">GTC Punjabi</channel>
   <channel site="tataplay.com" site_id="823" lang="hi" xmltv_id="Goldmines.in@SD">Goldmines</channel>
   <channel site="tataplay.com" site_id="1050" lang="hi" xmltv_id="GoldminesBollywood.in@SD">Goldmines Bollywood</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GOODNEWS_TV" lang="en" xmltv_id="GoodNewsTV.in@SD">Goodnews TV</channel>
+  <channel site="tataplay.com" site_id="1499" lang="hi" xmltv_id="GoldminesMovies.in@SD">Goldmines Movies</channel>
   <channel site="tataplay.com" site_id="278" lang="hi" xmltv_id="GoodNewsToday.in@SD">Good News Today</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" lang="hi" xmltv_id="Gyandarshan.in@HD">Gyandarshan</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" lang="hi" xmltv_id="Gyandarshan.in@SD">Gyandarshan</channel>
   <channel site="tataplay.com" site_id="1267" lang="hi" xmltv_id="HNN24x7.in@SD">HNN News</channel>
   <channel site="tataplay.com" site_id="837" lang="hi" xmltv_id="HareKrsnaTV.in@SD">Hare Krsna</channel>
@@ -135,7 +137,6 @@
   <channel site="tataplay.com" site_id="373" lang="hi" xmltv_id="JinvaniChannel.in@SD">Jinvani Channel</channel>
   <channel site="sky.com" site_id="GB#3753" lang="hi" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="tataplay.com" site_id="838" lang="hi" xmltv_id="KashishNews.in@SD">Kashish News</channel>
-  <channel site="tataplay.com" site_id="378" lang="hi" xmltv_id="KaumudyTV.in@SD">Kaumudy TV</channel>
   <channel site="dishtv.in" site_id="143262" lang="hi" xmltv_id="KhabrainAbhiTak.in@SD">Khabrain Abhi Tak</channel>
   <channel site="tataplay.com" site_id="793" lang="pa" xmltv_id="LivingIndiaNews.in@SD">Living India News</channel>
   <channel site="elcinema.com" site_id="1259" lang="hi" xmltv_id="MBCBollywood.ae@SD">إم بي سي بوليوود</channel>
@@ -183,8 +184,10 @@
   <channel site="tataplay.com" site_id="417" lang="en" xmltv_id="NortheastLive.in@HD">North East Live</channel>
   <channel site="tataplay.com" site_id="92" lang="pa" xmltv_id="PTCChakde.in@SD">PTC Chak De</channel>
   <channel site="tataplay.com" site_id="922" lang="pa" xmltv_id="PTCMusic.in@SD">PTC Music</channel>
+  <channel site="tataplay.com" site_id="91" lang="pa" xmltv_id="PTCNews.in@SD">PTC News</channel>
   <channel site="tataplay.com" site_id="122" lang="pa" xmltv_id="PTCPunjabi.in@HD">PTC Punjabi</channel>
   <channel site="tataplay.com" site_id="794" lang="pa" xmltv_id="PTCPunjabiGold.in@SD">PTC Punjabi Gold</channel>
+  <channel site="tataplay.com" site_id="773" lang="pa" xmltv_id="PTCSimran.in@SD">PTC Simran</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE" lang="hi" xmltv_id="ParasGold.in@SD">Paras Gold One</channel>
   <channel site="tataplay.com" site_id="420" lang="hi" xmltv_id="PeaceofMindTV.in@SD">Peace of Mind</channel>
   <channel site="tataplay.com" site_id="624" lang="pa" xmltv_id="Pitaara.in@SD">Pitaara Movies</channel>
@@ -193,8 +196,8 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA" lang="hi" xmltv_id="RaftaarMedia.in@SD">RAFTAAR MEDIA</channel>
   <channel site="tataplay.com" site_id="696" lang="hi" xmltv_id="RepublicBharat.in@SD">R Bharat</channel>
   <channel site="tataplay.com" site_id="72" lang="en" xmltv_id="RepublicTV.in@SD">REPUBLIC TV</channel>
+  <channel site="tataplay.com" site_id="1132" lang="hi" xmltv_id="RongeenTV.in@SD">Rongeen TV</channel>
   <channel site="tataplay.com" site_id="546" lang="mr" xmltv_id="SaamTV.in@SD">Saam TV</channel>
-  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SADHNA" lang="hi" xmltv_id="Sadhna.in@SD">Sadhna Gold</channel>
   <channel site="tataplay.com" site_id="829" lang="hi" xmltv_id="SadhnaNewsMadhyaPradeshChhattisgarh.in@SD">Sadhna News MP CG</channel>
   <channel site="tataplay.com" site_id="827" lang="hi" xmltv_id="SadhnaPlusNews.in@SD">Sadhna Plus News</channel>
   <channel site="tataplay.com" site_id="447" lang="hi" xmltv_id="SadhnaTV.in@SD">Sadhna TV</channel>
@@ -210,7 +213,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SANTVANI" lang="hi" xmltv_id="SantvaniChannel.in@SD">Santvani</channel>
   <channel site="tataplay.com" site_id="456" lang="hi" xmltv_id="SatsangTV.in@SD">Satsang TV</channel>
   <channel site="tataplay.com" site_id="1269" lang="hi" xmltv_id="ShemarooJosh.in@SD">Shemaroo Josh</channel>
-  <channel site="tataplay.com" site_id="800" lang="mr" xmltv_id="ShemarooMarathiBana.in@SD">Shemaroo MarathiBana</channel>
   <channel site="tataplay.com" site_id="818" lang="hi" xmltv_id="ShemarooTV.in@SD">Shemaroo TV</channel>
   <channel site="tataplay.com" site_id="1045" lang="hi" xmltv_id="ShemarooUmang.in@SD">Shemaroo UMANG</channel>
   <channel site="tataplay.com" site_id="458" lang="hi" xmltv_id="ShubhTV.in@SD">Shubh TV</channel>
@@ -220,6 +222,7 @@
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3800008CX" lang="hi" xmltv_id="SouthStation.in@HD">South Station</channel>
   <channel site="tataplay.com" site_id="163" lang="hi" xmltv_id="StarGold2.in@SD">Star Gold 2</channel>
   <channel site="tataplay.com" site_id="469" lang="mr" xmltv_id="StarPravah.in@HD">Star Pravah HD</channel>
+  <channel site="tataplay.com" site_id="1494" lang="en" xmltv_id="StarSportsKhel.in@SD">Star Sports Khel</channel>
   <channel site="tataplay.com" site_id="463" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="tataplay.com" site_id="527" lang="en" xmltv_id="StarVijay.in@UK">STAR Vijay</channel>
   <channel site="tataplay.com" site_id="475" lang="hi" xmltv_id="SudarshanNews.in@SD">Sudarshan News</channel>
@@ -229,11 +232,13 @@
   <channel site="tataplay.com" site_id="706" lang="hi" xmltv_id="TV9Bharatvarsh.in@SD">TV9 Bharatvarsh</channel>
   <channel site="tataplay.com" site_id="97" lang="mr" xmltv_id="TV9Marathi.in@SD">TV9 Marathi</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TABBAR_HITS" lang="pa" xmltv_id="TabbarHits.in@SD">Tabbar Hits</channel>
+  <channel site="dishtv.in" site_id="144002" lang="hi" xmltv_id="TheQIndia.us@SD">TheQ</channel>
   <channel site="tataplay.com" site_id="932" lang="hi" xmltv_id="TimesNowNavbharat.in@HD">Times Now Navbharat HD</channel>
   <channel site="tataplay.com" site_id="966" lang="hi" xmltv_id="TimesNowNavbharat.in@SD">Times Now Navbharat</channel>
   <channel site="tataplay.com" site_id="485" lang="hi" xmltv_id="TotalTVHaryana.in@SD">TOTAL TV</channel>
   <channel site="tataplay.com" site_id="484" lang="en" xmltv_id="Travelxp.in@HD">Travelxp HD</channel>
   <channel site="tataplay.com" site_id="55" lang="hi" xmltv_id="Travelxp.in@Russia">Travelxp</channel>
+  <channel site="tataplay.com" site_id="1164" lang="hi" xmltv_id="UniqueTV.in@SD">Unique TV</channel>
   <channel site="sky.com" site_id="GB#3608" lang="hi" xmltv_id="UtsavBharat.uk@SD">Utsav Bharat</channel>
   <channel site="sky.com" site_id="GB#1771" lang="hi" xmltv_id="UtsavPlus.uk@SD">Utsav Plus</channel>
   <channel site="tataplay.com" site_id="500" lang="hi" xmltv_id="Vedic.in@SD">Vedic</channel>
@@ -244,7 +249,6 @@
   <channel site="tataplay.com" site_id="514" lang="hi" xmltv_id="ZeeBharat.in@SD">Zee Bharat</channel>
   <channel site="tataplay.com" site_id="260" lang="hi" xmltv_id="ZeeBusiness.in@SD">Zee Business</channel>
   <channel site="nowplayer.now.com" site_id="781" lang="hi" xmltv_id="ZeeCinema.in@APAC">Zee Cinema International</channel>
-  <channel site="tataplay.com" site_id="123" lang="hi" xmltv_id="ZeeCinema.in@SD">Zee Cinema</channel>
   <channel site="tataplay.com" site_id="262" lang="hi" xmltv_id="ZeeDelhiNCRHaryana.in@SD">Zee Delhi NCR Haryana</channel>
   <channel site="tataplay.com" site_id="512" lang="hi" xmltv_id="ZeeMadhyaPradeshChhattisgarh.in@SD">Zee Madhya Pradesh Chattisgarh</channel>
   <channel site="tataplay.com" site_id="501" lang="mr" xmltv_id="ZeeMarathi.in@HD">Zee Marathi HD</channel>
