@@ -33,6 +33,8 @@ LANG_CODES = {code: name for name, code in LANG_FILES}
 COUNTRY_FEEDS = ["in", "pk"]
 FREE_TV = [("india", None), ("uk", "English"), ("usa", "English")]
 
+SONY_SPORTS = re.compile(r"\bsony\s*(sports|ten|six)\b", re.I)
+
 CATEGORY_KEYWORDS = [
     ("movie", "Movies"),
     ("cinema", "Movies"),
@@ -137,6 +139,8 @@ def main() -> int:
     def add(lang, category, extinf, url, name, tvg_id):
         if url in seen:
             return
+        if SONY_SPORTS.search(name):
+            lang, category = "Hindi", "Sports"
         seen.add(url)
         out.append(
             {
