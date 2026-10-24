@@ -11,7 +11,7 @@ permissions:
 jobs:
   check-and-filter:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
 
@@ -25,6 +25,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+
+      - name: Rebuild candidate list from latest open-source playlists
+        run: python3 scripts/build_sources.py
 
       - name: Add public-domain movies to candidate list
         run: python3 scripts/add_public_domain_movies.py
@@ -49,7 +52,7 @@ jobs:
       - name: Grab EPG
         working-directory: epg-tool
         continue-on-error: true
-        timeout-minutes: 10
+        timeout-minutes: 20
         run: npm run grab --- --channels=../scripts/epg_channels.xml --output=../epg.xml --maxConnections=10 --timeout=15000
 
       - name: Add EPG header to final_m3u.m3u

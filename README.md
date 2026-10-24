@@ -25,13 +25,13 @@ Channel metadata and stream links are sourced from the
 [iptv-org/iptv](https://github.com/iptv-org/iptv) and
 [iptv-org/database](https://github.com/iptv-org/database) open-source
 projects — the largest community-maintained collection of public IPTV
-streams. `scripts/source_channels.json` is the frozen candidate list pulled
-from their generated per-language playlists (`languages/hin.m3u`,
-`eng.m3u`, `mar.m3u`, `pan.m3u`, `urd.m3u`), with English narrowed down to
-Indian channels plus well-known international news channels (BBC News, Sky
-News, Al Jazeera English, France 24, CGTN, Euronews, CNBC, Bloomberg, DW,
-NHK World, TRT World, etc.) to keep it relevant instead of pulling in
-thousands of unrelated regional channels from every country.
+streams, plus [Free-TV/IPTV](https://github.com/Free-TV/IPTV).
+`scripts/build_sources.py` rebuilds `scripts/source_channels.json` from
+the latest versions on every run: iptv-org's per-language playlists
+(`hin`, `eng`, `mar`, `pan`, `urd` — all English channels, not just
+Indian), iptv-org's India and Pakistan country feeds, and Free-TV's India,
+UK and USA playlists, de-duplicated by URL. Streams marked geo-blocked
+outside India are skipped since they wouldn't play for Indian viewers.
 
 **Haryanvi** was requested but is not included: there is no genuine
 Haryanvi-language broadcast channel in the open-source database (Haryana

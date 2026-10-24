@@ -40,7 +40,7 @@ CATEGORY_ORDER = [
 ]
 
 TIMEOUT = 12
-MAX_WORKERS = 40
+MAX_WORKERS = 100
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36",
@@ -56,9 +56,21 @@ def is_working(url: str) -> bool:
             stream=True,
             allow_redirects=True,
         )
-        ok = r.status_code < 400
-        r.close()
-        return ok
+        try:
+            if r.status_code >= 400:
+                return False
+            ctype = r.headers.get("Content-Type", "").lower()
+            if ".m3u8" not in r.url.lower() and "mpegurl" not in ctype:
+                return True
+            # A 200 HTML error page isn't a playable stream: require a real HLS playlist.
+            head = b""
+            for chunk in r.iter_content(1024):
+                head += chunk
+                if len(head) >= 2048:
+                    break
+            return b"#EXTM3U" in head[:2048]
+        finally:
+            r.close()
     except requests.RequestException:
         return False
 
@@ -86,6 +98,15 @@ def main() -> int:
 
     working = [e for e in entries if results.get(e["url"])]
     print(f"Working: {len(working)} / {len(entries)}")
+
+    previous = 0
+    if os.path.exists(OUTPUT_PATH):
+        with open(OUTPUT_PATH, encoding="utf-8") as f:
+            previous = sum(1 for line in f if line.startswith("#EXTINF"))
+    if len(working) < previous * 0.5:
+        # Likely a runner/network problem, not half the streams dying at once.
+        print(f"Refusing to overwrite: only {len(working)} working vs {previous} before.")
+        return 1
 
     def sort_key(e):
         lang_idx = LANG_ORDER.index(e["lang"]) if e["lang"] in LANG_ORDER else 99
