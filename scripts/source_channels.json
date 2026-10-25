@@ -1146,17 +1146,9 @@
   {
     "lang": "Hindi",
     "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"HistoryTV18.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540\" group-title=\"Documentary\",History TV18 (576p)",
-    "url": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls",
-    "name": "History TV18 (576p)",
-    "tvg_id": "HistoryTV18.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"HistoryTV18.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540\" http-referrer=\"https://bhoomtv.org/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Documentary\",History TV18 HD",
-    "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
-    "name": "History TV18 HD",
+    "extinf": "#EXTINF:-1 tvg-id=\"HistoryTV18.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540\" group-title=\"Documentary\",History TV18 HD (1080p) [Geo-blocked]",
+    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+    "name": "History TV18 HD (1080p) [Geo-blocked]",
     "tvg_id": "HistoryTV18.in@HD"
   },
   {
@@ -1566,30 +1558,6 @@
     "url": "https://server.playontv.in/nationnews/index.m3u8",
     "name": "Nation News (720p)",
     "tvg_id": "NationNews.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographic.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540\" group-title=\"Documentary\",National Geographic (India) (576p) [Geo-blocked]",
-    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
-    "name": "National Geographic (India) (576p) [Geo-blocked]",
-    "tvg_id": "NationalGeographic.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographic.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540\" group-title=\"Documentary\",National Geographic (India) HD (1080p)",
-    "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8",
-    "name": "National Geographic (India) HD (1080p)",
-    "tvg_id": "NationalGeographic.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographicWild.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png\" group-title=\"Documentary\",National Geographic Wild (India) HD (1080p)",
-    "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
-    "name": "National Geographic Wild (India) HD (1080p)",
-    "tvg_id": "NationalGeographicWild.in@HD"
   },
   {
     "lang": "Hindi",
@@ -2234,24 +2202,8 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyMax1.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Max 1",
-    "url": "http://27.116.22.53:5001/live/3418.m3u8",
-    "name": "Sony Max 1",
-    "tvg_id": "SonyMax1.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyMax.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Max (576p) [Geo-blocked]",
-    "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-    "name": "Sony Max (576p) [Geo-blocked]",
-    "tvg_id": "SonyMax.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"SonyMax.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Max HD (1080p)",
-    "url": "http://103.185.24.134:3001/SonyMAX/index.m3u8",
+    "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
     "name": "Sony Max HD (1080p)",
     "tvg_id": "SonyMax.in@HD"
   },
@@ -2386,9 +2338,9 @@
   {
     "lang": "Hindi",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarPlus.in@HD\" tvg-logo=\"https://i.imgur.com/xWxNy3L.png\" group-title=\"Entertainment\",StarPlus (India) HD (1080i)",
-    "url": "http://202.70.146.135:8000/play/a009/index.m3u8",
-    "name": "StarPlus (India) HD (1080i)",
+    "extinf": "#EXTINF:-1 tvg-id=\"StarPlus.in@HD\" tvg-logo=\"https://i.imgur.com/xWxNy3L.png\" group-title=\"Entertainment\",StarPlus (India) HD (1080p)",
+    "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
+    "name": "StarPlus (India) HD (1080p)",
     "tvg_id": "StarPlus.in@HD"
   },
   {
@@ -6435,7 +6387,7 @@
     "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"BBCNews.uk@AsiaPacific\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png\" group-title=\"News\",BBC News Asia Pacific (576p)",
-    "url": "https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8",
+    "url": "http://103.151.60.162:2122/play/a0fl/index.m3u8?hls",
     "name": "BBC News Asia Pacific (576p)",
     "tvg_id": "BBCNews.uk@AsiaPacific"
   },
@@ -10017,6 +9969,14 @@
   },
   {
     "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"DGTV.au@HD\" tvg-logo=\"https://dg.church/tile-dgtv.jpg\" group-title=\"Religious\",DG:TV (1080p)",
+    "url": "https://mdn.dg.church/673ac57a073a4-1/index.m3u8",
+    "name": "DG:TV (1080p)",
+    "tvg_id": "DGTV.au@HD"
+  },
+  {
+    "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"DHA.tr@SD\" tvg-logo=\"https://i.imgur.com/VZhag2x.png\" group-title=\"News\",DHA (720p) [Not 24/7]",
     "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
@@ -10801,6 +10761,14 @@
   },
   {
     "lang": "English",
+    "category": "Business",
+    "extinf": "#EXTINF:-1 tvg-id=\"ETNowSwadesh.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png\" group-title=\"Business\",ET Now Swadesh (1080p) [Geo-blocked]",
+    "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
+    "name": "ET Now Swadesh (1080p) [Geo-blocked]",
+    "tvg_id": "ETNowSwadesh.in@SD"
+  },
+  {
+    "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"EuronewsEnglish.fr@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png\" group-title=\"News\",Euronews English (720p)",
     "url": "https://jmp2.uk/plu-61de96114757070008d33cae.m3u8",
@@ -10934,6 +10902,14 @@
     "url": "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
     "name": "FailArmy UK (720p)",
     "tvg_id": "FailArmy.us@UK"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"FairgroundAICreatorTV.us@SD\" tvg-logo=\"https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792454211883.png\" group-title=\"General\",Fairground AI Creator TV (1080p)",
+    "url": "https://jmp2.uk/rok-b484db42f3d31b6dc2f604d453c694a0.m3u8",
+    "name": "Fairground AI Creator TV (1080p)",
+    "tvg_id": "FairgroundAICreatorTV.us@SD"
   },
   {
     "lang": "English",
@@ -11850,9 +11826,9 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"FX.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png\" group-title=\"Entertainment\",FX (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"FX.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png\" group-title=\"Entertainment\",FX (United States) (720p)",
     "url": "https://tvsen7.aynascope.net/fx/index.m3u8",
-    "name": "FX (720p)",
+    "name": "FX (United States) (720p)",
     "tvg_id": "FX.us@East"
   },
   {
@@ -22954,6 +22930,14 @@
   {
     "lang": "English",
     "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"TFX.fr@SD\" tvg-logo=\"https://i.imgur.com/d91GcVf.png\" group-title=\"Undefined\",TFX",
+    "url": "http://149.62.177.107:9999/TFX/index.m3u8",
+    "name": "TFX",
+    "tvg_id": "TFX.fr@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TG4.ie@SD\" tvg-logo=\"https://i.imgur.com/XiAKb4E.png\" group-title=\"Undefined\",TG4 (1080p)",
     "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
     "name": "TG4 (1080p)",
@@ -26594,14 +26578,6 @@
   {
     "lang": "Hindi",
     "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"HistoryTV18.in@HD\",History TV18 HD (1080p) [Geo-blocked]",
-    "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
-    "name": "History TV18 HD (1080p) [Geo-blocked]",
-    "tvg_id": "HistoryTV18.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"HistoryTV18.in@HD\",History TV18 HD Hindi (1080p) [Geo-blocked]",
     "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
     "name": "History TV18 HD Hindi (1080p) [Geo-blocked]",
@@ -27849,14 +27825,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarPlus.in@HD\",StarPlus HD (1080p)",
-    "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
-    "name": "StarPlus HD (1080p)",
-    "tvg_id": "StarPlus.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@Russia\",Travelxp Russia (1080p)",
     "url": "http://stream.mcquack.net/451/index.m3u8",
@@ -28665,14 +28633,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographicWild.in@HD\",National Geographic Wild HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a01f/index.m3u8?hls",
-    "name": "National Geographic Wild HD (1080p)",
-    "tvg_id": "NationalGeographicWild.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"StarMovies.in@HD\",Star Movies HD (1080p)",
     "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
@@ -28702,14 +28662,6 @@
     "url": "http://103.151.60.162:2122/play/a01q/index.m3u8?hls",
     "name": "Sony SAB (576p)",
     "tvg_id": "SonySAB.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyMax.in@HD\",Sony Max HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
-    "name": "Sony Max HD (1080p)",
-    "tvg_id": "SonyMax.in@HD"
   },
   {
     "lang": "Hindi",
