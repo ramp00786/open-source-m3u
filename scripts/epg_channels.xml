@@ -49,11 +49,14 @@
   <channel site="tvtv.us" site_id="10035" lang="en" xmltv_id="AE.us@East">A&amp;E East</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-628bb0eafcb403aa62d2317d" lang="en" xmltv_id="ALLBLKGems.us@SD">ALLBLK Gems</channel>
   <channel site="tvtv.us" site_id="10021" lang="en" xmltv_id="AMC.us@EastHD">AMC East</channel>
+  <channel site="horizon.tv" site_id="10024" lang="en" xmltv_id="AMCEurope.uk@CzechRepublic">AMC HD</channel>
+  <channel site="tvprofil.com" site_id="hu/tvmusor#amc-hu" lang="en" xmltv_id="AMCEurope.uk@Hungary">AMC HU</channel>
   <channel site="tvtv.us" site_id="94852" lang="en" xmltv_id="AMP2.us@SD">AMP2</channel>
   <channel site="tataplay.com" site_id="787" lang="hi" xmltv_id="ANBNews.in@SD">ANB NEWS</channel>
   <channel site="tataplay.com" site_id="286" lang="hi" xmltv_id="APN.in@SD">APN News</channel>
   <channel site="tvtv.us" site_id="44895" lang="en" xmltv_id="AWE.us@SD">AWE</channel>
   <channel site="tvprofil.com" site_id="ba/tvprogram#axn" lang="en" xmltv_id="AXNAdria.us@SD">AXN</channel>
+  <channel site="m.tv.sms.cz" site_id="AXN+Black" lang="en" xmltv_id="AXNBlack.us@CzechRepublic">AXN Black</channel>
   <channel site="m.tv.sms.cz" site_id="AXN+Black" lang="en" xmltv_id="AXNBlack.us@Hungary">AXN Black</channel>
   <channel site="tvtv.us" site_id="92053" lang="en" xmltv_id="AXSTV.us@SD">AXS TV</channel>
   <channel site="tataplay.com" site_id="969" lang="hi" xmltv_id="AadinathTV.in@SD">Aadinath TV</channel>
@@ -105,8 +108,8 @@
   <channel site="tataplay.com" site_id="287" lang="hi" xmltv_id="AnimalPlanet.in@HD">Animal Planet HD</channel>
   <channel site="tataplay.com" site_id="130" lang="hi" xmltv_id="AnimalPlanet.in@SD">Animal Planet</channel>
   <channel site="tvtv.us" site_id="16331" lang="en" xmltv_id="AnimalPlanet.us@East">Animal Planet East</channel>
+  <channel site="nowplayer.now.com" site_id="150" lang="en" xmltv_id="AnimaxAsia.sg@Taiwan">Animax</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" lang="en" xmltv_id="AnimexHIDIVE.us@SD">ANIME x HIDIVE</channel>
-  <channel site="maxstream.tv" site_id="0_bidjh24z" lang="en" xmltv_id="AniplusAsia.sg@SD">Aniplus</channel>
   <channel site="tataplay.com" site_id="180" lang="hi" xmltv_id="AnjanTV.in@SD">Anjan TV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_ZEE_ANMOL" lang="hi" xmltv_id="AnmolTV.in@SD">Anmol TV</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-65d907f49c7a6da8c3ce57e9" lang="en" xmltv_id="AntiquesRoadTrip.us@SD">Antiques Road Trip</channel>
@@ -129,6 +132,7 @@
   <channel site="tataplay.com" site_id="9" lang="hi" xmltv_id="B4UMusic.in@India">B4U Music</channel>
   <channel site="tvtv.us" site_id="18332" lang="en" xmltv_id="BBCAmerica.us@East">BBC America East</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" lang="en" xmltv_id="BBCEarth.uk@US">BBC Earth</channel>
+  <channel site="content.astro.com.my" site_id="458" lang="en" xmltv_id="BBCFirst.uk@Turkiye">BBC First HD</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e" lang="en" xmltv_id="BBCFood.us">BBC Food</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e" lang="en" xmltv_id="BBCFood.us@SD">BBC Food</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb" lang="en" xmltv_id="BBCHomeGarden.us@SD">BBC Home &amp;amp; Garden</channel>
@@ -139,6 +143,7 @@
   <channel site="tataplay.com" site_id="188" lang="en" xmltv_id="BBCNews.uk@SouthAsia">BBC News</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#60f85644a9493e0007a1f035" lang="en" xmltv_id="BETClassicsPlutoTV.us@SD">BET Classics</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5ca670f6593a5d78f0e85aed" lang="en" xmltv_id="BETPlutoTV.us@US">BET Pluto TV</channel>
+  <channel site="epg.iptvx.one" site_id="btv" lang="en" xmltv_id="BTV.ug@SD">BTV</channel>
   <channel site="mi.tv" site_id="pe#byutv" lang="en" xmltv_id="BYUTV.us@SD">BYUtv</channel>
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137" lang="en" xmltv_id="BabySharkTV.us@SD">BABY SHARK TV</channel>
@@ -234,7 +239,6 @@
   <channel site="tvtv.us" site_id="83110" lang="en" xmltv_id="CNNInternational.us@NorthAmerica">CNN International</channel>
   <channel site="tataplay.com" site_id="206" lang="en" xmltv_id="CNNNews18.in@SD">CNN News18</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d" lang="en" xmltv_id="CNNOriginals.us@SD">CNN Originals</channel>
-  <channel site="tvpassport.com" site_id="cp24-cablepulse-24/321" lang="en" xmltv_id="CP24.ca@SD">CP24 (CablePulse 24)</channel>
   <channel site="chaines-tv.orange.fr" site_id="90594" lang="en" xmltv_id="CRTV.cm@SD">CRTV</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5efbd29e4aa26700076c0d06" lang="en" xmltv_id="CSI.us@SD">CSI</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-6164a963766ab4f9f57e81b1" lang="en" xmltv_id="CampSpoopy.us@SD">Camp Spoopy</channel>
@@ -288,6 +292,7 @@
   <channel site="tvtv.us" site_id="48990" lang="en" xmltv_id="Create.us@WMPT">Create</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" lang="en" xmltv_id="Crime360.us@SD">A&amp;amp;E Crime 360</channel>
   <channel site="osn.com" site_id="212" lang="en" xmltv_id="CrimePlusInvestigation.us@SD">C &amp; I</channel>
+  <channel site="m.tv.sms.cz" site_id="Crime+and+Investigation" lang="en" xmltv_id="CrimePlusInvestigationCEE.uk@SD">Crime and Investigation</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5e94cd036cc69d0007e8a1ba" lang="en" xmltv_id="CrimenesImperfectos.us@SD">Crímenes imperfectos</channel>
   <channel site="i.mjh.nz" site_id="Roku/all#307b3b9ea321539b9688148fc97a8bfd" lang="en" xmltv_id="Crunchyroll.us@SD">Crunchyroll</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" lang="en" xmltv_id="CuriosityNOW.de@EN">Curiosity NOW</channel>
@@ -370,6 +375,7 @@
   <channel site="tv.dir.bg" site_id="70" lang="en" xmltv_id="DisneyChannel.bg@SD">Disney Channel</channel>
   <channel site="tataplay.com" site_id="265" lang="en" xmltv_id="DisneyInternationalHD.in@SD">Disney International HD</channel>
   <channel site="tataplay.com" site_id="144" lang="hi" xmltv_id="DisneyJunior.in@SD">Disney Junior</channel>
+  <channel site="tvtv.us" site_id="18279" lang="en" xmltv_id="DisneyXD.us@East">Disney XD East</channel>
   <channel site="gatotv.com" site_id="distrito_comedia" lang="en" xmltv_id="DistritoComedia.mx@SD">Canal Distrito Comedia</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5ce4475cd43850831ca91ce7" lang="en" xmltv_id="DoctorWhoClassic.us@US">Doctor Who Classic</channel>
   <channel site="tvtv.us" site_id="78765" lang="en" xmltv_id="DocuBox.nl@SD">DocuBox HD</channel>
@@ -381,6 +387,7 @@
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5d14fb6c84dd37df3b4290c5" lang="en" xmltv_id="DoraTV.us@CA">Peppa Pig</channel>
   <channel site="i.mjh.nz" site_id="Roku/all#d93912b4b21158fd95af2ceb8979c586" lang="en" xmltv_id="DoveChannel.us@SD">Dove</channel>
   <channel site="i.mjh.nz" site_id="Roku/all#5976983fa00953dab911a0ebea932943" lang="en" xmltv_id="DraftKingsNetwork.us@SD">DraftKings</channel>
+  <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="en" xmltv_id="DreamWorksChannelAsia.us@SD">DreamWorks</channel>
   <channel site="watch.whaletvplus.com" site_id="925710235225102102" lang="en" xmltv_id="DroneTV.us@SD">Drone TV</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ30000039U" lang="en" xmltv_id="DryBarComedyPlus.us">Dry Bar Comedy</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ30000039U" lang="en" xmltv_id="DryBarComedyPlus.us@SD">Dry Bar Comedy</channel>
@@ -462,8 +469,6 @@
   <channel site="tvtv.us" site_id="10212" lang="en" xmltv_id="Fox.us@WTVT">Fox East</channel>
   <channel site="tvtv.us" site_id="10212" lang="en" xmltv_id="Fox.us@WTXFTV">Fox East</channel>
   <channel site="tvtv.us" site_id="10212" lang="en" xmltv_id="Fox.us@WXXVTV">Fox East</channel>
-  <channel site="sky.com" site_id="IT#544" lang="en" xmltv_id="FoxBusinessNetwork.us@SD">Fox Business</channel>
-  <channel site="sky.com" site_id="IT#103" lang="en" xmltv_id="FoxNewsChannel.us@SD">Fox News</channel>
   <channel site="i.mjh.nz" site_id="Roku/all#bdf6b34e48585f588789f7e7857a84a6" lang="en" xmltv_id="FoxSoul.us@SD">FOX Soul</channel>
   <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us@HD">FOX Sports 1</channel>
   <channel site="i.mjh.nz" site_id="Flash/epg#fox-sports-news" lang="en" xmltv_id="FoxSportsNews.au@SD">Fox Sports News</channel>
@@ -571,6 +576,7 @@
   <channel site="i.mjh.nz" site_id="PlutoTV/us#60807fd5db701400078219c2" lang="en" xmltv_id="InkMaster.us@SD">Ink Master</channel>
   <channel site="i.mjh.nz" site_id="Plex/gb#64305451fc3be5947773c339-66c3d1abd263903b4c6d991e" lang="en" xmltv_id="InsideCrime.us@UK">INSIDE CRIME</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5cf96b8f4f1ca3f0629f4bf1" lang="en" xmltv_id="Investiga.us@US">Investiga</channel>
+  <channel site="musor.tv" site_id="ID" lang="en" xmltv_id="InvestigationDiscovery.hu@SD">ID (HD)</channel>
   <channel site="tataplay.com" site_id="633" lang="hi" xmltv_id="InvestigationDiscovery.in@SD">Investigation Discovery</channel>
   <channel site="chaines-tv.orange.fr" site_id="90516" lang="en" xmltv_id="IqraaAfricaEurope.sa@SD">IQRAA INTERNATIONAL</channel>
   <channel site="tataplay.com" site_id="594" lang="hi" xmltv_id="IshwarBhaktiTV.in@SD">Ishwar TV</channel>
@@ -583,6 +589,7 @@
   <channel site="sky.com" site_id="GB#3354" lang="en" xmltv_id="JewelleryMaker.uk">JewelleryMaker</channel>
   <channel site="tvtv.us" site_id="16604" lang="en" xmltv_id="JewelryTV.us@SD">Jewelry TV</channel>
   <channel site="tvtv.us" site_id="60165" lang="en" xmltv_id="JewishLifeTelevision.us@SD">Jewish Life Television</channel>
+  <channel site="horizon.tv" site_id="10087" lang="en" xmltv_id="JimJam.hu@SD">JimJam</channel>
   <channel site="m.tv.sms.cz" site_id="Jim+Jam" lang="en" xmltv_id="JimJamEurope.uk@SD">Jim Jam</channel>
   <channel site="tataplay.com" site_id="373" lang="hi" xmltv_id="JinvaniChannel.in@SD">Jinvani Channel</channel>
   <channel site="tvtv.us" site_id="115370" lang="en" xmltv_id="JohnnyCarsonTV.us@SD">Johnny Carson</channel>
@@ -631,7 +638,6 @@
   <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us@SD">MLB Strike Zone</channel>
   <channel site="epg.iptvx.one" site_id="m1global" lang="en" xmltv_id="MMATVcom.ru@SD">MMA-TV</channel>
   <channel site="tvtv.us" site_id="51307" lang="en" xmltv_id="MNT.us@WFLD">MNT East</channel>
-  <channel site="i.mjh.nz" site_id="Flash/epg#msnbc" lang="en" xmltv_id="MSNOW.us@SD">MSNBC</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddbb2fdec002c141133" lang="en" xmltv_id="MST3K.us@US">MST3K</channel>
   <channel site="sky.com" site_id="GB#3202" lang="ur" xmltv_id="MTA1World.uk@SD">MTA1 World HD</channel>
   <channel site="sky.com" site_id="DE#8678" lang="en" xmltv_id="MTV.de@SD">MTV</channel>
@@ -657,6 +663,7 @@
   <channel site="tataplay.com" site_id="731" lang="hi" xmltv_id="ManoranjanTV.in@SD">Manoranjan TV</channel>
   <channel site="sky.com" site_id="GB#1069" lang="ur" xmltv_id="MasalaTV.pk@SD">HUM News</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#6850426e53d981d1fdb0d966" lang="en" xmltv_id="Matlock.us@CA">Matlock</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/gb#6850426e53d981d1fdb0d966" lang="en" xmltv_id="Matlock.us@SD">Matlock</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430" lang="en" xmltv_id="MaverickBlackCinema.us@SD">Maverick Black Cinema</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6515fd4f2ff655e77635c628" lang="en" xmltv_id="McLeodsDaughters.us@UK">McLeods Daughters</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@WSBSTV">Mega TV</channel>
@@ -666,6 +673,7 @@
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c4427" lang="en" xmltv_id="MidnightPulp.us@SD">Midnight Pulp</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-63d6fc71a9e88ee909e7ee23" lang="en" xmltv_id="MidsomerMurders.us@SD">Midsomer Murders</channel>
   <channel site="digiturk.com.tr" site_id="291" lang="en" xmltv_id="MinikaGo.tr@SD">MİNİKAGO</channel>
+  <channel site="horizon.tv" site_id="10085" lang="en" xmltv_id="MinimaxCEE.cz@SD">Minimax</channel>
   <channel site="tataplay.com" site_id="591" lang="en" xmltv_id="MirrorNow.in">Mirror Now</channel>
   <channel site="tataplay.com" site_id="591" lang="en" xmltv_id="MirrorNow.in@SD">Mirror Now</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#62ab579258cb950007811aad" lang="en" xmltv_id="MissionImpossible.us@CA">Mission Impossible</channel>
@@ -776,10 +784,12 @@
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f" lang="en" xmltv_id="NewsWorld.hk@FAST">NewsWorld</channel>
   <channel site="tataplay.com" site_id="189" lang="en" xmltv_id="NewsX.in@SD">NewsX</channel>
   <channel site="tataplay.com" site_id="1487" lang="en" xmltv_id="NewsXWorld.in@HD">NewsX World</channel>
+  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335" lang="en" xmltv_id="Newsmax2.us@KPVMLD">Newsmax2</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335" lang="en" xmltv_id="Newsmax2.us@SD">Newsmax2</channel>
   <channel site="freeview.co.uk" site_id="64257#16328" lang="en" xmltv_id="NewsmaxTV.us">Newsmax</channel>
   <channel site="tvtv.us" site_id="58320" lang="en" xmltv_id="NewsmaxTV.us@SD">Newsmax TV</channel>
   <channel site="tvtv.us" site_id="96827" lang="en" xmltv_id="Newsy.us@SD">Newsy</channel>
+  <channel site="horizon.tv" site_id="10089" lang="en" xmltv_id="NickJr.cz@SD">Nick Jr.</channel>
   <channel site="tataplay.com" site_id="118" lang="hi" xmltv_id="NickJr.in@SD">Nick Jr</channel>
   <channel site="sky.com" site_id="IT#424" lang="en" xmltv_id="NickJr.it@SD">Nick Jr</channel>
   <channel site="tvtv.us" site_id="19211" lang="en" xmltv_id="NickJr.us@East">Nick Jr East</channel>
@@ -848,7 +858,6 @@
   <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.86" lang="en" xmltv_id="ParliamentTV.nz@SD">Parliament</channel>
   <channel site="tataplay.com" site_id="420" lang="hi" xmltv_id="PeaceofMindTV.in@SD">Peace of Mind</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f0ff263d71dcb00449ec021" lang="en" xmltv_id="PeopleAreAwesome.us@Poland">People are Awesome</channel>
-  <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f0ff263d71dcb00449ec021" lang="en" xmltv_id="PeopleAreAwesome.us@SD">People are Awesome</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/de#64eddc3485efec00085b0369" lang="en" xmltv_id="PerryMason.us@CA">Perry Mason</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/de#64eddc3485efec00085b0369" lang="en" xmltv_id="PerryMason.us@SD">Perry Mason</channel>
   <channel site="tataplay.com" site_id="624" lang="pa" xmltv_id="Pitaara.in@SD">Pitaara Movies</channel>
@@ -877,6 +886,7 @@
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d134a74ca91eedee1630faa" lang="en" xmltv_id="PlutoTVClassicTV.de@GB">Pluto TV Classic TV</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/ca#68d25c623175a2780d051d3a" lang="en" xmltv_id="PlutoTVClassicTVVariety.us@CA">Pluto TV Classic TV Variety</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/ca#62e92178946c8000079a3160" lang="en" xmltv_id="PlutoTVComedy.us@CA">Pluto TV Comedy</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5a4d3a00ad95e4718ae8d8db" lang="en" xmltv_id="PlutoTVComedy.us@US">Pluto TV Comedy</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/ca#62ea3d24b8e02600071fa296" lang="en" xmltv_id="PlutoTVComedyMovies.us@CA">Pluto TV Comedy Movies</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#603fde9026ecbf0007752c2c" lang="en" xmltv_id="PlutoTVCompetition.us@SD">Pluto TV Competition</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d4ae94ef1a1bbb350ca41bb" lang="en" xmltv_id="PlutoTVConspiracy.de@GB">Pluto TV Conspiracy</channel>
@@ -887,6 +897,7 @@
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5c5c31f2f21b553c1f673fb0" lang="en" xmltv_id="PlutoTVCultFilms.de@GB">Pluto TV Cult Films</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5c665db3e6c01b72c4977bc2" lang="en" xmltv_id="PlutoTVCultFilms.us@US">Pluto TV Cult Films</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/dk#62b30b0060a9ca0007d628b4" lang="en" xmltv_id="PlutoTVDokumentar.se@DK">Pluto TV Dokumentar</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/se#62b1e2498261390007f25c98" lang="en" xmltv_id="PlutoTVDokumentar.se@SE">Pluto TV Dokumentär</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5b4e92e4694c027be6ecece1" lang="en" xmltv_id="PlutoTVDrama.us@US">Pluto TV Drama</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/ca#62bdb0bcd707b9000739d2e5" lang="en" xmltv_id="PlutoTVDramaMovies.us@CA">Pluto TV Drama Movies</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/ca#693adae77f21340ef9746f56" lang="en" xmltv_id="PlutoTVFBI.us@CA">Pluto TV FBI</channel>
@@ -904,6 +915,7 @@
   <channel site="i.mjh.nz" site_id="PlutoTV/no#68c01b9a6bdcf3b9a64febcc" lang="en" xmltv_id="PlutoTVHarlequin.se@NO">Pluto TV Harlequin</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/se#68c01bed508ba507f0d0dd60" lang="en" xmltv_id="PlutoTVHarlequin.se@SE">Pluto TV Harlequin</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5a4d35dfa5c02e717a234f86" lang="en" xmltv_id="PlutoTVHistory.us@US">Pluto TV History</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#69d6c7befde57cd5ba0160c3" lang="en" xmltv_id="PlutoTVHometownDrama.us@SD">Pluto TV Hometown Drama</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/dk#63a1c9790cc44a0007dc8857" lang="en" xmltv_id="PlutoTVHorror.se@DK">Pluto TV Horror</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/no#63a19cb7847a090007f230d7" lang="en" xmltv_id="PlutoTVHorror.se@NO">Pluto TV Horror</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/se#63a19e1b9ab2df0007bef7a7" lang="en" xmltv_id="PlutoTVHorror.se@SE">Pluto TV Horror</channel>
@@ -1017,6 +1029,8 @@
   <channel site="chaines-tv.orange.fr" site_id="791" lang="en" xmltv_id="RaiItalia.it@EuropeAfrica">RAI ITALIA</channel>
   <channel site="i.mjh.nz" site_id="Roku/all#85f1333ff9065bf2923c8fa5eee50036" lang="en" xmltv_id="RainbowRuby.us@SD">Rainbow Ruby</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4edd8b2fdec002c14112f" lang="en" xmltv_id="RakutenViki.us@Poland">Rakuten Viki</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB1900002KF" lang="en" xmltv_id="RealAmericasVoice.us@KPVMLD">Real America's Voice</channel>
+  <channel site="vidio.com" site_id="19538" lang="en" xmltv_id="RealMadridTVEnglish.es@SD">Real Madrid TV</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-63584a0cf8e2be1350f802a4" lang="en" xmltv_id="RealWild.uk@SD">Real Wild</channel>
   <channel site="watch.whaletvplus.com" site_id="979187723418476851" lang="en" xmltv_id="RedBullTV.at@AU">Red Bull TV (AU)</channel>
   <channel site="teleboy.ch" site_id="621" lang="en" xmltv_id="RedBullTV.at@EUMENA">Red Bull TV (engl.)</channel>
@@ -1083,11 +1097,13 @@
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-62ba4aaff663580a7238f327" lang="en" xmltv_id="SonicTV.us@SD">Sonic TV</channel>
   <channel site="tataplay.com" site_id="15" lang="hi" xmltv_id="SonyEntertainmentTelevision.in@HD">SET HD</channel>
   <channel site="tataplay.com" site_id="556" lang="hi" xmltv_id="SonyEntertainmentTelevision.in@SD">SET</channel>
+  <channel site="tataplay.com" site_id="32" lang="hi" xmltv_id="SonyPix.in@HD">SONY PIX HD</channel>
   <channel site="tataplay.com" site_id="559" lang="hi" xmltv_id="SonySAB.in@SD">SONY SAB</channel>
   <channel site="tataplay.com" site_id="150" lang="hi" xmltv_id="SonySportsTen1.in@SD">SONY SPORTS TEN 1</channel>
   <channel site="tataplay.com" site_id="170" lang="hi" xmltv_id="SonySportsTen2.in@SD">SONY SPORTS TEN 2</channel>
   <channel site="tataplay.com" site_id="171" lang="hi" xmltv_id="SonySportsTen3Hindi.in@SD">SONY SPORTS TEN 3 Hindi</channel>
   <channel site="tataplay.com" site_id="56" lang="hi" xmltv_id="SonyWah.in@SD">Sony Wah</channel>
+  <channel site="horizon.tv" site_id="10155" lang="en" xmltv_id="SorozatPlus.hu@SD">Sorozat+</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#64edf6eaa7ec0d000812f58c" lang="en" xmltv_id="SouthPark.us@CA">South Park</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/in#IN3800008CX" lang="hi" xmltv_id="SouthStation.in@HD">South Station</channel>
   <channel site="dstv.com" site_id="zaf#251" lang="en" xmltv_id="SowetoTV.za@SD">Soweto TV</channel>
@@ -1148,6 +1164,7 @@
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8" lang="en" xmltv_id="TGJunior.us@SD">TG Junior</channel>
   <channel site="freeview.co.uk" site_id="64257#15592" lang="en" xmltv_id="TJC.uk@SD">TJC</channel>
+  <channel site="musor.tv" site_id="TLC" lang="en" xmltv_id="TLC.hu@SD">TLC (HD)</channel>
   <channel site="tataplay.com" site_id="480" lang="hi" xmltv_id="TLC.in@HD">TLC HD</channel>
   <channel site="tataplay.com" site_id="135" lang="hi" xmltv_id="TLC.in@SD">TLC</channel>
   <channel site="tvhebdo.com" site_id="lat/TLAT" lang="en" xmltv_id="TLN.ca@KQSL">TLAT</channel>
@@ -1298,6 +1315,9 @@
   <channel site="i.mjh.nz" site_id="Roku/all#0d5283959d3a59bf87411e7077fd9e58" lang="en" xmltv_id="VevoLatino.us@SD">Vevo Latino</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5da0d83f66c9700009b96d0e" lang="en" xmltv_id="VevoRB.us@SD">Vevo R&amp;amp;B</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#61d4c2817a823d00070ba53e" lang="en" xmltv_id="VevoTrueSchoolHipHop.us@SD">Vevo True School Hip-Hop</channel>
+  <channel site="m.tv.sms.cz" site_id="Sony+Max" lang="en" xmltv_id="Viasat2.hu@SD">Sony Max</channel>
+  <channel site="musor.tv" site_id="VIASAT3" lang="en" xmltv_id="Viasat3.hu@SD">Viasat 3 (HD)</channel>
+  <channel site="musor.tv" site_id="VIASAT6" lang="en" xmltv_id="Viasat6.hu@SD">Viasat 6</channel>
   <channel site="epg.iptvx.one" site_id="tv1000-cee" lang="en" xmltv_id="ViasatKino.ua@Balkan">Viasat Kino</channel>
   <channel site="epg.iptvx.one" site_id="vip-comedy-cee" lang="en" xmltv_id="ViasatKinoComedy.ua@SD">Viasat Kino Comedy</channel>
   <channel site="tataplay.com" site_id="1315" lang="hi" xmltv_id="VistaarNews.in@SD">Vistaar News</channel>

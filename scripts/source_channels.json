@@ -5459,7 +5459,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AMCEurope.uk@CzechRepublic\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Czech Republic",
-    "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AMC Europe Czech Republic",
     "tvg_id": "AMCEurope.uk@CzechRepublic"
   },
@@ -5467,7 +5467,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AMCEurope.uk@Hungary\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Hungary",
-    "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/amc_hun/index.m3u8",
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Hungary",
     "tvg_id": "AMCEurope.uk@Hungary"
   },
@@ -5706,18 +5706,18 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnimexHIDIVE.us@SD\" tvg-logo=\"https://i.imgur.com/v0BlxCa.png\" group-title=\"Animation\",Anime x HIDIVE",
-    "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8",
-    "name": "Anime x HIDIVE",
-    "tvg_id": "AnimexHIDIVE.us@SD"
+    "extinf": "#EXTINF:-1 tvg-id=\"AnimaxAsia.sg@Taiwan\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png\" group-title=\"Animation\",Animax Asia Taiwan",
+    "url": "http://125.227.210.55:3056/VideoInput/play.ts",
+    "name": "Animax Asia Taiwan",
+    "tvg_id": "AnimaxAsia.sg@Taiwan"
   },
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"AniplusAsia.sg@SD\" tvg-logo=\"https://i.imgur.com/Im3MePy.png\" group-title=\"Animation\",Aniplus Asia (720p)",
-    "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
-    "name": "Aniplus Asia (720p)",
-    "tvg_id": "AniplusAsia.sg@SD"
+    "extinf": "#EXTINF:-1 tvg-id=\"AnimexHIDIVE.us@SD\" tvg-logo=\"https://i.imgur.com/v0BlxCa.png\" group-title=\"Animation\",Anime x HIDIVE",
+    "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8",
+    "name": "Anime x HIDIVE",
+    "tvg_id": "AnimexHIDIVE.us@SD"
   },
   {
     "lang": "English",
@@ -6099,7 +6099,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AXNBlack.us@CzechRepublic\" tvg-logo=\"https://i.imgur.com/Peo1QiZ.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black (United States) Czech Republic",
-    "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_black/playlist.m3u8",
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Black (United States) Czech Republic",
     "tvg_id": "AXNBlack.us@CzechRepublic"
   },
@@ -6123,7 +6123,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AXNCEE.es@Hungary\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE",
-    "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
+    "url": "http://88.212.15.50/live/axn_hun/index.m3u8",
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE",
     "tvg_id": "AXNCEE.es@Hungary"
   },
@@ -6139,7 +6139,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AXNCrime.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Crime",
-    "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat_film/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Crime",
     "tvg_id": "AXNCrime.us@SD"
   },
@@ -6331,7 +6331,7 @@
     "lang": "English",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"BBCFirst.uk@Turkiye\" tvg-logo=\"https://i.imgur.com/UBoBYUI.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",BBC First Turkiye",
-    "url": "http://88.212.15.17/live/bbc_first/index.m3u8",
+    "url": "http://88.212.7.14/live/bbc_first/index.m3u8",
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",BBC First Turkiye",
     "tvg_id": "BBCFirst.uk@Turkiye"
   },
@@ -9315,7 +9315,7 @@
     "lang": "English",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"CrimePlusInvestigationCEE.uk@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg\" group-title=\"Entertainment\",Crime + Investigation CEE",
-    "url": "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_cai_hevc/playlist.m3u8",
     "name": "Crime + Investigation CEE",
     "tvg_id": "CrimePlusInvestigationCEE.uk@SD"
   },
@@ -10017,14 +10017,6 @@
   },
   {
     "lang": "English",
-    "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"DiscoMix.ro@SD\" tvg-logo=\"https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png\" group-title=\"Music\",Disco Mix (576p)",
-    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
-    "name": "Disco Mix (576p)",
-    "tvg_id": "DiscoMix.ro@SD"
-  },
-  {
-    "lang": "English",
     "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"DiscoveringChina.cn@SD\" tvg-logo=\"https://i.imgur.com/wr2bLaA.png\" group-title=\"Culture;Documentary\",Discovering China (1080p)",
     "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
@@ -10094,6 +10086,14 @@
     "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
     "name": "Disney Junior (United States) (480p)",
     "tvg_id": "DisneyJunior.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"DisneyXD.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png\" group-title=\"Kids\",Disney XD (United States) (1080p)",
+    "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
+    "name": "Disney XD (United States) (1080p)",
+    "tvg_id": "DisneyXD.us@East"
   },
   {
     "lang": "English",
@@ -11291,7 +11291,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"FILMBOXPlusHits.pl@Hungary\" tvg-logo=\"https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Hungary",
-    "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
+    "url": "http://88.212.7.14/live/fb_premium_hungary/index.m3u8",
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Hungary",
     "tvg_id": "FILMBOXPlusHits.pl@Hungary"
   },
@@ -13299,7 +13299,7 @@
     "lang": "English",
     "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"InvestigationDiscovery.hu@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png\" group-title=\"Documentary\",Investigation Discovery (Hungary)",
-    "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/id_hun/index.m3u8",
     "name": "Investigation Discovery (Hungary)",
     "tvg_id": "InvestigationDiscovery.hu@SD"
   },
@@ -13611,7 +13611,7 @@
     "lang": "English",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"JimJam.hu@SD\" tvg-logo=\"https://i.imgur.com/ODhkYyx.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",JimJam",
-    "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
+    "url": "http://88.212.7.14/live/jim_jam_hun/index.m3u8",
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",JimJam",
     "tvg_id": "JimJam.hu@SD"
   },
@@ -15267,7 +15267,7 @@
     "lang": "English",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"MinimaxCEE.cz@SD\" tvg-logo=\"https://i.imgur.com/WWOlm1x.png\" group-title=\"Kids\",Minimax CEE (576p)",
-    "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
     "name": "Minimax CEE (576p)",
     "tvg_id": "MinimaxCEE.cz@SD"
   },
@@ -16115,7 +16115,7 @@
     "lang": "English",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"MusicBoxClassic.cz@SD\" tvg-logo=\"https://musicboxclassic.com/music_box_classic_logo.png\" group-title=\"Music\",Music Box Classic",
-    "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_classic/index.m3u8",
     "name": "Music Box Classic",
     "tvg_id": "MusicBoxClassic.cz@SD"
   },
@@ -16123,7 +16123,7 @@
     "lang": "English",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"MusicBoxDance.cz@SD\" tvg-logo=\"https://musicboxdance.com/music_box_dance_logo.png\" group-title=\"Music\",Music Box Dance",
-    "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_dance/index.m3u8",
     "name": "Music Box Dance",
     "tvg_id": "MusicBoxDance.cz@SD"
   },
@@ -16131,7 +16131,7 @@
     "lang": "English",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"MusicBoxHits.cz@SD\" tvg-logo=\"https://musicboxhits.com/music_box_hits_logo.png\" group-title=\"Music\",Music Box Hits",
-    "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
     "name": "Music Box Hits",
     "tvg_id": "MusicBoxHits.cz@SD"
   },
@@ -16147,7 +16147,7 @@
     "lang": "English",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"MusicBoxSexy.cz@SD\" tvg-logo=\"https://musicboxsexy.com/music_box_sexy_logo.png\" group-title=\"Music\",Music Box Sexy",
-    "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
+    "url": "http://88.212.15.50/live/mb_sexy/index.m3u8",
     "name": "Music Box Sexy",
     "tvg_id": "MusicBoxSexy.cz@SD"
   },
@@ -17059,7 +17059,7 @@
     "lang": "English",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"NickJr.cz@SD\" tvg-logo=\"https://i.imgur.com/KT4tdQs.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Czech Republic)",
-    "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
+    "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
     "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Czech Republic)",
     "tvg_id": "NickJr.cz@SD"
   },
@@ -20147,7 +20147,7 @@
     "lang": "English",
     "category": "Sports",
     "extinf": "#EXTINF:-1 tvg-id=\"RealMadridTVEnglish.es@SD\" tvg-logo=\"https://i.imgur.com/5pMo7dL.png\" group-title=\"Sports\",Real Madrid TV English",
-    "url": "http://88.212.15.17/live/real_madrid_tv/index.m3u8",
+    "url": "http://88.212.15.50/live/real_madrid_tv/index.m3u8",
     "name": "Real Madrid TV English",
     "tvg_id": "RealMadridTVEnglish.es@SD"
   },
@@ -21427,7 +21427,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"SorozatPlus.hu@SD\" tvg-logo=\"https://i.imgur.com/KsxWZIw.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Sorozat+",
-    "url": "http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+    "url": "http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Sorozat+",
     "tvg_id": "SorozatPlus.hu@SD"
   },
@@ -23715,7 +23715,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TLC.hu@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png\" group-title=\"Lifestyle\",TLC (Hungary)",
-    "url": "http://88.212.15.17/live/tlc_hungary/index.m3u8",
+    "url": "http://88.212.7.14/live/tlc_hungary/index.m3u8",
     "name": "TLC (Hungary)",
     "tvg_id": "TLC.hu@SD"
   },
@@ -25251,7 +25251,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Viasat2.hu@SD\" tvg-logo=\"https://i.imgur.com/lEAhKPa.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat2",
-    "url": "http://88.212.15.17/live/viasat2/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat2/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat2",
     "tvg_id": "Viasat2.hu@SD"
   },
@@ -25259,7 +25259,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Viasat3.hu@SD\" tvg-logo=\"https://i.imgur.com/ehx7R3A.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 3",
-    "url": "http://88.212.15.17/live/viasat3/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat3/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 3",
     "tvg_id": "Viasat3.hu@SD"
   },
@@ -25267,7 +25267,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Viasat6.hu@SD\" tvg-logo=\"https://i.imgur.com/kypSbFX.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 6",
-    "url": "http://88.212.15.17/live/viasat6/index.m3u8",
+    "url": "http://88.212.7.14/live/viasat6/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 6",
     "tvg_id": "Viasat6.hu@SD"
   },
