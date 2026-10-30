@@ -612,6 +612,7 @@
   <channel site="tvtv.us" site_id="21210" lang="en" xmltv_id="KNXVTV611.us@HD">ABC (KNXV-DT1) Arizona, PX</channel>
   <channel site="dishtv.in" site_id="143244" lang="hi" xmltv_id="KNewsIndia.in@SD">K News India</channel>
   <channel site="sat.tv" site_id="1#38#دولة الكويت - الثانية" lang="en" xmltv_id="KTV2.kw@SD">دولة الكويت - الثانية</channel>
+  <channel site="sky.com" site_id="GB#3753" lang="hi" xmltv_id="KanshiTV.uk@SD">Kanshi TV</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#60fb040d4795a6000762fe8f" lang="en" xmltv_id="KartoonChannel.us@SD">Kartoon Channel!</channel>
   <channel site="tataplay.com" site_id="838" lang="hi" xmltv_id="KashishNews.in@SD">Kashish News</channel>
   <channel site="tataplay.com" site_id="378" lang="hi" xmltv_id="KaumudyTV.in@SD">Kaumudy TV</channel>
@@ -1201,6 +1202,7 @@
   <channel site="watchyour.tv" site_id="819" lang="en" xmltv_id="TVSDriveInMovie.us@SD">TVS Drive In Movie</channel>
   <channel site="watchyour.tv" site_id="816" lang="en" xmltv_id="TVSHiTops.us@SD">TVS Hi Tops</channel>
   <channel site="watchyour.tv" site_id="823" lang="en" xmltv_id="TVSHollywoodHistory.us@SD">TVS Hollywood History</channel>
+  <channel site="watchyour.tv" site_id="799" lang="en" xmltv_id="TVSMainstreet.us@SD">TVS Main Street</channel>
   <channel site="i.mjh.nz" site_id="Foxtel/epg#TVS" lang="en" xmltv_id="TVSN.au@SD">TVSN</channel>
   <channel site="watchyour.tv" site_id="797" lang="en" xmltv_id="TVSNostalgia.us@SD">TVS Nostalgia</channel>
   <channel site="watchyour.tv" site_id="822" lang="en" xmltv_id="TVSNostalgiaMovies.us@SD">TVS Nostalgia Movie Network</channel>
