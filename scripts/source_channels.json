@@ -233,22 +233,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnmolCinema2.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema 2 (576p)",
-    "url": "https://fta.ektv.in/live/257/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema 2 (576p)",
-    "tvg_id": "AnmolCinema2.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnmolCinema.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema (576p)",
-    "url": "https://fta.ektv.in/live/271/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Anmol Cinema (576p)",
-    "tvg_id": "AnmolCinema.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"AnmolTV.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540\" group-title=\"Entertainment\",Anmol TV (720p)",
     "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
@@ -3209,6 +3193,14 @@
   },
   {
     "lang": "Punjabi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"BTLTV.nl@SD\" tvg-logo=\"https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo\" group-title=\"Religious\",BTL TV (Netherlands) (720p)",
+    "url": "https://livecdn.live247stream.com/btl/tv/playlist.m3u8",
+    "name": "BTL TV (Netherlands) (720p)",
+    "tvg_id": "BTLTV.nl@SD"
+  },
+  {
+    "lang": "Punjabi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"ChardiklaGurbaaniTV.in@SD\" tvg-logo=\"https://i.imgur.com/NXD8CPq.png\" group-title=\"News\",Chardikla Gurbaani TV (1080p)",
     "url": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
@@ -5618,14 +5610,6 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Althingi.is@SD\" tvg-logo=\"https://i.imgur.com/tKNPdea.png\" group-title=\"Legislative\",Althingi (1080p) [Not 24/7]",
-    "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
-    "name": "Althingi (1080p) [Not 24/7]",
-    "tvg_id": "Althingi.is@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"AlwaysFunnyVideos.us@SD\" tvg-logo=\"https://i.imgur.com/vfdN5Xl.png\" group-title=\"Series\",Always Funny Videos (720p)",
     "url": "https://d24l3uppudokci.cloudfront.net/playlist.m3u8",
     "name": "Always Funny Videos (720p)",
@@ -7586,9 +7570,9 @@
   {
     "lang": "English",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"BTLTV.ke@SD\" tvg-logo=\"https://i.imgur.com/4r09woD.jpg\" group-title=\"Religious\",BTL TV (720p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"BTLTV.ke@SD\" tvg-logo=\"https://i.imgur.com/4r09woD.jpg\" group-title=\"Religious\",BTL TV (Kenya) (720p) [Not 24/7]",
     "url": "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8",
-    "name": "BTL TV (720p) [Not 24/7]",
+    "name": "BTL TV (Kenya) (720p) [Not 24/7]",
     "tvg_id": "BTLTV.ke@SD"
   },
   {
@@ -12729,6 +12713,14 @@
   },
   {
     "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBCUGOSports.us@SD\" tvg-logo=\"https://i.imgur.com/TY6sx5W.png\" group-title=\"Sports\",HBCU-GO Sports (720p)",
+    "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8",
+    "name": "HBCU-GO Sports (720p)",
+    "tvg_id": "HBCUGOSports.us@SD"
+  },
+  {
+    "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"HBO.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png\" group-title=\"Movies;Series\",HBO (United States) (720p)",
     "url": "http://tvsen7.aynascope.net/hbo/index.m3u8",
@@ -15374,14 +15366,6 @@
     "url": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
     "name": "MERU TV (720p) [Not 24/7]",
     "tvg_id": "MERUTV.ke@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"MeTV.us@SD\" tvg-logo=\"https://play-lh.googleusercontent.com/PO0C2_-FdOtMVn1rw_Q0_iystfcf6Ab8h1Q37P8fEgSLuAkQJBCI9kax_FIkUgXppgs4\" group-title=\"Entertainment\",MeTV (720p)",
-    "url": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8",
-    "name": "MeTV (720p)",
-    "tvg_id": "MeTV.us@SD"
   },
   {
     "lang": "English",
@@ -20945,14 +20929,6 @@
   },
   {
     "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"SMetroTV.us@HD\" tvg-logo=\"https://i.postimg.cc/1z72qQKC/In-Shot-20260908-064106298.png\" group-title=\"General\",S Metro TV (360p)",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8",
-    "name": "S Metro TV (360p)",
-    "tvg_id": "SMetroTV.us@HD"
-  },
-  {
-    "lang": "English",
     "category": "Sports",
     "extinf": "#EXTINF:-1 tvg-id=\"SSport2.tr@SD\" tvg-logo=\"https://i.imgur.com/2jIItAy.png\" group-title=\"Sports\",S Sport 2",
     "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
@@ -21662,6 +21638,14 @@
     "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260",
     "name": "Sonic TV (720p)",
     "tvg_id": "SonicTV.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"SonyMovies.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png\" group-title=\"Movies\",Sony Movies (United States) (720p)",
+    "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+    "name": "Sony Movies (United States) (720p)",
+    "tvg_id": "SonyMovies.us@SD"
   },
   {
     "lang": "Hindi",
