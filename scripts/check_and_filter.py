@@ -17,6 +17,9 @@ import os
 import re
 import sys
 import concurrent.futures as cf
+import collections
+import threading
+from urllib.parse import urlparse
 
 import requests
 
@@ -40,39 +43,43 @@ CATEGORY_ORDER = [
 ]
 
 TIMEOUT = 12
+RETRY_TIMEOUT = 25
 MAX_WORKERS = 100
+PER_HOST = 4
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36",
 }
 
 
-def is_working(url: str) -> bool:
+def is_working(url: str, timeout: int = TIMEOUT):
     try:
         r = requests.get(
             url,
             headers=HEADERS,
-            timeout=TIMEOUT,
+            timeout=timeout,
             stream=True,
             allow_redirects=True,
         )
         try:
             if r.status_code >= 400:
-                return False
+                return False, f"HTTP {r.status_code}"
             ctype = r.headers.get("Content-Type", "").lower()
             if ".m3u8" not in r.url.lower() and "mpegurl" not in ctype:
-                return True
+                return True, "ok"
             # A 200 HTML error page isn't a playable stream: require a real HLS playlist.
             head = b""
             for chunk in r.iter_content(1024):
                 head += chunk
                 if len(head) >= 2048:
                     break
-            return b"#EXTM3U" in head[:2048]
+            if b"#EXTM3U" in head[:2048]:
+                return True, "ok"
+            return False, "not an HLS playlist"
         finally:
             r.close()
-    except requests.RequestException:
-        return False
+    except requests.RequestException as e:
+        return False, type(e).__name__
 
 
 def main() -> int:
@@ -82,21 +89,42 @@ def main() -> int:
     urls = sorted({e["url"] for e in entries})
     print(f"Checking {len(urls)} unique stream URLs...")
 
-    results = {}
-    with cf.ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
-        futures = {ex.submit(is_working, u): u for u in urls}
-        done = 0
-        for fut in cf.as_completed(futures):
-            u = futures[fut]
-            try:
-                results[u] = fut.result()
-            except Exception:
-                results[u] = False
-            done += 1
-            if done % 25 == 0 or done == len(urls):
-                print(f"  checked {done}/{len(urls)}")
+    # Small IPTV servers drop connections when dozens of checks hit them at once.
+    host_locks = collections.defaultdict(lambda: threading.Semaphore(PER_HOST))
 
-    working = [e for e in entries if results.get(e["url"])]
+    def check(url, timeout):
+        with host_locks[urlparse(url).netloc]:
+            return is_working(url, timeout)
+
+    def run(batch, timeout, workers):
+        out = {}
+        with cf.ThreadPoolExecutor(max_workers=workers) as ex:
+            futures = {ex.submit(check, u, timeout): u for u in batch}
+            for n, fut in enumerate(cf.as_completed(futures), 1):
+                try:
+                    out[futures[fut]] = fut.result()
+                except Exception as e:
+                    out[futures[fut]] = (False, type(e).__name__)
+                if n % 250 == 0 or n == len(batch):
+                    print(f"  checked {n}/{len(batch)}")
+        return out
+
+    results = run(urls, TIMEOUT, MAX_WORKERS)
+    failed = [u for u, (ok, _) in results.items() if not ok]
+    print(f"Retrying {len(failed)} failed URLs with a longer timeout...")
+    retried = run(failed, RETRY_TIMEOUT, 40)
+    results.update(retried)
+    print(f"Recovered on retry: {sum(ok for ok, _ in retried.values())}")
+
+    by_host = collections.defaultdict(list)
+    for u, (ok, reason) in results.items():
+        if not ok:
+            by_host[urlparse(u).netloc].append(reason)
+    print("Hosts with most failures:")
+    for host, reasons in sorted(by_host.items(), key=lambda kv: -len(kv[1]))[:15]:
+        print(f"  {len(reasons):4}  {host}  {collections.Counter(reasons).most_common(2)}")
+
+    working = [e for e in entries if results.get(e["url"], (False, ""))[0]]
     print(f"Working: {len(working)} / {len(entries)}")
 
     previous = 0
