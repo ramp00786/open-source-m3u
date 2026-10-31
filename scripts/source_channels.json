@@ -754,6 +754,14 @@
   {
     "lang": "Hindi",
     "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"DharmSandesh.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Dharm Sandesh (576p)",
+    "url": "https://fta.ektv.in/live/625/master.m3u8",
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Dharm Sandesh (576p)",
+    "tvg_id": "DharmSandesh.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"DheeranTV.in@SD\" tvg-logo=\"https://i.imgur.com/jSedjXf.png\" group-title=\"Religious\",Dheeran TV (576p)",
     "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
     "name": "Dheeran TV (576p)",
@@ -5913,6 +5921,14 @@
   },
   {
     "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"AntenaPlayEvents.ro@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145\" group-title=\"Sports\",AntenaPlay Events (576p) [Not 24/7]",
+    "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
+    "name": "AntenaPlay Events (576p) [Not 24/7]",
+    "tvg_id": "AntenaPlayEvents.ro@SD"
+  },
+  {
+    "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"AnthonyBourdainPartsUnknown.us@UK\" tvg-logo=\"https://i.imgur.com/dAO9llk.png\" group-title=\"Series\",Anthony Bourdain: Parts Unknown",
     "url": "https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8",
@@ -6486,14 +6502,6 @@
     "url": "https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",BBC Earth Romania",
     "tvg_id": "BBCEarth.uk@Romania"
-  },
-  {
-    "lang": "English",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCEarth.uk@RomaniaHD\" tvg-logo=\"https://i.imgur.com/nGSsUd4.png\" group-title=\"Documentary\",BBC Earth Romania HD (576p)",
-    "url": "http://hls127.freeott.top:8080/BG_The_World/video.m3u8",
-    "name": "BBC Earth Romania HD (576p)",
-    "tvg_id": "BBCEarth.uk@RomaniaHD"
   },
   {
     "lang": "English",
@@ -10298,9 +10306,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"DisneyXD.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png\" group-title=\"Kids\",Disney XD (United States) (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"DisneyXD.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png\" group-title=\"Kids\",Disney XD (United States) (720p)",
     "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
-    "name": "Disney XD (United States) (1080p)",
+    "name": "Disney XD (United States) (720p)",
     "tvg_id": "DisneyXD.us@East"
   },
   {
@@ -12043,7 +12051,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Gagsnetwork.us@SD\" tvg-logo=\"https://i.imgur.com/ENj5GIp.png\" group-title=\"Comedy\",Gagsnetwork (576p)",
-    "url": "http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8",
+    "url": "http://stream.mcquack.net/458/index.m3u8",
     "name": "Gagsnetwork (576p)",
     "tvg_id": "Gagsnetwork.us@SD"
   },
@@ -20545,14 +20553,6 @@
   },
   {
     "lang": "English",
-    "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"RetroPlus.cl@SD\" tvg-logo=\"https://i.imgur.com/fkCasXI.png\" group-title=\"Music\",Retro Plus (1080p)",
-    "url": "http://181.119.97.124:8080/play/a00t/index.m3u8",
-    "name": "Retro Plus (1080p)",
-    "tvg_id": "RetroPlus.cl@SD"
-  },
-  {
-    "lang": "English",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"RetroCrush.us@SD\" tvg-logo=\"https://i.imgur.com/M40b4YI.png\" group-title=\"Animation;Classic\",RetroCrush (1080p)",
     "url": "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
@@ -23017,6 +23017,14 @@
   },
   {
     "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Telecyan.us@HD\" tvg-logo=\"https://i.imgur.com/9BnHCj5.png\" group-title=\"Comedy;Series\",Telecyan (720p)",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+    "name": "Telecyan (720p)",
+    "tvg_id": "Telecyan.us@HD"
+  },
+  {
+    "lang": "English",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"TeleHit.mx@SD\" tvg-logo=\"https://i.imgur.com/NVxHxJn.png\" group-title=\"Music\",TeleHit (1080p)",
     "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
@@ -24041,6 +24049,38 @@
   },
   {
     "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"TNTSports1.uk@SD\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true\" group-title=\"Sports\",TNT Sports 1",
+    "url": "http://37.49.224.5:80/stream/1/index.m3u8",
+    "name": "TNT Sports 1",
+    "tvg_id": "TNTSports1.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"TNTSports2.uk@SD\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true\" group-title=\"Sports\",TNT Sports 2",
+    "url": "http://37.49.224.5:80/stream/2/index.m3u8",
+    "name": "TNT Sports 2",
+    "tvg_id": "TNTSports2.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"TNTSports3.uk@SD\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true\" group-title=\"Sports\",TNT Sports 3",
+    "url": "http://37.49.224.5:80/stream/3/index.m3u8",
+    "name": "TNT Sports 3",
+    "tvg_id": "TNTSports3.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"TNTSports4.uk@SD\" tvg-logo=\"https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true\" group-title=\"Sports\",TNT Sports 4",
+    "url": "http://37.49.224.5:80/stream/4/index.m3u8",
+    "name": "TNT Sports 4",
+    "tvg_id": "TNTSports4.uk@SD"
+  },
+  {
+    "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"TODAYAllDay.us@SD\" tvg-logo=\"https://i.imgur.com/LhbQ8Mr.png\" group-title=\"News\",TODAY All Day (1080p)",
     "url": "https://d37kx062o4ii0p.cloudfront.net/master.m3u8",
@@ -24410,9 +24450,9 @@
   {
     "lang": "English",
     "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"TRTBelgesel.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png\" group-title=\"Documentary\",TRT Belgesel (1080p)",
-    "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
-    "name": "TRT Belgesel (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TRTBelgesel.tr@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png\" group-title=\"Documentary\",TRT Belgesel (720p)",
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "name": "TRT Belgesel (720p)",
     "tvg_id": "TRTBelgesel.tr@SD"
   },
   {
@@ -30614,6 +30654,134 @@
     "url": "https://fta.ektv.in/live/710/master.m3u8",
     "name": "Hornbill TV (576p)",
     "tvg_id": "HornbillTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"EpicMusic.in@SD\",Epic Music (576p)",
+    "url": "https://fta.ektv.in/live/469/master.m3u8",
+    "name": "Epic Music (576p)",
+    "tvg_id": "EpicMusic.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"EpicBharat.in@SD\",Epic Bharat (576p)",
+    "url": "https://fta.ektv.in/live/471/master.m3u8",
+    "name": "Epic Bharat (576p)",
+    "tvg_id": "EpicBharat.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesAction.in@SD\",Goldmines Action (576p)",
+    "url": "https://fta.ektv.in/live/584/master.m3u8",
+    "name": "Goldmines Action (576p)",
+    "tvg_id": "GoldminesAction.in@SD"
+  },
+  {
+    "lang": "Urdu",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"MunsifTV.in@SD\",Munsif TV (576p)",
+    "url": "https://fta.ektv.in/live/598/master.m3u8",
+    "name": "Munsif TV (576p)",
+    "tvg_id": "MunsifTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"HareKrsnaTV.in@SD\",Hare Krsna TV (576p)",
+    "url": "https://fta.ektv.in/live/617/master.m3u8",
+    "name": "Hare Krsna TV (576p)",
+    "tvg_id": "HareKrsnaTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"Sadhna.in@SD\",Sadhna (576p)",
+    "url": "https://fta.ektv.in/live/620/master.m3u8",
+    "name": "Sadhna (576p)",
+    "tvg_id": "Sadhna.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"SVBC4.in@SD\",SVBC 4 (576p)",
+    "url": "https://fta.ektv.in/live/621/master.m3u8",
+    "name": "SVBC 4 (576p)",
+    "tvg_id": "SVBC4.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"PrarthanaBhawanTV.in@SD\",Prarthana Bhawan TV (576p)",
+    "url": "https://fta.ektv.in/live/623/master.m3u8",
+    "name": "Prarthana Bhawan TV (576p)",
+    "tvg_id": "PrarthanaBhawanTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"ShubhTV.in@SD\",Shubh TV (576p)",
+    "url": "https://fta.ektv.in/live/626/master.m3u8",
+    "name": "Shubh TV (576p)",
+    "tvg_id": "ShubhTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"ShubhsandeshTV.in@SD\",Shubhsandesh TV (576p)",
+    "url": "https://fta.ektv.in/live/627/master.m3u8",
+    "name": "Shubhsandesh TV (576p)",
+    "tvg_id": "ShubhsandeshTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"Vedic.in@SD\",Vedic (576p)",
+    "url": "https://fta.ektv.in/live/628/master.m3u8",
+    "name": "Vedic (576p)",
+    "tvg_id": "Vedic.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"SarvDharmSangam.in@SD\",Sarv Dharm Sangam (576p)",
+    "url": "https://fta.ektv.in/live/630/master.m3u8",
+    "name": "Sarv Dharm Sangam (576p)",
+    "tvg_id": "SarvDharmSangam.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AwakeningTV.in@SD\",Awakening TV (576p)",
+    "url": "https://fta.ektv.in/live/633/master.m3u8",
+    "name": "Awakening TV (576p)",
+    "tvg_id": "AwakeningTV.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"HopeChannelIndia.in@SD\",Hope Channel India (576p)",
+    "url": "https://fta.ektv.in/live/634/master.m3u8",
+    "name": "Hope Channel India (576p)",
+    "tvg_id": "HopeChannelIndia.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"FatehTV.in@SD\",Fateh TV (576p)",
+    "url": "https://fta.ektv.in/live/635/master.m3u8",
+    "name": "Fateh TV (576p)",
+    "tvg_id": "FatehTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"TehzeebTV.in@SD\",Tehzeeb TV (576p)",
+    "url": "https://fta.ektv.in/live/636/master.m3u8",
+    "name": "Tehzeeb TV (576p)",
+    "tvg_id": "TehzeebTV.in@SD"
   },
   {
     "lang": "Urdu",
