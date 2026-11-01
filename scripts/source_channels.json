@@ -1185,14 +1185,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"HungamaTV.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png\" group-title=\"Kids\",Hungama TV (576p)",
-    "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
-    "name": "Hungama TV (576p)",
-    "tvg_id": "HungamaTV.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"HyderTV.ca@SD\" tvg-logo=\"https://i.imgur.com/reHjjRZ.png\" group-title=\"Culture\",Hyder TV (720p)",
     "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
@@ -2345,14 +2337,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyYay.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540\" group-title=\"Animation;Kids\",Sony Yay! (576p)",
-    "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
-    "name": "Sony Yay! (576p)",
-    "tvg_id": "SonyYay.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"SouthStation.in@HD\" tvg-logo=\"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png\" group-title=\"Movies\",South Station (1080p)",
     "url": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8",
@@ -2470,14 +2454,6 @@
     "url": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8",
     "name": "Sudarshan News (1080p)",
     "tvg_id": "SudarshanNews.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"SuperHungama.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png\" group-title=\"Animation;Kids\",Super Hungama (576p)",
-    "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-    "name": "Super Hungama (576p)",
-    "tvg_id": "SuperHungama.in@SD"
   },
   {
     "lang": "Hindi",
@@ -5886,6 +5862,14 @@
     "url": "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8",
     "name": "ANIMAL KINGDOM (720p)",
     "tvg_id": "ANIMALKINGDOM.de@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Documentary",
+    "extinf": "#EXTINF:-1 tvg-id=\"AnimalPlanet.uk@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png\" group-title=\"Documentary\",Animal Planet (United Kingdom)",
+    "url": "http://37.49.224.5/stream/10/index.m3u8",
+    "name": "Animal Planet (United Kingdom)",
+    "tvg_id": "AnimalPlanet.uk@SD"
   },
   {
     "lang": "English",
@@ -10250,10 +10234,34 @@
   {
     "lang": "English",
     "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryChannel.uk@UK\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2401.png\" group-title=\"Entertainment\",Discovery Channel (United Kingdom)",
+    "url": "http://37.49.224.5/stream/11/index.m3u8",
+    "name": "Discovery Channel (United Kingdom)",
+    "tvg_id": "DiscoveryChannel.uk@UK"
+  },
+  {
+    "lang": "English",
+    "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryChannelLatinAmerica.us@Panregional\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png\" group-title=\"Entertainment\",Discovery Channel Latin America (1080p)",
     "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
     "name": "Discovery Channel Latin America (1080p)",
     "tvg_id": "DiscoveryChannelLatinAmerica.us@Panregional"
+  },
+  {
+    "lang": "English",
+    "category": "Documentary",
+    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryHistory.uk@SD\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png\" group-title=\"Documentary\",Discovery History",
+    "url": "http://37.49.224.5/stream/12/index.m3u8",
+    "name": "Discovery History",
+    "tvg_id": "DiscoveryHistory.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryScienceEurope.uk@UK\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png\" group-title=\"Science\",Discovery Science Europe UK",
+    "url": "http://37.49.224.5/stream/9/index.m3u8",
+    "name": "Discovery Science Europe UK",
+    "tvg_id": "DiscoveryScienceEurope.uk@UK"
   },
   {
     "lang": "English",
@@ -10262,6 +10270,14 @@
     "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8",
     "name": "Discovery Turbo (India) (720p)",
     "tvg_id": "DiscoveryTurbo.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryTurbo.uk@SD\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2409.png\" group-title=\"Auto\",Discovery Turbo (United Kingdom)",
+    "url": "http://37.49.224.5/stream/13/index.m3u8",
+    "name": "Discovery Turbo (United Kingdom)",
+    "tvg_id": "DiscoveryTurbo.uk@SD"
   },
   {
     "lang": "English",
@@ -12738,10 +12754,26 @@
   {
     "lang": "English",
     "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBOAsia.sg@HD\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png\" group-title=\"Movies\",HBO Asia HD (1080p)",
+    "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+    "name": "HBO Asia HD (1080p)",
+    "tvg_id": "HBOAsia.sg@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"HBOAsia.sg@Taiwan\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png\" group-title=\"Movies\",HBO Asia Taiwan (1080p)",
     "url": "http://125.227.210.55:1003/VideoInput/play.ts",
     "name": "HBO Asia Taiwan (1080p)",
     "tvg_id": "HBOAsia.sg@Taiwan"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBOFamilyAsia.sg@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/960px-HBO_Family_Asia_logo.svg.png\" group-title=\"Family\",HBO Family Asia HD (1080p)",
+    "url": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8",
+    "name": "HBO Family Asia HD (1080p)",
+    "tvg_id": "HBOFamilyAsia.sg@HD"
   },
   {
     "lang": "English",
@@ -12750,6 +12782,22 @@
     "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
     "name": "HBO Hits (720p)",
     "tvg_id": "HBOHits.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBOHitsAsia.sg@HD\" tvg-logo=\"https://i.imgur.com/CTjmocc.png\" group-title=\"Movies\",HBO Hits Asia HD (1080p)",
+    "url": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8",
+    "name": "HBO Hits Asia HD (1080p)",
+    "tvg_id": "HBOHitsAsia.sg@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBOSignatureAsia.sg@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png\" group-title=\"Movies\",HBO Signature Asia HD (1080p)",
+    "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
+    "name": "HBO Signature Asia HD (1080p)",
+    "tvg_id": "HBOSignatureAsia.sg@HD"
   },
   {
     "lang": "English",
@@ -17354,10 +17402,26 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"NickComedyCentralPlus1.de@SD\" tvg-logo=\"https://i.imgur.com/08ZUI9k.png\" group-title=\"Comedy;Kids\",Nick/Comedy Central +1",
+    "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+    "name": "Nick/Comedy Central +1",
+    "tvg_id": "NickComedyCentralPlus1.de@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"Nickelodeon.de@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" group-title=\"Kids\",Nickelodeon (Germany)",
     "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
     "name": "Nickelodeon (Germany)",
     "tvg_id": "Nickelodeon.de@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"Nickelodeon.nl@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" group-title=\"Kids\",Nickelodeon (Netherlands)",
+    "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
+    "name": "Nickelodeon (Netherlands)",
+    "tvg_id": "Nickelodeon.nl@SD"
   },
   {
     "lang": "English",
@@ -20442,6 +20506,14 @@
   {
     "lang": "English",
     "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Really.uk@SD\" tvg-logo=\"https://i.imgur.com/lY5sFgo.png\" group-title=\"Undefined\",Really",
+    "url": "http://37.49.224.5/stream/36/index.m3u8",
+    "name": "Really",
+    "tvg_id": "Really.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"RecipeTV.us@SD\" tvg-logo=\"https://i.imgur.com/HcL4a8z.png\" group-title=\"Undefined\",Recipe TV (720p)",
     "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
     "name": "Recipe TV (720p)",
@@ -21502,6 +21574,70 @@
     "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
     "name": "Sky Racing 1 (720p)",
     "tvg_id": "SkyRacing1.au@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport1.nz@SD\" tvg-logo=\"https://i.imgur.com/ThJHEuN.png\" group-title=\"Sports\",Sky Sport 1",
+    "url": "http://37.49.224.5/stream/44/index.m3u8",
+    "name": "Sky Sport 1",
+    "tvg_id": "SkySport1.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport2.nz@SD\" tvg-logo=\"https://i.imgur.com/cu8yB69.png\" group-title=\"Sports\",Sky Sport 2",
+    "url": "http://37.49.224.5/stream/45/index.m3u8",
+    "name": "Sky Sport 2",
+    "tvg_id": "SkySport2.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport3.nz@SD\" tvg-logo=\"https://i.imgur.com/XYp3Ua3.png\" group-title=\"Sports\",Sky Sport 3",
+    "url": "http://37.49.224.5/stream/46/index.m3u8",
+    "name": "Sky Sport 3",
+    "tvg_id": "SkySport3.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport4.nz@SD\" tvg-logo=\"https://i.imgur.com/KUXs7SQ.png\" group-title=\"Sports\",Sky Sport 4",
+    "url": "http://37.49.224.5/stream/51/index.m3u8",
+    "name": "Sky Sport 4",
+    "tvg_id": "SkySport4.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport7.nz@SD\" tvg-logo=\"https://i.imgur.com/iuTNWh4.png\" group-title=\"Sports\",Sky Sport 7",
+    "url": "http://37.49.224.5/stream/50/index.m3u8",
+    "name": "Sky Sport 7",
+    "tvg_id": "SkySport7.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport8.nz@SD\" tvg-logo=\"https://i.imgur.com/8YjqlRv.png\" group-title=\"Sports\",Sky Sport 8",
+    "url": "http://37.49.224.5/stream/70/index.m3u8",
+    "name": "Sky Sport 8",
+    "tvg_id": "SkySport8.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySport9.nz@SD\" tvg-logo=\"https://i.imgur.com/9fLRHSg.png\" group-title=\"Sports\",Sky Sport 9",
+    "url": "http://37.49.224.5/stream/52/index.m3u8",
+    "name": "Sky Sport 9",
+    "tvg_id": "SkySport9.nz@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkySportSelect.nz@SD\" tvg-logo=\"https://i.imgur.com/6x2anTA.png\" group-title=\"Sports\",Sky Sport Select",
+    "url": "http://37.49.224.5/stream/53/index.m3u8",
+    "name": "Sky Sport Select",
+    "tvg_id": "SkySportSelect.nz@SD"
   },
   {
     "lang": "English",
