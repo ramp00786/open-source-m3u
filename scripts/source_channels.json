@@ -338,7 +338,7 @@
   {
     "lang": "Hindi",
     "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"B4UMusic.in@India\" tvg-logo=\"https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540\" group-title=\"Music\",B4U Music (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"B4UMusic.in@India\" tvg-logo=\"https://i.imgur.com/hytapio.png\" group-title=\"Music\",B4U Music (1080p)",
     "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
     "name": "B4U Music (1080p)",
     "tvg_id": "B4UMusic.in@India"
@@ -2761,6 +2761,14 @@
   },
   {
     "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"VisionBeats.in@SD\" tvg-logo=\"https://i.imgur.com/xx5RQdi.png\" group-title=\"Music\",Vision Beats (720p)",
+    "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+    "name": "Vision Beats (720p)",
+    "tvg_id": "VisionBeats.in@SD"
+  },
+  {
+    "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"VistaarNews.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISTAAR_NEWS/images/LOGO_HD/image.png\" group-title=\"News\",Vistaar News (1080p)",
     "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
@@ -3654,6 +3662,14 @@
     "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
     "name": "Tabbar Hits (1080p)",
     "tvg_id": "TabbarHits.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"WahPunjabi.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png\" group-title=\"Music\",Wah Punjabi (720p)",
+    "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "name": "Wah Punjabi (720p)",
+    "tvg_id": "WahPunjabi.in@SD"
   },
   {
     "lang": "Punjabi",
@@ -7946,6 +7962,14 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"CartoonitoCEE.uk@SD\" tvg-logo=\"https://i.imgur.com/9MrzLb1.png\" group-title=\"Kids\",Cartoonito CEE",
+    "url": "http://193.33.39.108:9019/play/a00t",
+    "name": "Cartoonito CEE",
+    "tvg_id": "CartoonitoCEE.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"CartoonitoCEE.uk@Poland\" tvg-logo=\"https://i.imgur.com/9MrzLb1.png\" group-title=\"Kids\",Cartoonito CEE Poland (1080p)",
     "url": "http://92.114.85.87:8007/play/a008",
     "name": "Cartoonito CEE Poland (1080p)",
@@ -8683,7 +8707,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"CineSony.us@SD\" tvg-logo=\"https://i.imgur.com/bZWoDTg.png\" group-title=\"Movies\",Cine Sony (720p)",
-    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+    "url": "http://186.148.196.82:8001/play/a0a4",
     "name": "Cine Sony (720p)",
     "tvg_id": "CineSony.us@SD"
   },
@@ -8694,6 +8718,14 @@
     "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
     "name": "CinemaWorld (720p)",
     "tvg_id": "CinemaWorld.my@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"Cinemax2CentralEurope.hu@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png\" group-title=\"Movies\",Cinemax 2 Central Europe",
+    "url": "http://193.33.39.108:9009/play/a024",
+    "name": "Cinemax 2 Central Europe",
+    "tvg_id": "Cinemax2CentralEurope.hu@SD"
   },
   {
     "lang": "English",
@@ -8710,6 +8742,14 @@
     "url": "http://125.227.210.55:1001/VideoInput/play.ts",
     "name": "Cinemax Asia HD (1080p)",
     "tvg_id": "CinemaxAsia.sg@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"CinemaxCentralEurope.hu@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png\" group-title=\"Movies\",Cinemax Central Europe",
+    "url": "http://193.33.39.108:9023/play/a01b",
+    "name": "Cinemax Central Europe",
+    "tvg_id": "CinemaxCentralEurope.hu@SD"
   },
   {
     "lang": "English",
@@ -9282,9 +9322,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"ComedyTV.us@SD\" tvg-logo=\"https://i.imgur.com/KLfXnba.png\" group-title=\"Comedy\",Comedy TV (United States) (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"ComedyTV.us@SD\" tvg-logo=\"https://i.imgur.com/KLfXnba.png\" group-title=\"Comedy\",Comedy.TV (720p)",
     "url": "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8",
-    "name": "Comedy TV (United States) (720p)",
+    "name": "Comedy.TV (720p)",
     "tvg_id": "ComedyTV.us@SD"
   },
   {
@@ -10934,6 +10974,14 @@
     "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
     "name": "ERi-TV 1 (576p)",
     "tvg_id": "ERiTV1.er@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"ESTV.us@SD\" tvg-logo=\"https://i.imgur.com/ihY01ao.png\" group-title=\"Entertainment\",ES.TV (720p)",
+    "url": "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8",
+    "name": "ES.TV (720p)",
+    "tvg_id": "ESTV.us@SD"
   },
   {
     "lang": "English",
@@ -12754,7 +12802,7 @@
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"HBOAsia.sg@HD\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png\" group-title=\"Movies\",HBO Asia HD (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBOAsia.sg@HD\" tvg-logo=\"https://i.imgur.com/cE2gBt6.png\" group-title=\"Movies\",HBO Asia HD (1080p)",
     "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
     "name": "HBO Asia HD (1080p)",
     "tvg_id": "HBOAsia.sg@HD"
@@ -12762,7 +12810,7 @@
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"HBOAsia.sg@Taiwan\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png\" group-title=\"Movies\",HBO Asia Taiwan (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"HBOAsia.sg@Taiwan\" tvg-logo=\"https://i.imgur.com/cE2gBt6.png\" group-title=\"Movies\",HBO Asia Taiwan (1080p)",
     "url": "http://125.227.210.55:1003/VideoInput/play.ts",
     "name": "HBO Asia Taiwan (1080p)",
     "tvg_id": "HBOAsia.sg@Taiwan"
@@ -14010,9 +14058,9 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"JusticeCentralTV.us@SD\" tvg-logo=\"https://i.imgur.com/peuHszg.png\" group-title=\"Entertainment\",Justice Central TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"JusticeCentralTV.us@SD\" tvg-logo=\"https://i.imgur.com/peuHszg.png\" group-title=\"Entertainment\",Justice Central.TV (720p)",
     "url": "https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8",
-    "name": "Justice Central TV (720p)",
+    "name": "Justice Central.TV (720p)",
     "tvg_id": "JusticeCentralTV.us@SD"
   },
   {
@@ -20514,9 +20562,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"RecipeTV.us@SD\" tvg-logo=\"https://i.imgur.com/HcL4a8z.png\" group-title=\"Undefined\",Recipe TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"RecipeTV.us@SD\" tvg-logo=\"https://i.imgur.com/HcL4a8z.png\" group-title=\"Cooking\",Recipe.TV (720p)",
     "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
-    "name": "Recipe TV (720p)",
+    "name": "Recipe.TV (720p)",
     "tvg_id": "RecipeTV.us@SD"
   },
   {
@@ -20814,6 +20862,14 @@
     "url": "https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8",
     "name": "Rocky Hill Channel 16 (480p)",
     "tvg_id": "RockyHillChannel16.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"RomanticFM.ro@SD\" tvg-logo=\"https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png\" group-title=\"Music\",Romantic FM (576i)",
+    "url": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8",
+    "name": "Romantic FM (576i)",
+    "tvg_id": "RomanticFM.ro@SD"
   },
   {
     "lang": "English",
