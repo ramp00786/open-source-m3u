@@ -8739,9 +8739,17 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"CinemaxAsia.sg@HD\" tvg-logo=\"https://i.imgur.com/c8crJfA.png\" group-title=\"Movies\",Cinemax Asia HD (1080p)",
-    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "url": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8",
     "name": "Cinemax Asia HD (1080p)",
     "tvg_id": "CinemaxAsia.sg@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"CinemaxAsia.sg@Taiwan\" tvg-logo=\"https://i.imgur.com/c8crJfA.png\" group-title=\"Movies\",Cinemax Asia Taiwan (1080p)",
+    "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+    "name": "Cinemax Asia Taiwan (1080p)",
+    "tvg_id": "CinemaxAsia.sg@Taiwan"
   },
   {
     "lang": "English",
@@ -10334,6 +10342,14 @@
     "url": "http://87.120.179.187:8000/play/a010",
     "name": "Disney Channel (Bulgaria) (576i)",
     "tvg_id": "DisneyChannel.bg@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"DisneyChannel.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png\" group-title=\"Kids\",Disney Channel (United States) (720p)",
+    "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
+    "name": "Disney Channel (United States) (720p)",
+    "tvg_id": "DisneyChannel.us@East"
   },
   {
     "lang": "English",
@@ -24330,10 +24346,10 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Tooncast.us@SD\" tvg-logo=\"https://i.imgur.com/3yXRbQy.png\" group-title=\"Animation;Kids\",Tooncast (1080p)",
-    "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+    "extinf": "#EXTINF:-1 tvg-id=\"Tooncast.us@Panregional\" tvg-logo=\"https://i.imgur.com/3yXRbQy.png\" group-title=\"Animation;Kids\",Tooncast (1080p)",
+    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8",
     "name": "Tooncast (1080p)",
-    "tvg_id": "Tooncast.us@SD"
+    "tvg_id": "Tooncast.us@Panregional"
   },
   {
     "lang": "English",
@@ -30974,6 +30990,14 @@
     "url": "https://fta.ektv.in/live/636/master.m3u8",
     "name": "Tehzeeb TV (576p)",
     "tvg_id": "TehzeebTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@Czechia\",Travelxp Czechia",
+    "url": "http://88.212.7.14/live/travel_xp/index.m3u8",
+    "name": "Travelxp Czechia",
+    "tvg_id": "Travelxp.in@Czechia"
   },
   {
     "lang": "Urdu",

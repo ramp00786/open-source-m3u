@@ -142,6 +142,7 @@
   <channel site="tataplay.com" site_id="188" lang="en" xmltv_id="BBCNews.uk@SouthAsia">BBC News</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#60f85644a9493e0007a1f035" lang="en" xmltv_id="BETClassicsPlutoTV.us@SD">BET Classics</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5ca670f6593a5d78f0e85aed" lang="en" xmltv_id="BETPlutoTV.us@US">BET Pluto TV</channel>
+  <channel site="epg.iptvx.one" site_id="btv" lang="en" xmltv_id="BTV.ug@SD">BTV</channel>
   <channel site="mi.tv" site_id="pe#byutv" lang="en" xmltv_id="BYUTV.us@SD">BYUtv</channel>
   <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="BabyFirst.us@US">BabyFirst TV</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137" lang="en" xmltv_id="BabySharkTV.us@SD">BABY SHARK TV</channel>
@@ -265,6 +266,7 @@
   <channel site="tvtv.us" site_id="12508" lang="en" xmltv_id="Cinemax.us@West">Cinemax West</channel>
   <channel site="horizon.tv" site_id="10124" lang="en" xmltv_id="Cinemax2CentralEurope.hu@SD">Cinemax 2 HD</channel>
   <channel site="starhubtvplus.com" site_id="3c85588c-262b-43de-b9c3-0f0fd51466d9" lang="en" xmltv_id="CinemaxAsia.sg@HD">Cinemax HD</channel>
+  <channel site="nowplayer.now.com" site_id="113" lang="en" xmltv_id="CinemaxAsia.sg@Taiwan">CINEMAX</channel>
   <channel site="horizon.tv" site_id="10123" lang="en" xmltv_id="CinemaxCentralEurope.hu@SD">Cinemax HD</channel>
   <channel site="tvtv.us" site_id="113430" lang="en" xmltv_id="Circle.us@SD">Circle</channel>
   <channel site="tvtv.us" site_id="16325" lang="en" xmltv_id="ClassicArtsShowcase.us@SD">Classic Arts Showcase</channel>
@@ -372,6 +374,7 @@
   <channel site="tataplay.com" site_id="113" lang="hi" xmltv_id="DiscoveryScience.in@SD">Discovery Science</channel>
   <channel site="tataplay.com" site_id="228" lang="en" xmltv_id="DiscoveryTurbo.in@SD">Discovery Turbo</channel>
   <channel site="tv.dir.bg" site_id="70" lang="en" xmltv_id="DisneyChannel.bg@SD">Disney Channel</channel>
+  <channel site="tvtv.us" site_id="10171" lang="en" xmltv_id="DisneyChannel.us@East">Disney Channel East</channel>
   <channel site="tvtv.us" site_id="74796" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior East</channel>
   <channel site="tvtv.us" site_id="18279" lang="en" xmltv_id="DisneyXD.us@East">Disney XD East</channel>
   <channel site="gatotv.com" site_id="distrito_comedia" lang="en" xmltv_id="DistritoComedia.mx@SD">Canal Distrito Comedia</channel>
@@ -388,7 +391,6 @@
   <channel site="watch.whaletvplus.com" site_id="925710235225102102" lang="en" xmltv_id="DroneTV.us@SD">Drone TV</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ30000039U" lang="en" xmltv_id="DryBarComedyPlus.us">Dry Bar Comedy</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ30000039U" lang="en" xmltv_id="DryBarComedyPlus.us@SD">Dry Bar Comedy</channel>
-  <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-67291bde7f55143b23b66c4f" lang="en" xmltv_id="DuckDynasty.us@UK">Duck Dynasty</channel>
   <channel site="distro.tv" site_id="42162" lang="en" xmltv_id="DungeonTV.us@SD">Dungeon TV</channel>
   <channel site="tvtv.us" site_id="10989" lang="en" xmltv_id="E.us@East">E! East</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_E24" lang="hi" xmltv_id="E24.in@SD">E24</channel>
@@ -848,6 +850,7 @@
   <channel site="ayn.om" site_id="159/قناة-عمان-الرياضية" lang="en" xmltv_id="OmanSportsTV.om@SD">قناة عمان الرياضية</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#615af74dfe3d8e0007524511" lang="en" xmltv_id="OnTheCase.us@UK">On The Case</channel>
   <channel site="tvtv.us" site_id="82542" lang="en" xmltv_id="OneAmericaNewsNetwork.us@SD">One America News Network</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_AMV_NETWORK" lang="hi" xmltv_id="OnlyBharat.in@SD">ONLY BHARAT</channel>
   <channel site="mncvision.id" site_id="460" lang="en" xmltv_id="OutdoorChannel.us@HD">Outdoor channel HD</channel>
   <channel site="tvtv.us" site_id="14776" lang="en" xmltv_id="OutdoorChannel.us@SD">Outdoor Channel</channel>
   <channel site="tvtv.us" site_id="14776" lang="en" xmltv_id="OutdoorChannel.us@Vietnam">Outdoor Channel</channel>
@@ -1142,7 +1145,6 @@
   <channel site="tvtv.us" site_id="104950" lang="en" xmltv_id="Stadium.us@SD">Stadium</channel>
   <channel site="tv.dir.bg" site_id="69" lang="en" xmltv_id="StarChannel.bg@SD">STAR Channel (f.k.a. FOX)</channel>
   <channel site="tataplay.com" site_id="469" lang="mr" xmltv_id="StarPravah.in@HD">Star Pravah HD</channel>
-  <channel site="tataplay.com" site_id="463" lang="en" xmltv_id="StarSportsSelect2.in@HD">Star Sports Select 2 HD</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5efbd39f8c4ce900075d7698" lang="en" xmltv_id="StarTrek.us@US">Star Trek</channel>
   <channel site="tataplay.com" site_id="527" lang="en" xmltv_id="StarVijay.in@UK">STAR Vijay</channel>
   <channel site="tvtv.us" site_id="12741" lang="en" xmltv_id="Starz.us@West">Starz West</channel>
@@ -1179,6 +1181,7 @@
   <channel site="tataplay.com" site_id="1274" lang="hi" xmltv_id="SwadeshNews.in@SD">Swadesh News</channel>
   <channel site="tataplay.com" site_id="577" lang="hi" xmltv_id="SwarajExpressSMBC.in@SD">Swaraj Express SMBC</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902" lang="en" xmltv_id="SwerveSports.us@SD">Swerve Combat</channel>
+  <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="en" xmltv_id="TBNArmenia.us@SD">TBN Armenia</channel>
   <channel site="sky.com" site_id="GB#3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487" lang="en" xmltv_id="TED.us@SD">TED</channel>
   <channel site="sky.com" site_id="DE#51" lang="en" xmltv_id="TELE5.de@SD">TELE 5</channel>
@@ -1294,6 +1297,7 @@
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5eea605574085f0040ddc794" lang="en" xmltv_id="ToonGoggles.us@SD">Toon Goggles</channel>
   <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en" xmltv_id="ToonamiAftermath.us@East">Toonami Aftermath East</channel>
   <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST+180" lang="en" xmltv_id="ToonamiAftermath.us@West">Toonami Aftermath West</channel>
+  <channel site="cableplus.com.uy" site_id="880" lang="en" xmltv_id="Tooncast.us@Panregional">TOONCAST</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6308f121ac9983739c8a29bd" lang="en" xmltv_id="TopGear.uk@SD">Top Gear</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/fr#5f8ecc1b37867f00071469e9" lang="en" xmltv_id="TortuesNinjaTV.us@CA">Tortues Ninja TV</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5dae084727c8af0009fe40a4" lang="en" xmltv_id="Tosh0.us@SD">Tosh.0</channel>
@@ -1313,6 +1317,7 @@
   <channel site="watch.whaletvplus.com" site_id="999420644834214632" lang="en" xmltv_id="Trailers.es@UK">Trailers (EN)</channel>
   <channel site="programtv.onet.pl" site_id="travel-channel-201" lang="en" xmltv_id="TravelChannel.pl@SD">Travel Channel</channel>
   <channel site="tv.mail.ru" site_id="1521" lang="en" xmltv_id="TravelPlusAdventure.ru@HD">Travel+Adventure HD</channel>
+  <channel site="tataplay.com" site_id="55" lang="hi" xmltv_id="Travelxp.in@Czechia">Travelxp</channel>
   <channel site="tataplay.com" site_id="484" lang="hi" xmltv_id="Travelxp.in@HD">Travelxp HD</channel>
   <channel site="tataplay.com" site_id="55" lang="hi" xmltv_id="Travelxp.in@Russia">Travelxp</channel>
   <channel site="sky.com" site_id="GB#1142" lang="en" xmltv_id="TrueCrime.uk@SD">TRUE CRIME</channel>
