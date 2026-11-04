@@ -1841,14 +1841,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"NHBollyGold.in@HD\" tvg-logo=\"https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png\" group-title=\"Movies\",NH BollyGold (1080p)",
-    "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-    "name": "NH BollyGold (1080p)",
-    "tvg_id": "NHBollyGold.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"NHBollyRaga.in@HD\" tvg-logo=\"https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png\" group-title=\"Music\",NH BollyRaga (1080p)",
     "url": "https://jmp2.uk/stvp-IN460001373",
@@ -2366,14 +2358,6 @@
     "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
     "name": "Star Gold HD (1080p)",
     "tvg_id": "StarGold.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarMovies.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png\" group-title=\"Movies\",Star Movies (India) HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
-    "name": "Star Movies (India) HD (1080p)",
-    "tvg_id": "StarMovies.in@HD"
   },
   {
     "lang": "Hindi",
@@ -5918,14 +5902,6 @@
     "url": "https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8",
     "name": "Antena 3 Constanta (576p)",
     "tvg_id": "Antena3Constanta.ro@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"AntenaPlayEvents.ro@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145\" group-title=\"Sports\",AntenaPlay Events (576p) [Not 24/7]",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
-    "name": "AntenaPlay Events (576p) [Not 24/7]",
-    "tvg_id": "AntenaPlayEvents.ro@SD"
   },
   {
     "lang": "English",
@@ -11962,9 +11938,9 @@
   {
     "lang": "English",
     "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"FoxSports2.us@HD\" tvg-logo=\"https://imgx.fubo.tv/station_logos/fs2_c.png\" group-title=\"Sports\",Fox Sports 2 (United States) (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"FoxSports2.us@HD\" tvg-logo=\"https://imgx.fubo.tv/station_logos/fs2_c.png\" group-title=\"Sports\",Fox Sports 2 (720p)",
     "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
-    "name": "Fox Sports 2 (United States) (720p)",
+    "name": "Fox Sports 2 (720p)",
     "tvg_id": "FoxSports2.us@HD"
   },
   {
@@ -17390,14 +17366,6 @@
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=106",
     "name": "NHK World-Japan HD (1080p)",
     "tvg_id": "NHKWorldJapan.jp@HD"
-  },
-  {
-    "lang": "English",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"NHLAntenaPlay.ro@SD\" tvg-logo=\"https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png\" group-title=\"Sports\",NHL AntenaPlay",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8",
-    "name": "NHL AntenaPlay",
-    "tvg_id": "NHLAntenaPlay.ro@SD"
   },
   {
     "lang": "English",
@@ -23633,14 +23601,6 @@
   },
   {
     "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"TheFilmDetective.us@SD\" tvg-logo=\"https://i.imgur.com/yfOwmsP.png\" group-title=\"Movies\",The Film Detective (720p)",
-    "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
-    "name": "The Film Detective (720p)",
-    "tvg_id": "TheFilmDetective.us@SD"
-  },
-  {
-    "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"TheFirstTV.us@SD\" tvg-logo=\"https://i.imgur.com/rOSlp93.png\" group-title=\"News\",The First TV (1080p)",
     "url": "https://thefirst-oando.amagi.tv/playlist.m3u8",
@@ -25582,14 +25542,6 @@
     "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
     "name": "UzReport TV (1080p)",
     "tvg_id": "UzReportTV.uz@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"V2BEATTV.uk@SD\" tvg-logo=\"https://i.imgur.com/PXGqyLn.png\" group-title=\"Music\",V2BEAT TV (720p) [Not 24/7]",
-    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-    "name": "V2BEAT TV (720p) [Not 24/7]",
-    "tvg_id": "V2BEATTV.uk@SD"
   },
   {
     "lang": "English",
@@ -30998,6 +30950,14 @@
     "url": "http://88.212.7.14/live/travel_xp/index.m3u8",
     "name": "Travelxp Czechia",
     "tvg_id": "Travelxp.in@Czechia"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@4KCzechia\",Travelxp 4K Czechia",
+    "url": "http://88.212.7.14/live/travel_xp_4k/index.m3u8",
+    "name": "Travelxp 4K Czechia",
+    "tvg_id": "Travelxp.in@4KCzechia"
   },
   {
     "lang": "Urdu",
