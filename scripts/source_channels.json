@@ -34,18 +34,18 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",&TV International (1080p)",
-    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
-    "name": "&TV International (1080p)",
-    "tvg_id": "AndTV.in@International"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"Andpictures.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540\" group-title=\"Movies\",&pictures HD (1080p)",
     "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
     "name": "&pictures HD (1080p)",
     "tvg_id": "Andpictures.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",&TV International (1080p)",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "name": "&TV International (1080p)",
+    "tvg_id": "AndTV.in@International"
   },
   {
     "lang": "Hindi",
@@ -547,7 +547,7 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"ColorsCineplex.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png\" group-title=\"Movies\",Colors Cineplex HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
+    "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
     "name": "Colors Cineplex HD (1080p)",
     "tvg_id": "ColorsCineplex.in@HD"
   },
@@ -865,14 +865,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"DisneyJunior.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png\" group-title=\"Kids\",Disney Junior (India) (576p)",
-    "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
-    "name": "Disney Junior (India) (576p)",
-    "tvg_id": "DisneyJunior.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"DiyaTV.us@SD\" tvg-logo=\"https://i.imgur.com/1fC7tqH.png\" group-title=\"General\",Diya TV (1080p)",
     "url": "https://stream.diyatvinc.com/diya.m3u8",
@@ -1022,14 +1014,6 @@
     "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8",
     "name": "Epic Music Digital (1080p)",
     "tvg_id": "EpicMusic.in@Digital"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"EpicParivar.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540\" group-title=\"Entertainment\",Epic Parivar (576p)",
-    "url": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls",
-    "name": "Epic Parivar (576p)",
-    "tvg_id": "EpicParivar.in@SD"
   },
   {
     "lang": "Hindi",
@@ -1923,7 +1907,7 @@
     "lang": "Hindi",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"NickJr.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png\" group-title=\"Kids\",Nick Jr. (India) (576p)",
-    "url": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls",
+    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
     "name": "Nick Jr. (India) (576p)",
     "tvg_id": "NickJr.in@SD"
   },
@@ -1994,9 +1978,9 @@
   {
     "lang": "Hindi",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png\" group-title=\"Animation;Kids\",Pogo (576p)",
-    "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
-    "name": "Pogo (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png\" group-title=\"Animation;Kids\",Pogo (720p)",
+    "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
+    "name": "Pogo (720p)",
     "tvg_id": "Pogo.in@SD"
   },
   {
@@ -2323,7 +2307,7 @@
     "lang": "Hindi",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"Sonic.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png\" group-title=\"Kids\",Sonic (576p)",
-    "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+    "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
     "name": "Sonic (576p)",
     "tvg_id": "Sonic.in@SD"
   },
@@ -2334,14 +2318,6 @@
     "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
     "name": "Sony BBC Earth HD (1080p)",
     "tvg_id": "SonyBBCEarth.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyEntertainmentTelevision.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540\" group-title=\"Entertainment\",Sony Entertainment Television (576p)",
-    "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-    "name": "Sony Entertainment Television (576p)",
-    "tvg_id": "SonyEntertainmentTelevision.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2363,7 +2339,7 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"SonyMax.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Max HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
+    "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
     "name": "Sony Max HD (1080p)",
     "tvg_id": "SonyMax.in@HD"
   },
@@ -2377,27 +2353,11 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyPix.in@HD\" tvg-logo=\"https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png\" group-title=\"Movies\",Sony Pix HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-    "name": "Sony Pix HD (1080p)",
-    "tvg_id": "SonyPix.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"SonySAB.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540\" group-title=\"Entertainment\",Sony SAB (720p)",
     "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
     "name": "Sony SAB (720p)",
     "tvg_id": "SonySAB.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonySportsTen3Hindi.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540\" group-title=\"Sports\",Sony Sports Ten 3 Hindi (576p)",
-    "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls",
-    "name": "Sony Sports Ten 3 Hindi (576p)",
-    "tvg_id": "SonySportsTen3Hindi.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2450,16 +2410,8 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarGold2.in@HD\" tvg-logo=\"https://i.imgur.com/G0ZfzZr.png\" group-title=\"Movies\",Star Gold 2 HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls",
-    "name": "Star Gold 2 HD (1080p)",
-    "tvg_id": "StarGold2.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"StarGold.in@HD\" tvg-logo=\"https://i.imgur.com/xC460sj.png\" group-title=\"Movies\",Star Gold HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
+    "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
     "name": "Star Gold HD (1080p)",
     "tvg_id": "StarGold.in@HD"
   },
@@ -2489,14 +2441,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarSports2.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png\" group-title=\"Sports\",Star Sports 2 (576p)",
-    "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
-    "name": "Star Sports 2 (576p)",
-    "tvg_id": "StarSports2.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"StarUtsav.in@SD\" tvg-logo=\"https://i.imgur.com/H1jhHDl.png\" group-title=\"Entertainment\",Star Utsav (576p)",
     "url": "http://163.61.226.31:9981/stream/channelid/894286890?profile=pass",
@@ -2523,7 +2467,7 @@
     "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"StarPlus.uk@SD\" tvg-logo=\"https://i.imgur.com/xWxNy3L.png\" group-title=\"Entertainment\",StarPlus (United Kingdom) (576p)",
-    "url": "http://103.151.60.162:2122/play/a0fo/index.m3u8?hls",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8",
     "name": "StarPlus (United Kingdom) (576p)",
     "tvg_id": "StarPlus.uk@SD"
   },
@@ -2550,14 +2494,6 @@
     "url": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8",
     "name": "Sudarshan News (1080p)",
     "tvg_id": "SudarshanNews.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Superhitz.in@SD\" tvg-logo=\"https://i.imgur.com/aRNBvTU.png\" group-title=\"Undefined\",Superhitz (576p)",
-    "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
-    "name": "Superhitz (576p)",
-    "tvg_id": "Superhitz.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2738,9 +2674,9 @@
   {
     "lang": "Hindi",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png\" group-title=\"Travel\",Travelxp HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a01s/index.m3u8?hls",
-    "name": "Travelxp HD (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png\" group-title=\"Travel\",Travelxp HD (1080p) [Geo-blocked]",
+    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "name": "Travelxp HD (1080p) [Geo-blocked]",
     "tvg_id": "Travelxp.in@HD"
   },
   {
@@ -2979,7 +2915,7 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinema.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",Zee Cinema HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
+    "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
     "name": "Zee Cinema HD (1080p)",
     "tvg_id": "ZeeCinema.in@HD"
   },
@@ -3046,14 +2982,6 @@
     "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
     "name": "Zee South Flix (1080p)",
     "tvg_id": "ZeeSouthFlix.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"ZeeTV.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Entertainment\",Zee TV (576p)",
-    "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
-    "name": "Zee TV (576p)",
-    "tvg_id": "ZeeTV.in@SD"
   },
   {
     "lang": "Hindi",
@@ -5785,14 +5713,6 @@
   },
   {
     "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AMCEurope.uk@Romania\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AMC Europe Romania",
-    "url": "https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AMC Europe Romania",
-    "tvg_id": "AMCEurope.uk@Romania"
-  },
-  {
-    "lang": "English",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"AmericasNextTopModel.us@SD\" tvg-logo=\"https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png\" group-title=\"Entertainment\",America's Next Top Model",
     "url": "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8",
@@ -6426,9 +6346,9 @@
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AXNAdria.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Adria",
-    "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Adria",
+    "extinf": "#EXTINF:-1 tvg-id=\"AXNAdria.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Adria (576p)",
+    "url": "http://87.238.211.217:2209/stream/104/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Adria (576p)",
     "tvg_id": "AXNAdria.us@SD"
   },
   {
@@ -6446,14 +6366,6 @@
     "url": "http://141.94.193.53/axn_black/index.m3u8",
     "name": "AXN Black (United States) Hungary (576p)",
     "tvg_id": "AXNBlack.us@Hungary"
-  },
-  {
-    "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AXNBlack.us@Romania\" tvg-logo=\"https://i.imgur.com/Peo1QiZ.png\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AXN Black (United States) Romania",
-    "url": "https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",AXN Black (United States) Romania",
-    "tvg_id": "AXNBlack.us@Romania"
   },
   {
     "lang": "English",
@@ -6478,14 +6390,6 @@
     "url": "http://88.212.7.14/live/viasat_film/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Crime",
     "tvg_id": "AXNCrime.us@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"AXNWhite.us@SD\" tvg-logo=\"https://i.imgur.com/47IKxmt.png\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN White (United States)",
-    "url": "https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN White (United States)",
-    "tvg_id": "AXNWhite.us@SD"
   },
   {
     "lang": "English",
@@ -6626,14 +6530,6 @@
   {
     "lang": "English",
     "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCEarth.uk@Romania\" tvg-logo=\"https://i.imgur.com/nGSsUd4.png\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",BBC Earth Romania",
-    "url": "https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",BBC Earth Romania",
-    "tvg_id": "BBCEarth.uk@Romania"
-  },
-  {
-    "lang": "English",
-    "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"BBCEarth.uk@Turkiye\" tvg-logo=\"https://i.imgur.com/nGSsUd4.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Turkiye",
     "url": "https://nord.ayakkabiparti.lol/bbc/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Turkiye",
@@ -6646,14 +6542,6 @@
     "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
     "name": "BBC Earth US (1080p)",
     "tvg_id": "BBCEarth.uk@US"
-  },
-  {
-    "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCFirst.uk@Romania\" tvg-logo=\"https://i.imgur.com/UBoBYUI.png\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",BBC First Romania",
-    "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",BBC First Romania",
-    "tvg_id": "BBCFirst.uk@Romania"
   },
   {
     "lang": "English",
@@ -6710,14 +6598,6 @@
     "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
     "name": "BBC News Africa (1080p)",
     "tvg_id": "BBCNews.uk@Africa"
-  },
-  {
-    "lang": "English",
-    "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCNews.uk@AsiaPacific\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png\" group-title=\"News\",BBC News Asia Pacific (576p)",
-    "url": "http://103.151.60.162:2122/play/a0fl/index.m3u8?hls",
-    "name": "BBC News Asia Pacific (576p)",
-    "tvg_id": "BBCNews.uk@AsiaPacific"
   },
   {
     "lang": "English",
@@ -9306,6 +9186,14 @@
   {
     "lang": "English",
     "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"CNNInternational.us@SouthAsia\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",CNN International South Asia",
+    "url": "http://103.253.74.210:7070/stream/115/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",CNN International South Asia",
+    "tvg_id": "CNNInternational.us@SouthAsia"
+  },
+  {
+    "lang": "English",
+    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"CNNNews18.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540\" group-title=\"News\",CNN News 18 (1080p)",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
     "name": "CNN News 18 (1080p)",
@@ -9334,14 +9222,6 @@
     "url": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8",
     "name": "Collier TV (720p)",
     "tvg_id": "CollierTV.us@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"ColorsInfinity.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png\" group-title=\"Entertainment\",Colors Infinity HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a02r/index.m3u8?hls",
-    "name": "Colors Infinity HD (1080p)",
-    "tvg_id": "ColorsInfinity.in@HD"
   },
   {
     "lang": "English",
@@ -10050,6 +9930,22 @@
   {
     "lang": "English",
     "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"DAZN1.uk@Germany\" tvg-logo=\"https://i.imgur.com/2Z2EmZF.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 1 Germany",
+    "url": "http://45.142.104.86/stream/25/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 1 Germany",
+    "tvg_id": "DAZN1.uk@Germany"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"DAZN2.uk@Germany\" tvg-logo=\"https://i.imgur.com/OGj3qf5.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 2 Germany",
+    "url": "http://45.142.104.86/stream/15/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 2 Germany",
+    "tvg_id": "DAZN2.uk@Germany"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
     "extinf": "#EXTINF:-1 tvg-id=\"DAZNCombat.uk@SD\" tvg-logo=\"https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png\" group-title=\"Sports\",DAZN Combat (684p)",
     "url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8",
     "name": "DAZN Combat (684p)",
@@ -10426,14 +10322,6 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"DisneyInternationalHD.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png\" group-title=\"Kids\",Disney International HD (576p)",
-    "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls",
-    "name": "Disney International HD (576p)",
-    "tvg_id": "DisneyInternationalHD.in@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"DisneyJunior.ro@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Kids\",Disney Junior (Romania)",
     "url": "https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Kids\",Disney Junior (Romania)",
@@ -10606,6 +10494,14 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
     "name": "DMAX (Italy) (1080p)",
     "tvg_id": "DMAX.it@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"DMAX.it@HD\" tvg-logo=\"https://i.imgur.com/uGd9fnn.png\" group-title=\"Lifestyle\",DMAX (Italy) HD (720p)",
+    "url": "http://102.129.186.182:81/dmax/index.m3u8",
+    "name": "DMAX (Italy) HD (720p)",
+    "tvg_id": "DMAX.it@HD"
   },
   {
     "lang": "English",
@@ -11137,6 +11033,14 @@
   },
   {
     "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Eurochannel.uk@SD\" tvg-logo=\"https://i.imgur.com/yXAtmI6.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"General\",Eurochannel",
+    "url": "http://45.186.240.164:9000/stream/54/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"General\",Eurochannel",
+    "tvg_id": "Eurochannel.uk@SD"
+  },
+  {
+    "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"EuronewsEnglish.fr@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png\" group-title=\"News\",Euronews English (720p)",
     "url": "https://jmp2.uk/plu-61de96114757070008d33cae.m3u8",
@@ -11162,17 +11066,25 @@
   {
     "lang": "English",
     "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540\" group-title=\"Sports\",Eurosport (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.fr@Asia\" tvg-logo=\"https://i.imgur.com/s4jDnJh.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport (France)",
+    "url": "http://103.253.74.210:7070/stream/122/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport (France)",
+    "tvg_id": "Eurosport.fr@Asia"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540\" group-title=\"Sports\",Eurosport (India) (720p)",
     "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
-    "name": "Eurosport (720p)",
+    "name": "Eurosport (India) (720p)",
     "tvg_id": "Eurosport.in@SD"
   },
   {
     "lang": "English",
     "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540\" group-title=\"Sports\",Eurosport HD (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540\" group-title=\"Sports\",Eurosport (India) HD (1080p)",
     "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-    "name": "Eurosport HD (1080p)",
+    "name": "Eurosport (India) HD (1080p)",
     "tvg_id": "Eurosport.in@HD"
   },
   {
@@ -12014,6 +11926,14 @@
     "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
     "name": "Fox News Channel (1080p)",
     "tvg_id": "FoxNewsChannel.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"FoxNewsInternational.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",Fox News International",
+    "url": "http://103.253.74.210:7070/stream/124/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"News\",Fox News International",
+    "tvg_id": "FoxNewsInternational.us@SD"
   },
   {
     "lang": "English",
@@ -13150,14 +13070,6 @@
     "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
     "name": "History Hit (1080p)",
     "tvg_id": "HistoryHit.uk@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"HITSMovies.sg@SD\" tvg-logo=\"https://i.imgur.com/kyE3vXf.png\" group-title=\"Movies\",HITS Movies (576p)",
-    "url": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls",
-    "name": "HITS Movies (576p)",
-    "tvg_id": "HITSMovies.sg@SD"
   },
   {
     "lang": "English",
@@ -14746,6 +14658,14 @@
   {
     "lang": "English",
     "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"Lifetime.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png\" group-title=\"Entertainment\",Lifetime",
+    "url": "https://tvsen7.aynascope.net/lifetime/index.m3u8",
+    "name": "Lifetime",
+    "tvg_id": "Lifetime.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"LifetimeAsia.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png\" group-title=\"Entertainment\",Lifetime Asia (1080p)",
     "url": "http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8",
     "name": "Lifetime Asia (1080p)",
@@ -15714,14 +15634,6 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Minimax.ro@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg\" http-referrer=\"https://cool-tv.net/\" group-title=\"Animation;Kids\",Minimax (Romania)",
-    "url": "https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8",
-    "name": "Minimax (Romania)",
-    "tvg_id": "Minimax.ro@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"MinimaxCEE.cz@SD\" tvg-logo=\"https://i.imgur.com/WWOlm1x.png\" group-title=\"Kids\",Minimax CEE (576p)",
     "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
     "name": "Minimax CEE (576p)",
@@ -15750,6 +15662,14 @@
     "url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
     "name": "MIS Televizija (720p) [Not 24/7]",
     "tvg_id": "MISTelevizija.au@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"MISATV.ro@English\" tvg-logo=\"https://i.imgur.com/2RxQNm6.png\" group-title=\"Religious\",MISA TV English (576i)",
+    "url": "https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8",
+    "name": "MISA TV English (576i)",
+    "tvg_id": "MISATV.ro@English"
   },
   {
     "lang": "English",
@@ -16083,7 +16003,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"MoviesNow.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png\" group-title=\"Movies\",Movies Now HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
+    "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
     "name": "Movies Now HD (1080p)",
     "tvg_id": "MoviesNow.in@HD"
   },
@@ -16798,14 +16718,6 @@
     "url": "http://92.114.85.87:8006/play/a00a/index.m3u8",
     "name": "National Geographic (Poland) (576i)",
     "tvg_id": "NationalGeographic.pl@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographic.ro@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png\" http-referrer=\"https://cool-tv.net/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic (Romania)",
-    "url": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",National Geographic (Romania)",
-    "tvg_id": "NationalGeographic.ro@SD"
   },
   {
     "lang": "English",
@@ -17538,6 +17450,14 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"NickJr.de@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Germany)",
+    "url": "http://94.130.48.67:8042/stream/111/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Germany)",
+    "tvg_id": "NickJr.de@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"NickJr.it@SD\" tvg-logo=\"https://i.imgur.com/6p3eFgf.png\" group-title=\"Kids\",Nick Jr. (Italy) (720p)",
     "url": "http://102.129.186.182:81/nick/index.m3u8",
     "name": "Nick Jr. (Italy) (720p)",
@@ -17550,6 +17470,14 @@
     "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
     "name": "Nick Jr. (United States) (720p)",
     "tvg_id": "NickJr.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"NickJrAsia.sg@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. Asia",
+    "url": "http://103.253.74.210:7070/stream/116/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. Asia",
+    "tvg_id": "NickJrAsia.sg@SD"
   },
   {
     "lang": "English",
@@ -17598,6 +17526,14 @@
     "url": "http://stream.mcquack.net/443/index.m3u8",
     "name": "Nickelodeon (Russia) (576p)",
     "tvg_id": "Nickelodeon.ru@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"NickelodeonAsia.sg@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
+    "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
+    "tvg_id": "NickelodeonAsia.sg@SD"
   },
   {
     "lang": "English",
@@ -21690,6 +21626,14 @@
   {
     "lang": "English",
     "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"SkyNews.ie@SD\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png\" group-title=\"News\",Sky News",
+    "url": "https://dash4.antik.sk/live/test_skynews/playlist.m3u8",
+    "name": "Sky News",
+    "tvg_id": "SkyNews.ie@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"SkyNewsExtra1.au@SD\" tvg-logo=\"https://i.imgur.com/ZsPb8nL.png\" group-title=\"News\",Sky News Extra 1 (540p)",
     "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
     "name": "Sky News Extra 1 (540p)",
@@ -24242,6 +24186,14 @@
   {
     "lang": "English",
     "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"TLCSoutheastAsia.sg@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",TLC Southeast Asia",
+    "url": "http://103.253.74.210:7070/stream/108/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",TLC Southeast Asia",
+    "tvg_id": "TLCSoutheastAsia.sg@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TLN.ca@KQSL\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png\" group-title=\"Undefined\",TLN KQSL (720p)",
     "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
     "name": "TLN KQSL (720p)",
@@ -25497,14 +25449,6 @@
   },
   {
     "lang": "English",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"Unite8Sports2.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp\" group-title=\"Sports\",Unite8 Sports 2 (576p)",
-    "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-    "name": "Unite8 Sports 2 (576p)",
-    "tvg_id": "Unite8Sports2.in@SD"
-  },
-  {
-    "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"UniversalCinema.us@SD\" tvg-logo=\"https://i.imgur.com/XxfET68.png\" group-title=\"Movies\",Universal Cinema (1080p)",
     "url": "http://45.167.1.138:8000/play/a06m",
@@ -25886,6 +25830,14 @@
     "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8",
     "name": "VoA TV (1080p)",
     "tvg_id": "VoATV.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"VoyoEvents.ro@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/d/df/Voyo_2026.svg/revision/latest/scale-to-width-down/1000?cb=20261006171646\" group-title=\"Sports\",Voyo Events (576i) [Not 24/7]",
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0",
+    "name": "Voyo Events (576i) [Not 24/7]",
+    "tvg_id": "VoyoEvents.ro@SD"
   },
   {
     "lang": "English",
@@ -26457,14 +26409,6 @@
   },
   {
     "lang": "English",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"WWENetwork.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png\" group-title=\"Sports\",WWE Network (1080p)",
-    "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
-    "name": "WWE Network (1080p)",
-    "tvg_id": "WWENetwork.us@SD"
-  },
-  {
-    "lang": "English",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"WWONTVChannel48.us@SD\" tvg-logo=\"https://i.imgur.com/l4qHAq6.png\" group-title=\"Entertainment\",WWON-TV Channel 48",
     "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
@@ -26942,14 +26886,6 @@
     "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "name": "9XM (576p)",
     "tvg_id": "9XM.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\",&TV International (1080p)",
-    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-    "name": "&TV International (1080p)",
-    "tvg_id": "AndTV.in@International"
   },
   {
     "lang": "Hindi",
@@ -27774,14 +27710,6 @@
     "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
     "name": "Chintpurni Live (360p)",
     "tvg_id": "ChintpurniLive.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"Colors.in@HD\",Colors HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls",
-    "name": "Colors HD (1080p)",
-    "tvg_id": "Colors.in@HD"
   },
   {
     "lang": "English",
@@ -29763,14 +29691,6 @@
     "lang": "Hindi",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"NickJr.in@SD\",Nick Jr. (576p)",
-    "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
-    "name": "Nick Jr. (576p)",
-    "tvg_id": "NickJr.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"NickJr.in@SD\",Nick Jr. (576p)",
     "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
     "name": "Nick Jr. (576p)",
     "tvg_id": "NickJr.in@SD"
@@ -30537,43 +30457,11 @@
   },
   {
     "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Sonic.in@SD\",Sonic (576p)",
-    "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
-    "name": "Sonic (576p)",
-    "tvg_id": "Sonic.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyEntertainmentTelevision.in@SD\",Sony Entertainment Television (576p)",
-    "url": "http://103.151.60.162:2122/play/a015/index.m3u8?hls",
-    "name": "Sony Entertainment Television (576p)",
-    "tvg_id": "SonyEntertainmentTelevision.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonySAB.in@SD\",Sony SAB (576p)",
-    "url": "http://103.151.60.162:2122/play/a01q/index.m3u8?hls",
-    "name": "Sony SAB (576p)",
-    "tvg_id": "SonySAB.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"SonyWah.in@SD\",Sony Wah (1080p) [Geo-blocked]",
     "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
     "name": "Sony Wah (1080p) [Geo-blocked]",
     "tvg_id": "SonyWah.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarGold.in@HD\",Star Gold HD (1080p)",
-    "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
-    "name": "Star Gold HD (1080p)",
-    "tvg_id": "StarGold.in@HD"
   },
   {
     "lang": "Hindi",
@@ -30790,14 +30678,6 @@
     "url": "http://88.212.7.14/live/travel_xp/index.m3u8",
     "name": "Travelxp Czechia",
     "tvg_id": "Travelxp.in@Czechia"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Travelxp.in@HD\",Travelxp HD (1080p) [Geo-blocked]",
-    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
-    "name": "Travelxp HD (1080p) [Geo-blocked]",
-    "tvg_id": "Travelxp.in@HD"
   },
   {
     "lang": "Hindi",
@@ -31057,14 +30937,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinema.in@HD\",Zee Cinema HD (1080p)",
-    "url": "http://103.151.60.162:2122/play/a024/index.m3u8?hls",
-    "name": "Zee Cinema HD (1080p)",
-    "tvg_id": "ZeeCinema.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"ZeeNews.in@SD\",Zee News (1080p)",
     "url": "https://dt3lrqnyx3dks.cloudfront.net/index.m3u8",
@@ -31128,14 +31000,6 @@
     "tvg_id": "Zoom.in@SD"
   },
   {
-    "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"MoviesNow.in@HD\",Movies Now HD (1080p)",
-    "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
-    "name": "Movies Now HD (1080p)",
-    "tvg_id": "MoviesNow.in@HD"
-  },
-  {
     "lang": "Hindi",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"Nickelodeon.in@SD\",Nickelodeon (576p)",
@@ -31150,14 +31014,6 @@
     "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
     "name": "Nick Jr. (576p)",
     "tvg_id": "NickJr.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ColorsCineplex.in@HD\",Colors Cineplex HD (1080p)",
-    "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
-    "name": "Colors Cineplex HD (1080p)",
-    "tvg_id": "ColorsCineplex.in@HD"
   },
   {
     "lang": "Hindi",
@@ -31177,27 +31033,11 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinema.in@HD\",Zee Cinema HD (1080p)",
-    "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
-    "name": "Zee Cinema HD (1080p)",
-    "tvg_id": "ZeeCinema.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\",Pogo (576p)",
     "url": "http://103.135.253.32:8080/POGO/index.m3u8",
     "name": "Pogo (576p)",
     "tvg_id": "Pogo.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyMax.in@HD\",Sony Max HD (1080p)",
-    "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
-    "name": "Sony Max HD (1080p)",
-    "tvg_id": "SonyMax.in@HD"
   },
   {
     "lang": "Hindi",
