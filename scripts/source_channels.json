@@ -2313,14 +2313,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyBBCEarth.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540\" group-title=\"Documentary\",Sony BBC Earth HD (1080p)",
-    "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-    "name": "Sony BBC Earth HD (1080p)",
-    "tvg_id": "SonyBBCEarth.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"SonyEntertainmentTelevision.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540\" group-title=\"Entertainment\",Sony Entertainment Television HD (1080p)",
     "url": "http://38.96.178.205/SONYHD/index.m3u8",
@@ -2411,17 +2403,9 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"StarGold.in@HD\" tvg-logo=\"https://i.imgur.com/xC460sj.png\" group-title=\"Movies\",Star Gold HD (1080p)",
-    "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
+    "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
     "name": "Star Gold HD (1080p)",
     "tvg_id": "StarGold.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarGoldSelect.in@SD\" tvg-logo=\"https://i.imgur.com/U7eiuqv.png\" group-title=\"Movies\",Star Gold Select (1080p)",
-    "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
-    "name": "Star Gold Select (1080p)",
-    "tvg_id": "StarGoldSelect.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2430,14 +2414,6 @@
     "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
     "name": "Star Movies (India) HD (1080p)",
     "tvg_id": "StarMovies.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarMoviesSelect.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png\" group-title=\"Movies\",Star Movies Select HD (1080p)",
-    "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-    "name": "Star Movies Select HD (1080p)",
-    "tvg_id": "StarMoviesSelect.in@HD"
   },
   {
     "lang": "Hindi",
@@ -2698,8 +2674,8 @@
   {
     "lang": "Hindi",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"TV2.my@SD\" tvg-logo=\"https://i.imgur.com/LGEdeyJ.png\" group-title=\"General\",TV2 (Malaysia) (1080p)",
-    "url": "https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV2.my@SD\" tvg-logo=\"https://i.imgur.com/LGEdeyJ.png\" http-referrer=\"https://rtm-player.glueapi.io/\" group-title=\"General\",TV2 (Malaysia) (1080p)",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
     "name": "TV2 (Malaysia) (1080p)",
     "tvg_id": "TV2.my@SD"
   },
@@ -2894,14 +2870,6 @@
     "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
     "name": "Zee Cine Classic (1080p)",
     "tvg_id": "ZeeCineClassic.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinema.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",Zee Cinema (576p)",
-    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
-    "name": "Zee Cinema (576p)",
-    "tvg_id": "ZeeCinema.in@SD"
   },
   {
     "lang": "Hindi",
@@ -3510,6 +3478,14 @@
     "url": "https://newsonly.kableone.com/newsonly/master.m3u8",
     "name": "News Only (1080p)",
     "tvg_id": "NewsOnly.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Okey.my@SD\" tvg-logo=\"https://i.imgur.com/V2jREQ5.png\" http-referrer=\"https://rtm-player.glueapi.io/\" group-title=\"General\",Okey (1080p)",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+    "name": "Okey (1080p)",
+    "tvg_id": "Okey.my@SD"
   },
   {
     "lang": "Punjabi",
@@ -6793,6 +6769,14 @@
   },
   {
     "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"BeritaRTM.my@SD\" tvg-logo=\"https://i.imgur.com/1Xzxsgl.png\" http-referrer=\"https://rtm-player.glueapi.io/\" group-title=\"News\",Berita RTM (1080p)",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "name": "Berita RTM (1080p)",
+    "tvg_id": "BeritaRTM.my@SD"
+  },
+  {
+    "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"BerksCommunityTV.us@SD\" tvg-logo=\"https://i.imgur.com/vQ6a4VL.png\" group-title=\"General\",Berks Community TV (1080p)",
     "url": "https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
@@ -7906,6 +7890,14 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetworkAsia.sg@Thailand\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png\" group-title=\"Animation;Kids\",Cartoon Network Asia Thailand",
+    "url": "http://103.253.74.210:7070/stream/118/index.m3u8",
+    "name": "Cartoon Network Asia Thailand",
+    "tvg_id": "CartoonNetworkAsia.sg@Thailand"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"CartoonitoAsia.sg@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoonito Asia (720p)",
     "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoonito Asia (720p)",
@@ -8670,14 +8662,6 @@
     "url": "http://186.148.196.82:8001/play/a0a4",
     "name": "Cine Sony (720p)",
     "tvg_id": "CineSony.us@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"CinemaWorld.my@SD\" tvg-logo=\"https://i.imgur.com/D2qNVZ7.png\" group-title=\"Movies\",CinemaWorld (720p)",
-    "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
-    "name": "CinemaWorld (720p)",
-    "tvg_id": "CinemaWorld.my@SD"
   },
   {
     "lang": "English",
@@ -15522,14 +15506,6 @@
   {
     "lang": "English",
     "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"Mezzo.fr@SD\" tvg-logo=\"https://i.imgur.com/auNdGeW.png\" http-user-agent=\"Enigma2\" group-title=\"Music\",Mezzo (576p)",
-    "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
-    "name": "Mezzo (576p)",
-    "tvg_id": "Mezzo.fr@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"MezzoLive.fr@SD\" tvg-logo=\"https://i.imgur.com/H9ytKPN.png\" group-title=\"Music\",Mezzo Live (1080p)",
     "url": "http://stream.mcquack.net/276/index.m3u8",
     "name": "Mezzo Live (1080p)",
@@ -16314,9 +16290,9 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"MTVGlobal.uk@SD\" tvg-logo=\"https://i.imgur.com/n2BoU7Q.png\" group-title=\"Entertainment\",MTV Global (720p)",
-    "url": "http://dvr2.kablova.tv/MTV/index.m3u8",
-    "name": "MTV Global (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MTVGlobal.uk@SD\" tvg-logo=\"https://i.imgur.com/n2BoU7Q.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV Global",
+    "url": "http://85.14.32.26:8800/udp/239.100.10.67:5000",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",MTV Global",
     "tvg_id": "MTVGlobal.uk@SD"
   },
   {
@@ -17530,6 +17506,14 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"Nickelodeon.uk@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (United Kingdom)",
+    "url": "http://93.186.201.93/stream/397/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (United Kingdom)",
+    "tvg_id": "Nickelodeon.uk@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"NickelodeonAsia.sg@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
     "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
@@ -17814,14 +17798,6 @@
     "url": "https://ntd02.akamaized.net/NTD-UK/index.m3u8",
     "name": "NTD TV English UK (1080p)",
     "tvg_id": "NTDTVEnglish.us@UK"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"NTV7.my@SD\" tvg-logo=\"https://i.imgur.com/jDWR3xI.png\" group-title=\"General\",NTV7",
-    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
-    "name": "NTV7",
-    "tvg_id": "NTV7.my@SD"
   },
   {
     "lang": "English",
@@ -20985,14 +20961,6 @@
   },
   {
     "lang": "English",
-    "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"RTMASEAN.my@SD\" tvg-logo=\"https://i.imgur.com/skAiUxg.png\" group-title=\"News\",RTM ASEAN",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
-    "name": "RTM ASEAN",
-    "tvg_id": "RTMASEAN.my@SD"
-  },
-  {
-    "lang": "English",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"RTNChicago.us@SD\" tvg-logo=\"https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png\" group-title=\"Religious\",RTN Chicago (480p)",
     "url": "https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8",
@@ -23274,9 +23242,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Telemundo.us@West\" tvg-logo=\"https://imgx.fubo.tv/station_logos/telemundo_c.png\" group-title=\"General\",Telemundo West (2160p)",
-    "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
-    "name": "Telemundo West (2160p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Telemundo.us@West\" tvg-logo=\"https://imgx.fubo.tv/station_logos/telemundo_c.png\" group-title=\"General\",Telemundo West (720p)",
+    "url": "http://45.5.117.57:8900/play/a058/index.m3u8",
+    "name": "Telemundo West (720p)",
     "tvg_id": "Telemundo.us@West"
   },
   {
@@ -24787,7 +24755,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TV1.my@SD\" tvg-logo=\"https://i.imgur.com/wSyPmiY.png\" group-title=\"General\",TV1 (Malaysia) (1080p)",
-    "url": "https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
     "name": "TV1 (Malaysia) (1080p)",
     "tvg_id": "TV1.my@SD"
   },
@@ -25475,17 +25443,9 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Univision.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png\" group-title=\"Undefined\",Univision (1080p)",
-    "url": "http://38.252.238.18:8000/play/a03e/index.m3u8",
+    "url": "http://190.197.41.183/Univision/index.m3u8",
     "name": "Univision (1080p)",
     "tvg_id": "Univision.us@East"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Univision.us@EastHD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png\" group-title=\"Undefined\",Univision East HD (1080p)",
-    "url": "http://45.190.13.8/UnivisionHD/index.m3u8",
-    "name": "Univision East HD (1080p)",
-    "tvg_id": "Univision.us@EastHD"
   },
   {
     "lang": "English",
@@ -31025,14 +30985,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarGold.in@HD\",Star Gold HD (1080p)",
-    "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
-    "name": "Star Gold HD (1080p)",
-    "tvg_id": "StarGold.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\",Pogo (576p)",
     "url": "http://103.135.253.32:8080/POGO/index.m3u8",
@@ -31049,35 +31001,11 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinema.in@HD\",Zee Cinema HD (1080p)",
-    "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
-    "name": "Zee Cinema HD (1080p)",
-    "tvg_id": "ZeeCinema.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"StarPlus.in@HD\",StarPlus HD (1080p)",
     "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
     "name": "StarPlus HD (1080p)",
     "tvg_id": "StarPlus.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarGold.in@HD\",Star Gold HD (1080p)",
-    "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
-    "name": "Star Gold HD (1080p)",
-    "tvg_id": "StarGold.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarMovies.in@HD\",Star Movies HD (1080p)",
-    "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
-    "name": "Star Movies HD (1080p)",
-    "tvg_id": "StarMovies.in@HD"
   },
   {
     "lang": "Hindi",
