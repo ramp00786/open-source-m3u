@@ -897,78 +897,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya4.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 4 (576p)",
-    "url": "http://103.72.101.252:8080/live/406.m3u8",
-    "name": "E-Vidya 4 (576p)",
-    "tvg_id": "EVidya4.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya5.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 5 (576p)",
-    "url": "http://103.72.101.252:8080/live/407.m3u8",
-    "name": "E-Vidya 5 (576p)",
-    "tvg_id": "EVidya5.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya6.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 6 (576p)",
-    "url": "http://103.72.101.252:8080/live/408.m3u8",
-    "name": "E-Vidya 6 (576p)",
-    "tvg_id": "EVidya6.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya7.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 7 (576p)",
-    "url": "http://103.72.101.252:8080/live/404.m3u8",
-    "name": "E-Vidya 7 (576p)",
-    "tvg_id": "EVidya7.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya8.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 8 (576p)",
-    "url": "http://103.72.101.252:8080/live/409.m3u8",
-    "name": "E-Vidya 8 (576p)",
-    "tvg_id": "EVidya8.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya9.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 9 (576p)",
-    "url": "http://103.72.101.252:8080/live/410.m3u8",
-    "name": "E-Vidya 9 (576p)",
-    "tvg_id": "EVidya9.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya10.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 10 (576p)",
-    "url": "http://103.72.101.252:8080/live/411.m3u8",
-    "name": "E-Vidya 10 (576p)",
-    "tvg_id": "EVidya10.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya11.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 11 (576p)",
-    "url": "http://103.72.101.252:8080/live/1410.m3u8",
-    "name": "E-Vidya 11 (576p)",
-    "tvg_id": "EVidya11.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Education",
-    "extinf": "#EXTINF:-1 tvg-id=\"EVidya12.in@SD\" tvg-logo=\"https://i.imgur.com/0sz6t9F.png\" group-title=\"Education\",E-Vidya 12 (576p)",
-    "url": "http://103.72.101.252:8080/live/1532.m3u8",
-    "name": "E-Vidya 12 (576p)",
-    "tvg_id": "EVidya12.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"EpicBharat.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Epic Bharat (576p)",
     "url": "https://fta.ektv.in/live/471/master.m3u8",
@@ -1090,17 +1018,17 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines2.in@SD\" tvg-logo=\"\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines 2 (576p)",
-    "url": "https://fta.ektv.in/live/46/46_0.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines 2 (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines2.in@SD\" tvg-logo=\"\" group-title=\"Movies\",Goldmines 2 (576p)",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+    "name": "Goldmines 2 (576p)",
     "tvg_id": "Goldmines2.in@SD"
   },
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines (576p)",
-    "url": "https://fta.ektv.in/live/53/53_0.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png\" group-title=\"Movies\",Goldmines (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8",
+    "name": "Goldmines (576p)",
     "tvg_id": "Goldmines.in@SD"
   },
   {
@@ -1114,17 +1042,17 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesBollywood.in@SD\" tvg-logo=\"https://i.imgur.com/6mNQ9mM.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Bollywood (576p)",
-    "url": "https://fta.ektv.in/live/52/52_0.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Bollywood (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesBollywood.in@SD\" tvg-logo=\"https://i.imgur.com/6mNQ9mM.png\" group-title=\"Movies\",Goldmines Bollywood (576p)",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
+    "name": "Goldmines Bollywood (576p)",
     "tvg_id": "GoldminesBollywood.in@SD"
   },
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesMovies.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Movies (576p)",
-    "url": "http://103.175.73.12:8080/live/51/51_0.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Movies (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesMovies.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Goldmines Movies (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
+    "name": "Goldmines Movies (576p)",
     "tvg_id": "GoldminesMovies.in@SD"
   },
   {
@@ -15075,7 +15003,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"MagnificentMoviesNetwork.us@SD\" tvg-logo=\"https://i.imgur.com/CXjo8kn.png\" group-title=\"Movies;Shop\",Magnificent Movies Network",
-    "url": "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8",
+    "url": "https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8",
     "name": "Magnificent Movies Network",
     "tvg_id": "MagnificentMoviesNetwork.us@SD"
   },
@@ -15874,9 +15802,9 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"More4.uk@SD\" tvg-logo=\"https://i.imgur.com/cx5YcAU.png\" group-title=\"Entertainment\",More4 (360p)",
-    "url": "https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8",
-    "name": "More4 (360p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"More4.uk@SD\" tvg-logo=\"https://i.imgur.com/cx5YcAU.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",More4 (576p)",
+    "url": "http://82.47.42.44/stream/402/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",More4 (576p)",
     "tvg_id": "More4.uk@SD"
   },
   {
@@ -16694,6 +16622,14 @@
     "url": "http://92.114.85.87:8006/play/a00a/index.m3u8",
     "name": "National Geographic (Poland) (576i)",
     "tvg_id": "NationalGeographic.pl@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Documentary",
+    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographic.uk@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (United Kingdom)",
+    "url": "http://82.47.42.44/stream/405/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (United Kingdom)",
+    "tvg_id": "NationalGeographic.uk@SD"
   },
   {
     "lang": "English",
@@ -18054,6 +17990,14 @@
     "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8",
     "name": "Ontario Public Access Channel (360p)",
     "tvg_id": "OntarioPublicAccessChannel.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"OnTV4U.us@SD\" tvg-logo=\"https://i.imgur.com/yaCK1Mh.png\" group-title=\"Shop\",OnTV4U (1080p)",
+    "url": "https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8",
+    "name": "OnTV4U (1080p)",
+    "tvg_id": "OnTV4U.us@SD"
   },
   {
     "lang": "English",
@@ -20126,6 +20070,14 @@
     "url": "https://player.qtv.gm/hls/live.stream.m3u8",
     "name": "QTV Gambia (720p) [Not 24/7]",
     "tvg_id": "QTVGambia.gm@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Quest.uk@SD\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6761.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Undefined\",Quest",
+    "url": "http://82.47.42.44/stream/385/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Undefined\",Quest",
+    "tvg_id": "Quest.uk@SD"
   },
   {
     "lang": "English",
@@ -24099,7 +24051,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TimelessTV.us@SD\" tvg-logo=\"https://i.imgur.com/bjcpeVH.png\" group-title=\"Classic;Shop\",Timeless TV",
-    "url": "https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8",
+    "url": "https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8",
     "name": "Timeless TV",
     "tvg_id": "TimelessTV.us@SD"
   },
@@ -25662,6 +25614,14 @@
     "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
     "name": "Vevo True School Hip-Hop",
     "tvg_id": "VevoTrueSchoolHipHop.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"VH1.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png\" group-title=\"Music\",VH1 (1080p)",
+    "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
+    "name": "VH1 (1080p)",
+    "tvg_id": "VH1.us@East"
   },
   {
     "lang": "English",
@@ -28179,33 +28139,9 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"Goldmines.in@SD\",Goldmines (576p)",
-    "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8",
-    "name": "Goldmines (576p)",
-    "tvg_id": "Goldmines.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines.in@SD\",Goldmines (576p)",
     "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
     "name": "Goldmines (576p)",
     "tvg_id": "Goldmines.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines.in@SD\",Goldmines (576p)",
-    "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-    "name": "Goldmines (576p)",
-    "tvg_id": "Goldmines.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Goldmines2.in@SD\",Goldmines 2 (576p)",
-    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
-    "name": "Goldmines 2 (576p)",
-    "tvg_id": "Goldmines2.in@SD"
   },
   {
     "lang": "Hindi",
@@ -28219,23 +28155,7 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"GoldminesBollywood.in@SD\",Goldmines Bollywood (576p)",
-    "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
-    "name": "Goldmines Bollywood (576p)",
-    "tvg_id": "GoldminesBollywood.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesBollywood.in@SD\",Goldmines Bollywood (576p)",
     "url": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-    "name": "Goldmines Bollywood (576p)",
-    "tvg_id": "GoldminesBollywood.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesBollywood.in@SD\",Goldmines Bollywood (576p)",
-    "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
     "name": "Goldmines Bollywood (576p)",
     "tvg_id": "GoldminesBollywood.in@SD"
   },
@@ -28246,22 +28166,6 @@
     "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
     "name": "Goldmines Bollywood",
     "tvg_id": "GoldminesBollywood.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesMovies.in@SD\",Goldmines Movies (576p)",
-    "url": "https://fta.ektv.in/live/51/51_0.m3u8",
-    "name": "Goldmines Movies (576p)",
-    "tvg_id": "GoldminesMovies.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoldminesMovies.in@SD\",Goldmines Movies (576p)",
-    "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
-    "name": "Goldmines Movies (576p)",
-    "tvg_id": "GoldminesMovies.in@SD"
   },
   {
     "lang": "Hindi",
