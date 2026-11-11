@@ -81,6 +81,7 @@
   <channel site="i.mjh.nz" site_id="Roku/all#d748045d77105901b8e25fcc34aa9e2f" lang="en" xmltv_id="AmericasVoice.us@SD">America's Voice</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5e1f7da4bc7d740009831259" lang="en" xmltv_id="AmericasVoiceNews.us@SD">America's Voice News</channel>
   <channel site="tataplay.com" site_id="1486" lang="hi" xmltv_id="AnandTV.in@SD">Anand TV</channel>
+  <channel site="zee5.com" site_id="0-9-channel_122044711" lang="hi" xmltv_id="AndTV.in@International">&amp;TV HD</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-68db63942be6c4ceb7947b98" lang="en" xmltv_id="Andromeda.us@UK">Andromeda</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Africa">Angel TV Arabia</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@America">Angel TV Arabia</channel>
@@ -242,7 +243,6 @@
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-c44" lang="en" xmltv_id="Channel44.au@SD">Channel 44</channel>
   <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="tataplay.com" site_id="775" lang="hi" xmltv_id="ChannelDivya.in@SD">DIVYA</channel>
-  <channel site="sky.com" site_id="GB#3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
   <channel site="tataplay.com" site_id="161" lang="ur" xmltv_id="ChannelWIN.in@SD">Channel WIN</channel>
   <channel site="tataplay.com" site_id="193" lang="pa" xmltv_id="ChardiklaTimeTV.in@SD">Chardikla Time TV</channel>
@@ -297,9 +297,7 @@
   <channel site="tataplay.com" site_id="316" lang="hi" xmltv_id="DDBharati.in@SD">DD Bharati</channel>
   <channel site="tataplay.com" site_id="317" lang="hi" xmltv_id="DDBihar.in@SD">DD Bihar</channel>
   <channel site="tataplay.com" site_id="1216" lang="hi" xmltv_id="DDChhattisgarh.in@SD">DD Chhattisgarh</channel>
-  <channel site="tataplay.com" site_id="1215" lang="mr" xmltv_id="DDGoa.in@SD">DD Goa</channel>
   <channel site="tataplay.com" site_id="1212" lang="hi" xmltv_id="DDHaryana.in@SD">DD Haryana</channel>
-  <channel site="tataplay.com" site_id="1217" lang="hi" xmltv_id="DDHimachalPradesh.in@SD">DD Himachal</channel>
   <channel site="tataplay.com" site_id="324" lang="en" xmltv_id="DDIndia.in">DD India</channel>
   <channel site="tataplay.com" site_id="324" lang="en" xmltv_id="DDIndia.in@SD">DD India</channel>
   <channel site="tataplay.com" site_id="1188" lang="hi" xmltv_id="DDJharkhand.in@SD">DD Jharkhand</channel>
@@ -308,7 +306,6 @@
   <channel site="tataplay.com" site_id="326" lang="hi" xmltv_id="DDKisan.in@SD">DD Kisan</channel>
   <channel site="tataplay.com" site_id="330" lang="hi" xmltv_id="DDMadhyaPradesh.in@SD">DD Madhya Pradesh</channel>
   <channel site="tataplay.com" site_id="991" lang="en" xmltv_id="DDMeghalaya.in@SD">DD Meghalaya</channel>
-  <channel site="tataplay.com" site_id="1211" lang="en" xmltv_id="DDMizoram.in@SD">DD Mizoram</channel>
   <channel site="tataplay.com" site_id="191" lang="hi" xmltv_id="DDNational.in">DD National</channel>
   <channel site="tataplay.com" site_id="1218" lang="hi" xmltv_id="DDNational.in@HD">DD National HD</channel>
   <channel site="tataplay.com" site_id="191" lang="hi" xmltv_id="DDNational.in@SD">DD National</channel>
@@ -317,7 +314,6 @@
   <channel site="tataplay.com" site_id="322" lang="hi" xmltv_id="DDNews.in@SD">DD News</channel>
   <channel site="tataplay.com" site_id="335" lang="pa" xmltv_id="DDPunjabi.in@SD">DD Punjabi</channel>
   <channel site="tataplay.com" site_id="332" lang="hi" xmltv_id="DDRajasthan.in@SD">DD Rajasthan</channel>
-  <channel site="tataplay.com" site_id="336" lang="mr" xmltv_id="DDSahyadri.in@SD">DD Sahyadri</channel>
   <channel site="tataplay.com" site_id="1191" lang="hi" xmltv_id="DDSports.in@HD">DD Sports HD</channel>
   <channel site="tataplay.com" site_id="223" lang="hi" xmltv_id="DDSports.in@SD">DD Sports</channel>
   <channel site="tataplay.com" site_id="338" lang="hi" xmltv_id="DDUrdu.in">DD Urdu</channel>
@@ -499,7 +495,6 @@
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" lang="en" xmltv_id="GravitasMovies.us@SD">Gravitas Movies</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" lang="en" xmltv_id="GritXtra.us@SD">Grit Xtra</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-63489a771159f6a5ce819b7b" lang="en" xmltv_id="GrjngoWesternMovies.de@SD">Grjngo - Western Movies</channel>
-  <channel site="tataplay.com" site_id="365" lang="pa" xmltv_id="GulistanNews.in@SD">Gulistan News</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#68503d1736c9361b191e7d89" lang="en" xmltv_id="Gunsmoke.us@SD">Gunsmoke</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f8746eabd529300418246d9" lang="en" xmltv_id="GustoTV.ca@SD">GUSTOTV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" lang="hi" xmltv_id="Gyandarshan.in@HD">Gyandarshan</channel>
@@ -563,12 +558,6 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_IND24" lang="hi" xmltv_id="Ind24.in@SD">IND24</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
   <channel site="tataplay.com" site_id="1084" lang="hi" xmltv_id="IndiaDailyLive.in@SD">India Daily 24x7</channel>
-  <channel site="tataplay.com" site_id="183" lang="hi" xmltv_id="IndiaNews.in@SD">India News</channel>
-  <channel site="tataplay.com" site_id="13" lang="hi" xmltv_id="IndiaNewsHaryana.in@SD">India News Haryana</channel>
-  <channel site="tataplay.com" site_id="222" lang="hi" xmltv_id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD">India News MP CG</channel>
-  <channel site="tataplay.com" site_id="366" lang="pa" xmltv_id="IndiaNewsPunjabHimachal.in@SD">India News Punjab</channel>
-  <channel site="tataplay.com" site_id="14" lang="hi" xmltv_id="IndiaNewsRajasthan.in@SD">India News Rajasthan</channel>
-  <channel site="tataplay.com" site_id="30" lang="hi" xmltv_id="IndiaNewsUttarPradesh.in@SD">India News UP UK</channel>
   <channel site="tataplay.com" site_id="104" lang="hi" xmltv_id="IndiaTV.in">India TV</channel>
   <channel site="tataplay.com" site_id="104" lang="hi" xmltv_id="IndiaTV.in@SD">India TV</channel>
   <channel site="tataplay.com" site_id="1407" lang="hi" xmltv_id="IndiaTVSpeedNews.in@HD">India TV Speed News HD</channel>
@@ -614,7 +603,6 @@
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" lang="en" xmltv_id="KidsFlix.us@SD">KidsFlix</channel>
   <channel site="distro.tv" site_id="83822" lang="en" xmltv_id="KozoomTV.fr@SD">KOZOOM TV</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#60fb01a24795a6000762fe83" lang="en" xmltv_id="LEGOKidsTV.us@SD">LEGO Kids TV</channel>
-  <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk@SD">Latest TV</channel>
   <channel site="tvtv.us" site_id="109553" lang="en" xmltv_id="LawCrime.us@SD">Law &amp; Crime</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#51c75f7bb6f26ba1cd00002f" lang="en" xmltv_id="LittleStarsUniverse.us@SD">Little Stars Universe</channel>
   <channel site="tvtv.us" site_id="119219" lang="en" xmltv_id="LiveNOWfromFOX.us@SD">LiveNow From FOX</channel>
@@ -1164,7 +1152,6 @@
   <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="en" xmltv_id="TBNArmenia.us@SD">TBN Armenia</channel>
   <channel site="sky.com" site_id="GB#3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487" lang="en" xmltv_id="TED.us@SD">TED</channel>
-  <channel site="sky.com" site_id="DE#51" lang="en" xmltv_id="TELE5.de@SD">TELE 5</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8" lang="en" xmltv_id="TGJunior.us@SD">TG Junior</channel>
   <channel site="freeview.co.uk" site_id="64257#15592" lang="en" xmltv_id="TJC.uk@SD">TJC</channel>

@@ -34,18 +34,18 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Andpictures.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540\" group-title=\"Movies\",&pictures HD (1080p)",
-    "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
-    "name": "&pictures HD (1080p)",
-    "tvg_id": "Andpictures.in@HD"
+    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",&TV International (1080p)",
+    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+    "name": "&TV International (1080p)",
+    "tvg_id": "AndTV.in@International"
   },
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",&TV International (1080p)",
-    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-    "name": "&TV International (1080p)",
-    "tvg_id": "AndTV.in@International"
+    "extinf": "#EXTINF:-1 tvg-id=\"Andpictures.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540\" group-title=\"Movies\",&pictures HD (1080p)",
+    "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
+    "name": "&pictures HD (1080p)",
+    "tvg_id": "Andpictures.in@HD"
   },
   {
     "lang": "Hindi",
@@ -225,22 +225,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnimalPlanet.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png\" group-title=\"Documentary\",Animal Planet (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
-    "name": "Animal Planet (India) (720p)",
-    "tvg_id": "AnimalPlanet.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnimalPlanet.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png\" group-title=\"Documentary\",Animal Planet (India) HD (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
-    "name": "Animal Planet (India) HD (720p)",
-    "tvg_id": "AnimalPlanet.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"AnjanTV.in@SD\" tvg-logo=\"https://i.imgur.com/sh0yFSf.png\" group-title=\"Entertainment\",Anjan TV (720p)",
     "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
@@ -250,9 +234,9 @@
   {
     "lang": "Hindi",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnmolTV.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540\" group-title=\"Entertainment\",Anmol TV (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
-    "name": "Anmol TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"AnmolTV.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Anmol TV (576p)",
+    "url": "https://fta.ektv.in/live/256/master.m3u8",
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Anmol TV (576p)",
     "tvg_id": "AnmolTV.in@SD"
   },
   {
@@ -478,14 +462,6 @@
     "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
     "name": "BVG (576p)",
     "tvg_id": "BVG.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetwork.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png\" group-title=\"Animation;Kids\",Cartoon Network (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
-    "name": "Cartoon Network (India) (720p)",
-    "tvg_id": "CartoonNetwork.in@SD"
   },
   {
     "lang": "Hindi",
@@ -818,34 +794,10 @@
   {
     "lang": "Hindi",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryChannel.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540\" group-title=\"Entertainment\",Discovery Channel (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
-    "name": "Discovery Channel (India) (720p)",
-    "tvg_id": "DiscoveryChannel.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryChannel.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540\" group-title=\"Entertainment\",Discovery Channel (India) HD (1080p)",
     "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
     "name": "Discovery Channel (India) HD (1080p)",
     "tvg_id": "DiscoveryChannel.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryKids.in@SD\" tvg-logo=\"https://i.imgur.com/0iNQvoL.png\" group-title=\"Kids\",Discovery Kids (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
-    "name": "Discovery Kids (720p)",
-    "tvg_id": "DiscoveryKids.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryScience.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540\" group-title=\"Science\",Discovery Science (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8",
-    "name": "Discovery Science (720p)",
-    "tvg_id": "DiscoveryScience.in@SD"
   },
   {
     "lang": "Hindi",
@@ -1106,7 +1058,7 @@
   {
     "lang": "Hindi",
     "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"HindiHits.in@SD\" tvg-logo=\"https://i.postimg.cc/ryC1Y2K4/Capture.png\" group-title=\"Music\",Hindi Hits (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"HindiHits.in@SD\" tvg-logo=\"https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png\" group-title=\"Music\",Hindi Hits (1080p)",
     "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
     "name": "Hindi Hits (1080p)",
     "tvg_id": "HindiHits.in@SD"
@@ -1278,14 +1230,6 @@
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8",
     "name": "Insync (576p)",
     "tvg_id": "Insync.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"InvestigationDiscovery.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png\" group-title=\"Documentary\",Investigation Discovery (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8",
-    "name": "Investigation Discovery (India) (720p)",
-    "tvg_id": "InvestigationDiscovery.in@SD"
   },
   {
     "lang": "Hindi",
@@ -1906,9 +1850,9 @@
   {
     "lang": "Hindi",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png\" group-title=\"Animation;Kids\",Pogo (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
-    "name": "Pogo (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png\" group-title=\"Animation;Kids\",Pogo (576p)",
+    "url": "http://103.135.253.32:8080/POGO/index.m3u8",
+    "name": "Pogo (576p)",
     "tvg_id": "Pogo.in@SD"
   },
   {
@@ -2273,14 +2217,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonySAB.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540\" group-title=\"Entertainment\",Sony SAB (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
-    "name": "Sony SAB (720p)",
-    "tvg_id": "SonySAB.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"SonyWah.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Wah (576p)",
     "url": "http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass",
@@ -2529,22 +2465,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"TLC.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png\" group-title=\"Lifestyle\",TLC (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8",
-    "name": "TLC (India) (720p)",
-    "tvg_id": "TLC.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"TLC.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png\" group-title=\"Lifestyle\",TLC (India) HD (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
-    "name": "TLC (India) HD (720p)",
-    "tvg_id": "TLC.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"TNPNews.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png\" group-title=\"News\",TNP News (1080p)",
     "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8",
@@ -2714,7 +2634,7 @@
   {
     "lang": "Hindi",
     "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"VisionBeats.in@SD\" tvg-logo=\"https://i.imgur.com/xx5RQdi.png\" group-title=\"Music\",Vision Beats (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"VisionBeats.in@SD\" tvg-logo=\"https://i.imgur.com/lxR5FKh.png\" group-title=\"Music\",Vision Beats (720p)",
     "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
     "name": "Vision Beats (720p)",
     "tvg_id": "VisionBeats.in@SD"
@@ -4689,14 +4609,6 @@
   },
   {
     "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"AE.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png\" group-title=\"Entertainment\",A&E (720p)",
-    "url": "http://23.239.31.26:8989/aande/index.m3u8",
-    "name": "A&E (720p)",
-    "tvg_id": "AE.us@East"
-  },
-  {
-    "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"AbanteTV.ph@HD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg\" group-title=\"News\",Abante TV (1080p)",
     "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
@@ -5134,14 +5046,6 @@
     "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
     "name": "ACC Digital Network (1080p)",
     "tvg_id": "ACCDigitalNetwork.us@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"ACCNetwork.us@SD\" tvg-logo=\"https://i.imgur.com/TpCkbkT.png\" group-title=\"Sports\",ACC Network (720p)",
-    "url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
-    "name": "ACC Network (720p)",
-    "tvg_id": "ACCNetwork.us@SD"
   },
   {
     "lang": "English",
@@ -5590,14 +5494,6 @@
     "url": "https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8",
     "name": "Amazing Facts TV (1080p)",
     "tvg_id": "AmazingFactsTV.us@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AMC.us@EastHD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png\" group-title=\"Movies\",AMC (United States) (720p)",
-    "url": "http://23.239.31.26:8989/amc/index.m3u8",
-    "name": "AMC (United States) (720p)",
-    "tvg_id": "AMC.us@EastHD"
   },
   {
     "lang": "English",
@@ -6298,9 +6194,9 @@
   {
     "lang": "English",
     "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"AXSTV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png\" group-title=\"Music\",AXS TV (720p)",
-    "url": "http://23.239.31.26:8989/axstv/index.m3u8",
-    "name": "AXS TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"AXSTV.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png\" group-title=\"Music\",AXS TV (576p)",
+    "url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
+    "name": "AXS TV (576p)",
     "tvg_id": "AXSTV.us@SD"
   },
   {
@@ -6422,14 +6318,6 @@
     "url": "https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8",
     "name": "Baywatch (1080p)",
     "tvg_id": "Baywatch.us@US"
-  },
-  {
-    "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCAmerica.us@East\" tvg-logo=\"https://i.imgur.com/pTiiPz0.png\" group-title=\"Entertainment\",BBC America (720p)",
-    "url": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
-    "name": "BBC America (720p)",
-    "tvg_id": "BBCAmerica.us@East"
   },
   {
     "lang": "English",
@@ -10194,14 +10082,6 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryTurbo.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png\" group-title=\"Auto\",Discovery Turbo (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8",
-    "name": "Discovery Turbo (India) (720p)",
-    "tvg_id": "DiscoveryTurbo.in@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryTurbo.uk@SD\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2409.png\" group-title=\"Auto\",Discovery Turbo (United Kingdom)",
     "url": "http://37.49.224.5/stream/13/index.m3u8",
     "name": "Discovery Turbo (United Kingdom)",
@@ -10986,18 +10866,18 @@
   {
     "lang": "English",
     "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540\" group-title=\"Sports\",Eurosport (India) (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8",
-    "name": "Eurosport (India) (720p)",
-    "tvg_id": "Eurosport.in@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Sports",
     "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540\" group-title=\"Sports\",Eurosport (India) HD (1080p)",
     "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
     "name": "Eurosport (India) HD (1080p)",
     "tvg_id": "Eurosport.in@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"EurovisionSport.uk@Europe\" tvg-logo=\"https://images.ctfassets.net/2b1dkanupt14/1A1Z8Gcn2NkbJRzTjxuj6h/2c14436cdc5b78e746a256e9f0c11a70/eurovision-icon.png\" group-title=\"Sports\",Eurovision Sport (1080p)",
+    "url": "https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8",
+    "name": "Eurovision Sport (1080p)",
+    "tvg_id": "EurovisionSport.uk@Europe"
   },
   {
     "lang": "English",
@@ -11774,14 +11654,6 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
     "name": "Fox (United States) WNYW (1080p)",
     "tvg_id": "Fox.us@WNYW"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Fox.us@WSVN\" tvg-logo=\"https://imgx.fubo.tv/station_logos/fox_c.png\" group-title=\"General\",Fox (United States) WSVN (1080p)",
-    "url": "http://190.197.41.183/Fox/index.m3u8",
-    "name": "Fox (United States) WSVN (1080p)",
-    "tvg_id": "Fox.us@WSVN"
   },
   {
     "lang": "English",
@@ -15009,14 +14881,6 @@
   },
   {
     "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"MagnoliaNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/960px-Magnolia_Network.svg.png\" group-title=\"Lifestyle\",Magnolia Network (720p)",
-    "url": "http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8",
-    "name": "Magnolia Network (720p)",
-    "tvg_id": "MagnoliaNetwork.us@East"
-  },
-  {
-    "lang": "English",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"MahaasinTV.tz@SD\" tvg-logo=\"https://i.imgur.com/wdfdKvC.png\" group-title=\"Religious\",Mahaasin TV",
     "url": "https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8",
@@ -16715,7 +16579,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"NBC.us@East\" tvg-logo=\"https://i.imgur.com/nxY84W5.png\" group-title=\"General\",NBC (1080p)",
-    "url": "http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8",
+    "url": "http://stream.cammonitorplus.net/1785/index.m3u8",
     "name": "NBC (1080p)",
     "tvg_id": "NBC.us@East"
   },
@@ -16910,14 +16774,6 @@
     "url": "https://live.field59.com/wrde/wrde1/playlist.m3u8",
     "name": "NBC WRDE-LD (720p) [Not 24/7]",
     "tvg_id": "NBC.us@WRDELD"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"NBC.us@WTLV\" tvg-logo=\"https://i.imgur.com/nxY84W5.png\" group-title=\"General\",NBC WTLV (1080p)",
-    "url": "http://190.197.41.183/NBC/index.m3u8",
-    "name": "NBC WTLV (1080p)",
-    "tvg_id": "NBC.us@WTLV"
   },
   {
     "lang": "English",
@@ -17118,22 +16974,6 @@
     "url": "https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8",
     "name": "Nevis Television (720p)",
     "tvg_id": "NevisTelevision.kn@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"NewChannel.ca@SD\" tvg-logo=\"https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920\" http-referrer=\"https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4\" group-title=\"Kids;Music\",New Channel (480p)",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8",
-    "name": "New Channel (480p)",
-    "tvg_id": "NewChannel.ca@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"NewChannelPop.ca@SD\" tvg-logo=\"https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920\" http-referrer=\"https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85\" group-title=\"Kids\",New Channel Pop! (480p)",
-    "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8",
-    "name": "New Channel Pop! (480p)",
-    "tvg_id": "NewChannelPop.ca@SD"
   },
   {
     "lang": "English",
@@ -23162,14 +23002,6 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Telemundo.us@East\" tvg-logo=\"https://imgx.fubo.tv/station_logos/telemundo_c.png\" group-title=\"General\",Telemundo (720p)",
-    "url": "http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8",
-    "name": "Telemundo (720p)",
-    "tvg_id": "Telemundo.us@East"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Telemundo.us@EastHD\" tvg-logo=\"https://imgx.fubo.tv/station_logos/telemundo_c.png\" group-title=\"General\",Telemundo East HD (1080p)",
     "url": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
     "name": "Telemundo East HD (1080p)",
@@ -24242,6 +24074,14 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"TomSingsTV.us@HD\" tvg-logo=\"https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920\" http-referrer=\"https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4\" group-title=\"Kids\",Tom Sings TV (1080p)",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
+    "name": "Tom Sings TV (1080p)",
+    "tvg_id": "TomSingsTV.us@HD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"ToonamiAftermath.us@East\" tvg-logo=\"https://i.imgur.com/aSjhZK7.png\" group-title=\"Animation\",Toonami Aftermath (480p)",
     "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
     "name": "Toonami Aftermath (480p)",
@@ -24843,7 +24683,7 @@
     "lang": "English",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"TVPaiEterno.br@SD\" tvg-logo=\"https://i.imgur.com/iuoXchN.png\" group-title=\"Religious\",TV Pai Eterno (720p)",
-    "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+    "url": "http://186.219.52.187/pai_eterno/index.m3u8",
     "name": "TV Pai Eterno (720p)",
     "tvg_id": "TVPaiEterno.br@SD"
   },
@@ -25346,22 +25186,6 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"UniMas.us@Central\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png\" group-title=\"Undefined\",UniMas Central (720p)",
-    "url": "http://190.197.41.183/Unimas/mono.m3u8",
-    "name": "UniMas Central (720p)",
-    "tvg_id": "UniMas.us@Central"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"UniMas.us@WAMIDT\" tvg-logo=\"https://i.imgur.com/UpnzXnr.png\" group-title=\"Undefined\",UniMas WAMI-DT (1080p)",
-    "url": "http://190.197.41.183/Unimas/index.m3u8",
-    "name": "UniMas WAMI-DT (1080p)",
-    "tvg_id": "UniMas.us@WAMIDT"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"UniMas.us@WXTVDT\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png\" group-title=\"Undefined\",UniMas WXTV-DT (1080p)",
     "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
     "name": "UniMas WXTV-DT (1080p)",
@@ -25390,14 +25214,6 @@
     "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
     "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
     "tvg_id": "UniversalCrime.us@East"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"Univision.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png\" group-title=\"Undefined\",Univision (1080p)",
-    "url": "http://190.197.41.183/Univision/index.m3u8",
-    "name": "Univision (1080p)",
-    "tvg_id": "Univision.us@East"
   },
   {
     "lang": "English",
@@ -25435,7 +25251,7 @@
     "lang": "English",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"USANetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png\" group-title=\"Comedy;Movies;Series;Sports\",USA Network (720p)",
-    "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+    "url": "http://200.32.231.178/USA_NETWORK/index.m3u8",
     "name": "USA Network (720p)",
     "tvg_id": "USANetwork.us@East"
   },
@@ -26809,6 +26625,14 @@
   },
   {
     "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\",&TV International (1080p)",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "name": "&TV International (1080p)",
+    "tvg_id": "AndTV.in@International"
+  },
+  {
+    "lang": "Hindi",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"AadinathTV.in@SD\",Aadinath TV (576p)",
     "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -27193,14 +27017,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"AnmolTV.in@SD\",Anmol TV (576p)",
-    "url": "https://fta.ektv.in/live/256/master.m3u8",
-    "name": "Anmol TV (576p)",
-    "tvg_id": "AnmolTV.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"APN.in@SD\",APN (576p)",
     "url": "https://fta.ektv.in/live/593/master.m3u8",
@@ -27542,14 +27358,6 @@
     "url": "https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8",
     "name": "BSTV (576p)",
     "tvg_id": "BSTV.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetworkHDPlus.in@SD\",Cartoon Network HD+ (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
-    "name": "Cartoon Network HD+ (720p)",
-    "tvg_id": "CartoonNetworkHDPlus.in@SD"
   },
   {
     "lang": "Hindi",
@@ -27966,14 +27774,6 @@
     "url": "https://fta.ektv.in/live/576/master.m3u8",
     "name": "DD Uttarakhand (576p)",
     "tvg_id": "DDUttarakhand.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryChannel.in@HD\",Discovery Channel HD (720p)",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
-    "name": "Discovery Channel HD (720p)",
-    "tvg_id": "DiscoveryChannel.in@HD"
   },
   {
     "lang": "Hindi",
@@ -30886,14 +30686,6 @@
     "url": "http://103.135.253.32:8080/STAR-PLUS/index.m3u8",
     "name": "StarPlus HD (1080p)",
     "tvg_id": "StarPlus.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Pogo.in@SD\",Pogo (576p)",
-    "url": "http://103.135.253.32:8080/POGO/index.m3u8",
-    "name": "Pogo (576p)",
-    "tvg_id": "Pogo.in@SD"
   },
   {
     "lang": "Hindi",
