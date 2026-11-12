@@ -81,7 +81,6 @@
   <channel site="i.mjh.nz" site_id="Roku/all#d748045d77105901b8e25fcc34aa9e2f" lang="en" xmltv_id="AmericasVoice.us@SD">America's Voice</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5e1f7da4bc7d740009831259" lang="en" xmltv_id="AmericasVoiceNews.us@SD">America's Voice News</channel>
   <channel site="tataplay.com" site_id="1486" lang="hi" xmltv_id="AnandTV.in@SD">Anand TV</channel>
-  <channel site="zee5.com" site_id="0-9-channel_122044711" lang="hi" xmltv_id="AndTV.in@International">&amp;TV HD</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-68db63942be6c4ceb7947b98" lang="en" xmltv_id="Andromeda.us@UK">Andromeda</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@Africa">Angel TV Arabia</channel>
   <channel site="sat.tv" site_id="1#33#Angel TV Arabia" lang="en" xmltv_id="AngelTV.in@America">Angel TV Arabia</channel>
@@ -206,6 +205,7 @@
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" lang="en" xmltv_id="CBSSportsGolazoNetwork.us@SD">CBS Sports Golazo Network</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-657107dc56226238740fcc2d" lang="en" xmltv_id="CBSSportsHQ.us@SD">CBS Sports HQ</channel>
   <channel site="programtv.onet.pl" site_id="bbc-cbeebies-2" lang="en" xmltv_id="CBeebies.pl@SD">BBC CBeebies</channel>
+  <channel site="distro.tv" site_id="95226" lang="en" xmltv_id="CCTV4America.cn@SD">CCTV-4</channel>
   <channel site="nowplayer.now.com" site_id="542" lang="en" xmltv_id="CCTV4Asia.cn@SD">CCTV-4</channel>
   <channel site="chaines-tv.orange.fr" site_id="90551" lang="en" xmltv_id="CCTV4Europe.cn@SD">CCTV 4</channel>
   <channel site="mi.tv" site_id="hn#cdm-cadena-de-milagros" lang="en" xmltv_id="CDMInternacional.pr@SD">CDM - Cadena de Milagros</channel>
@@ -235,6 +235,7 @@
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-6164a963766ab4f9f57e81b1" lang="en" xmltv_id="CampSpoopy.us@SD">Camp Spoopy</channel>
   <channel site="dstv.com" site_id="zaf#263" lang="en" xmltv_id="CapeTownTV.za@SD">Cape Town TV</channel>
   <channel site="tvtv.us" site_id="71302" lang="en" xmltv_id="CarsTV.us@SD">Cars.TV</channel>
+  <channel site="tvtv.us" site_id="60048" lang="en" xmltv_id="CartoonNetwork.us@East">Cartoon Network East</channel>
   <channel site="nowplayer.now.com" site_id="443" lang="en" xmltv_id="CartoonNetworkAsia.sg@SD">Cartoon Network</channel>
   <channel site="nowplayer.now.com" site_id="443" lang="en" xmltv_id="CartoonNetworkAsia.sg@Thailand">Cartoon Network</channel>
   <channel site="programtv.onet.pl" site_id="boomerang-270" lang="en" xmltv_id="CartoonitoCEE.uk@Poland">Cartoonito</channel>
@@ -243,6 +244,7 @@
   <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-c44" lang="en" xmltv_id="Channel44.au@SD">Channel 44</channel>
   <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="tataplay.com" site_id="775" lang="hi" xmltv_id="ChannelDivya.in@SD">DIVYA</channel>
+  <channel site="sky.com" site_id="GB#3815" lang="en" xmltv_id="ChannelS.uk@SD">CHSTV</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
   <channel site="tataplay.com" site_id="161" lang="ur" xmltv_id="ChannelWIN.in@SD">Channel WIN</channel>
   <channel site="tataplay.com" site_id="193" lang="pa" xmltv_id="ChardiklaTimeTV.in@SD">Chardikla Time TV</channel>
@@ -297,7 +299,9 @@
   <channel site="tataplay.com" site_id="316" lang="hi" xmltv_id="DDBharati.in@SD">DD Bharati</channel>
   <channel site="tataplay.com" site_id="317" lang="hi" xmltv_id="DDBihar.in@SD">DD Bihar</channel>
   <channel site="tataplay.com" site_id="1216" lang="hi" xmltv_id="DDChhattisgarh.in@SD">DD Chhattisgarh</channel>
+  <channel site="tataplay.com" site_id="1215" lang="mr" xmltv_id="DDGoa.in@SD">DD Goa</channel>
   <channel site="tataplay.com" site_id="1212" lang="hi" xmltv_id="DDHaryana.in@SD">DD Haryana</channel>
+  <channel site="tataplay.com" site_id="1217" lang="hi" xmltv_id="DDHimachalPradesh.in@SD">DD Himachal</channel>
   <channel site="tataplay.com" site_id="324" lang="en" xmltv_id="DDIndia.in">DD India</channel>
   <channel site="tataplay.com" site_id="324" lang="en" xmltv_id="DDIndia.in@SD">DD India</channel>
   <channel site="tataplay.com" site_id="1188" lang="hi" xmltv_id="DDJharkhand.in@SD">DD Jharkhand</channel>
@@ -306,6 +310,7 @@
   <channel site="tataplay.com" site_id="326" lang="hi" xmltv_id="DDKisan.in@SD">DD Kisan</channel>
   <channel site="tataplay.com" site_id="330" lang="hi" xmltv_id="DDMadhyaPradesh.in@SD">DD Madhya Pradesh</channel>
   <channel site="tataplay.com" site_id="991" lang="en" xmltv_id="DDMeghalaya.in@SD">DD Meghalaya</channel>
+  <channel site="tataplay.com" site_id="1211" lang="en" xmltv_id="DDMizoram.in@SD">DD Mizoram</channel>
   <channel site="tataplay.com" site_id="191" lang="hi" xmltv_id="DDNational.in">DD National</channel>
   <channel site="tataplay.com" site_id="1218" lang="hi" xmltv_id="DDNational.in@HD">DD National HD</channel>
   <channel site="tataplay.com" site_id="191" lang="hi" xmltv_id="DDNational.in@SD">DD National</channel>
@@ -314,6 +319,7 @@
   <channel site="tataplay.com" site_id="322" lang="hi" xmltv_id="DDNews.in@SD">DD News</channel>
   <channel site="tataplay.com" site_id="335" lang="pa" xmltv_id="DDPunjabi.in@SD">DD Punjabi</channel>
   <channel site="tataplay.com" site_id="332" lang="hi" xmltv_id="DDRajasthan.in@SD">DD Rajasthan</channel>
+  <channel site="tataplay.com" site_id="336" lang="mr" xmltv_id="DDSahyadri.in@SD">DD Sahyadri</channel>
   <channel site="tataplay.com" site_id="1191" lang="hi" xmltv_id="DDSports.in@HD">DD Sports HD</channel>
   <channel site="tataplay.com" site_id="223" lang="hi" xmltv_id="DDSports.in@SD">DD Sports</channel>
   <channel site="tataplay.com" site_id="338" lang="hi" xmltv_id="DDUrdu.in">DD Urdu</channel>
@@ -495,6 +501,7 @@
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" lang="en" xmltv_id="GravitasMovies.us@SD">Gravitas Movies</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" lang="en" xmltv_id="GritXtra.us@SD">Grit Xtra</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-63489a771159f6a5ce819b7b" lang="en" xmltv_id="GrjngoWesternMovies.de@SD">Grjngo - Western Movies</channel>
+  <channel site="tataplay.com" site_id="365" lang="pa" xmltv_id="GulistanNews.in@SD">Gulistan News</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#68503d1736c9361b191e7d89" lang="en" xmltv_id="Gunsmoke.us@SD">Gunsmoke</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f8746eabd529300418246d9" lang="en" xmltv_id="GustoTV.ca@SD">GUSTOTV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_GYANDARSHAN" lang="hi" xmltv_id="Gyandarshan.in@HD">Gyandarshan</channel>
@@ -516,6 +523,7 @@
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" lang="en" xmltv_id="HallmarkMoviesMore.us@SD">Hallmark Movies &amp;amp; More</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5f7794162a4559000781fc12" lang="en" xmltv_id="HappyDays.us@CA">Happy Days</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/us#5f7794162a4559000781fc12" lang="en" xmltv_id="HappyDays.us@SD">Happy Days</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_HARKHABAR" lang="hi" xmltv_id="HarKhabar.in@SD">HARKHABAR</channel>
   <channel site="tataplay.com" site_id="837" lang="hi" xmltv_id="HareKrsnaTV.in@SD">Hare Krsna</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629" lang="en" xmltv_id="HauntTV.ca@CA">HauntTV</channel>
   <channel site="i.mjh.nz" site_id="Plex/gb#64305451fc3be5947773c339-682dfd3947a628d2f56948cc" lang="en" xmltv_id="HauntTV.ca@SD">HauntTV</channel>
@@ -558,6 +566,12 @@
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_IND24" lang="hi" xmltv_id="Ind24.in@SD">IND24</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_INDIA_AHEAD" lang="en" xmltv_id="IndiaAhead.in@SD">INDIA AHEAD</channel>
   <channel site="tataplay.com" site_id="1084" lang="hi" xmltv_id="IndiaDailyLive.in@SD">India Daily 24x7</channel>
+  <channel site="tataplay.com" site_id="183" lang="hi" xmltv_id="IndiaNews.in@SD">India News</channel>
+  <channel site="tataplay.com" site_id="13" lang="hi" xmltv_id="IndiaNewsHaryana.in@SD">India News Haryana</channel>
+  <channel site="tataplay.com" site_id="222" lang="hi" xmltv_id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD">India News MP CG</channel>
+  <channel site="tataplay.com" site_id="366" lang="pa" xmltv_id="IndiaNewsPunjabHimachal.in@SD">India News Punjab</channel>
+  <channel site="tataplay.com" site_id="14" lang="hi" xmltv_id="IndiaNewsRajasthan.in@SD">India News Rajasthan</channel>
+  <channel site="tataplay.com" site_id="30" lang="hi" xmltv_id="IndiaNewsUttarPradesh.in@SD">India News UP UK</channel>
   <channel site="tataplay.com" site_id="104" lang="hi" xmltv_id="IndiaTV.in">India TV</channel>
   <channel site="tataplay.com" site_id="104" lang="hi" xmltv_id="IndiaTV.in@SD">India TV</channel>
   <channel site="tataplay.com" site_id="1407" lang="hi" xmltv_id="IndiaTVSpeedNews.in@HD">India TV Speed News HD</channel>
@@ -659,6 +673,7 @@
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430" lang="en" xmltv_id="MaverickBlackCinema.us@SD">Maverick Black Cinema</channel>
   <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6515fd4f2ff655e77635c628" lang="en" xmltv_id="McLeodsDaughters.us@UK">McLeods Daughters</channel>
   <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us@WSBSTV">Mega TV</channel>
+  <channel site="canalplus.com" site_id="#560" lang="en" xmltv_id="Mezzo.fr@SD">MEZZO</channel>
   <channel site="tvtv.us" site_id="115902" lang="en" xmltv_id="MezzoLive.fr@SD">Mezzo Live HD</channel>
   <channel site="tataplay.com" site_id="399" lang="pa" xmltv_id="Mh1Music.in@SD">MH One</channel>
   <channel site="tataplay.com" site_id="401" lang="pa" xmltv_id="Mh1News.in@SD">MH One News</channel>
@@ -681,6 +696,7 @@
   <channel site="i.mjh.nz" site_id="Plex/gb#64305451fc3be5947773c339-606cbf167e9765002c2a6131" lang="en" xmltv_id="MovieSphere.us@UK">MOVIESPHERE</channel>
   <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" lang="en" xmltv_id="MovieSphere.us@US">MOVIESPHERE</channel>
   <channel site="shahid.mbc.net" site_id="986064" lang="en" xmltv_id="MoviesAction.sa@SD">Movies Action</channel>
+  <channel site="tataplay.com" site_id="562" lang="en" xmltv_id="MoviesNow.in@HD">Movies Now HD</channel>
   <channel site="shahid.mbc.net" site_id="986069" lang="en" xmltv_id="MoviesThriller.sa@SD">Movies Thriller</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-66a2e7fe94b6a49cb5054d7b" lang="en" xmltv_id="MrBeanAnimated.uk@English">Mr. Bean</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-671a924b79fce6628115432c" lang="en" xmltv_id="MrBeanLiveAction.uk@SD">Mr. Bean Live Action</channel>
@@ -1085,7 +1101,6 @@
   <channel site="tataplay.com" site_id="458" lang="hi" xmltv_id="ShubhTV.in@SD">Shubh TV</channel>
   <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV" lang="hi" xmltv_id="ShubhsandeshTV.in@SD">Shubhsandesh TV</channel>
   <channel site="sky.com" site_id="GB#1406" lang="en" xmltv_id="SkyNews.ie@SD">Sky News</channel>
-  <channel site="i.mjh.nz" site_id="Flash/epg#sky-news-weather" lang="en" xmltv_id="SkyNewsWeather.uk@SD">Sky News Weather</channel>
   <channel site="i.mjh.nz" site_id="Foxtel/epg#SRA" lang="en" xmltv_id="SkyRacing1.au@SD">Sky Racing 1</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-616df1be2cf008a748c8cb53" lang="en" xmltv_id="SlopesTV.us@SD">SLOPES</channel>
   <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us@SD">Smart LifeStyle TV</channel>
@@ -1094,6 +1109,7 @@
   <channel site="dishtv.in" site_id="142920" lang="hi" xmltv_id="SongdewTV.in@SD">Songdew</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-62ba4aaff663580a7238f327" lang="en" xmltv_id="SonicTV.us@SD">Sonic TV</channel>
   <channel site="tataplay.com" site_id="15" lang="hi" xmltv_id="SonyEntertainmentTelevision.in@HD">SET HD</channel>
+  <channel site="tataplay.com" site_id="1717" lang="hi" xmltv_id="SonyMax1.in@SD">SONY MAX 1</channel>
   <channel site="tvtv.us" site_id="69091" lang="en" xmltv_id="SonyMovies.us@SD">Sony Movies</channel>
   <channel site="tataplay.com" site_id="554" lang="hi" xmltv_id="SonyPal.in@SD">Sony Pal</channel>
   <channel site="tataplay.com" site_id="56" lang="hi" xmltv_id="SonyWah.in@SD">Sony Wah</channel>
@@ -1152,6 +1168,7 @@
   <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="en" xmltv_id="TBNArmenia.us@SD">TBN Armenia</channel>
   <channel site="sky.com" site_id="GB#3109" lang="en" xmltv_id="TBNUK.uk@SD">TBN UK</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487" lang="en" xmltv_id="TED.us@SD">TED</channel>
+  <channel site="sky.com" site_id="DE#51" lang="en" xmltv_id="TELE5.de@SD">TELE 5</channel>
   <channel site="entertainment.ie" site_id="tg4" lang="en" xmltv_id="TG4.ie@SD">TG4</channel>
   <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f123330eca6a20040b328e8" lang="en" xmltv_id="TGJunior.us@SD">TG Junior</channel>
   <channel site="freeview.co.uk" site_id="64257#15592" lang="en" xmltv_id="TJC.uk@SD">TJC</channel>
@@ -1380,7 +1397,6 @@
   <channel site="zee5.com" site_id="0-9-zeetvapac" lang="en" xmltv_id="ZeeTVAsiaPacific.sg@SD">Zee TV APAC HD</channel>
   <channel site="tataplay.com" site_id="637" lang="hi" xmltv_id="ZeeUttarPradeshUttarakhand.in@SD">Zee Uttar Pradesh Uttarakhand</channel>
   <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC2400019EF" lang="en" xmltv_id="ZooMoo.sg@SD">ZooMoo</channel>
-  <channel site="tataplay.com" site_id="96" lang="hi" xmltv_id="Zoom.in@Nepal">Zoom</channel>
   <channel site="tataplay.com" site_id="96" lang="hi" xmltv_id="Zoom.in@SD">Zoom</channel>
   <channel site="tvtv.us" site_id="113143" lang="en" xmltv_id="beINSPORTSXTRA.us@SD">beIN Sports Xtra USA</channel>
   <channel site="tvtv.us" site_id="76942" lang="en" xmltv_id="beINSportsUSA.us@SD">BeIn Sports USA</channel>

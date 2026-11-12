@@ -2,9 +2,9 @@
   {
     "lang": "Hindi",
     "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"7XMusic.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png\" group-title=\"Music\",7X Music (360p)",
-    "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-    "name": "7X Music (360p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"7XMusic.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png\" group-title=\"Music\",7X Music (1080p)",
+    "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+    "name": "7X Music (1080p)",
     "tvg_id": "7XMusic.in@SD"
   },
   {
@@ -35,17 +35,9 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",&TV International (1080p)",
-    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
     "name": "&TV International (1080p)",
     "tvg_id": "AndTV.in@International"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"Andpictures.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540\" group-title=\"Movies\",&pictures HD (1080p)",
-    "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
-    "name": "&pictures HD (1080p)",
-    "tvg_id": "Andpictures.in@HD"
   },
   {
     "lang": "Hindi",
@@ -114,9 +106,9 @@
   {
     "lang": "Hindi",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"AasthaBhajan.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Aastha Bhajan (576p)",
-    "url": "http://103.175.73.12:8080/live/339/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Aastha Bhajan (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"AasthaBhajan.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s142514_ld_h15_aa.png?lock=720x540\" group-title=\"Religious\",Aastha Bhajan (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/218f9e64bdce42369500e93cff50572f/index.m3u8",
+    "name": "Aastha Bhajan (720p)",
     "tvg_id": "AasthaBhajan.in@SD"
   },
   {
@@ -362,9 +354,9 @@
   {
     "lang": "Hindi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"BansalNews.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png\" group-title=\"News\",Bansal News (720p)",
-    "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-    "name": "Bansal News (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"BansalNews.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png\" group-title=\"News\",Bansal News (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f8d92312b9a4783bbd706cf7ed86085/index.m3u8",
+    "name": "Bansal News (1080p)",
     "tvg_id": "BansalNews.in@SD"
   },
   {
@@ -406,14 +398,6 @@
     "url": "https://fta.ektv.in/live/97/97_0.m3u8",
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Bharat Samachar (576p)",
     "tvg_id": "BharatSamachar.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"BharatUpdate.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Update.png\" group-title=\"News\",Bharat Update (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/339/master.m3u8",
-    "name": "Bharat Update (576p)",
-    "tvg_id": "BharatUpdate.in@SD"
   },
   {
     "lang": "Hindi",
@@ -518,14 +502,6 @@
     "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8",
     "name": "Colors Cineplex (576p)",
     "tvg_id": "ColorsCineplex.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ColorsCineplex.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png\" group-title=\"Movies\",Colors Cineplex HD (1080p)",
-    "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
-    "name": "Colors Cineplex HD (1080p)",
-    "tvg_id": "ColorsCineplex.in@HD"
   },
   {
     "lang": "Hindi",
@@ -778,9 +754,9 @@
   {
     "lang": "Hindi",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"DharmSandesh.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Dharm Sandesh (576p)",
-    "url": "https://fta.ektv.in/live/625/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Dharm Sandesh (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"DharmSandesh.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png\" group-title=\"Religious\",Dharm Sandesh (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/aed713462c734923aac946a547265288/index.m3u8",
+    "name": "Dharm Sandesh (720p)",
     "tvg_id": "DharmSandesh.in@SD"
   },
   {
@@ -806,14 +782,6 @@
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
     "name": "Disha TV (396p)",
     "tvg_id": "DishaTV.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"DisneyChannel.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png\" group-title=\"Kids\",Disney Channel (India) HD (1080p)",
-    "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-    "name": "Disney Channel (India) HD (1080p)",
-    "tvg_id": "DisneyChannel.in@HD"
   },
   {
     "lang": "Hindi",
@@ -906,9 +874,9 @@
   {
     "lang": "Hindi",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"FatehTV.in@SD\" tvg-logo=\"https://i.imgur.com/c4ItNkB.png\" group-title=\"Religious\",Fateh TV (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/349/master.m3u8",
-    "name": "Fateh TV (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"FatehTV.in@SD\" tvg-logo=\"https://i.imgur.com/c4ItNkB.png\" group-title=\"Religious\",Fateh TV (1080p)",
+    "url": "https://stream.ottlive.co.in/fatehtv/index.m3u8",
+    "name": "Fateh TV (1080p)",
     "tvg_id": "FatehTV.in@SD"
   },
   {
@@ -930,9 +898,9 @@
   {
     "lang": "Hindi",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"FoodFood.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png\" group-title=\"Cooking;Lifestyle\",Food Food (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/267/master.m3u8",
-    "name": "Food Food (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"FoodFood.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png\" group-title=\"Cooking;Lifestyle\",Food Food (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8",
+    "name": "Food Food (1080p)",
     "tvg_id": "FoodFood.in@SD"
   },
   {
@@ -1010,9 +978,9 @@
   {
     "lang": "Hindi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"GoodNewsToday.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png\" group-title=\"News\",Good News Today (720p)",
-    "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
-    "name": "Good News Today (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"GoodNewsToday.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_NEWS_TODAY/images/LOGO_HD/image.png\" group-title=\"News\",Good News Today (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8",
+    "name": "Good News Today (1080p)",
     "tvg_id": "GoodNewsToday.in@SD"
   },
   {
@@ -1046,6 +1014,14 @@
     "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
     "name": "Gyandarshan HD (576p)",
     "tvg_id": "Gyandarshan.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"HarKhabar.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARKHABAR/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"News\",Har Khabar (576p)",
+    "url": "https://samitaorigin.tangotv.in/HARKHABAR/SAMITAORIGIN/index.m3u8",
+    "name": "Har Khabar (576p)",
+    "tvg_id": "HarKhabar.in@SD"
   },
   {
     "lang": "Hindi",
@@ -1102,14 +1078,6 @@
     "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
     "name": "HSTV (720p)",
     "tvg_id": "HSTV.in@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"HungamaTV.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png\" group-title=\"Kids\",Hungama TV (576p)",
-    "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
-    "name": "Hungama TV (576p)",
-    "tvg_id": "HungamaTV.in@SD"
   },
   {
     "lang": "Hindi",
@@ -1194,9 +1162,9 @@
   {
     "lang": "Hindi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"IndiaTV.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png\" group-title=\"News\",India TV (720p)",
-    "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
-    "name": "India TV (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"IndiaTV.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png\" group-title=\"News\",India TV (1080p)",
+    "url": "https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8",
+    "name": "India TV (1080p)",
     "tvg_id": "IndiaTV.in@SD"
   },
   {
@@ -1441,6 +1409,14 @@
   },
   {
     "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"Media9.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Media9.png\" group-title=\"News\",Media9 (1080p)",
+    "url": "https://media9news.akamaized.net/media9/hls/media9tv.m3u8",
+    "name": "Media9 (1080p)",
+    "tvg_id": "Media9.in@SD"
+  },
+  {
+    "lang": "Hindi",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"MercyTV.in@SD\" tvg-logo=\"https://i.imgur.com/klNH4tV.png\" group-title=\"Religious\",Mercy TV (India) (1080p)",
     "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
@@ -1537,14 +1513,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"NationalGeographic.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540\" group-title=\"Documentary\",National Geographic (India) HD (1080p)",
-    "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
-    "name": "National Geographic (India) HD (1080p)",
-    "tvg_id": "NationalGeographic.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"NaxatraNewsHindi.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png\" group-title=\"News\",Naxatra News Hindi (576p)",
     "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -1562,9 +1530,9 @@
   {
     "lang": "Hindi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"NDTVIndia.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png\" group-title=\"News\",NDTV India (720p)",
-    "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8",
-    "name": "NDTV India (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTVIndia.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png\" group-title=\"News\",NDTV India (1080p)",
+    "url": "https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8",
+    "name": "NDTV India (1080p)",
     "tvg_id": "NDTVIndia.in@SD"
   },
   {
@@ -1761,6 +1729,14 @@
   },
   {
     "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsTVIndia.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/News_TV_India.png\" group-title=\"News\",News TV India (720p)",
+    "url": "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8",
+    "name": "News TV India (720p)",
+    "tvg_id": "NewsTVIndia.in@SD"
+  },
+  {
+    "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"NHBollyFlix.in@HD\" tvg-logo=\"https://i.ibb.co/yF9MPTDK/blyflx.png\" group-title=\"Movies\",NH BollyFlix (1080p)",
     "url": "https://jmp2.uk/stvp-IN46000140Q",
@@ -1902,6 +1878,14 @@
     "url": "https://fta.ektv.in/live/306/master.m3u8",
     "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Undefined\",Raftaar Media (576p)",
     "tvg_id": "RaftaarMedia.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"RajPariwar.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Pariwar.png\" group-title=\"News\",Raj Pariwar (576p)",
+    "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
+    "name": "Raj Pariwar (576p)",
+    "tvg_id": "RajPariwar.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2050,9 +2034,9 @@
   {
     "lang": "Hindi",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"SantvaniChannel.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540\" group-title=\"Undefined\",Santvani Channel (576p)",
-    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8",
-    "name": "Santvani Channel (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"SantvaniChannel.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540\" group-title=\"Undefined\",Santvani Channel (720p)",
+    "url": "https://d1hyhsds9hb4o2.cloudfront.net/master.m3u8",
+    "name": "Santvani Channel (720p)",
     "tvg_id": "SantvaniChannel.in@SD"
   },
   {
@@ -2202,10 +2186,10 @@
   {
     "lang": "Hindi",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"SonyMax.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Max HD (1080p)",
-    "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
-    "name": "Sony Max HD (1080p)",
-    "tvg_id": "SonyMax.in@HD"
+    "extinf": "#EXTINF:-1 tvg-id=\"SonyMax1.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540\" group-title=\"Movies\",Sony Max 1 (720p)",
+    "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
+    "name": "Sony Max 1 (720p)",
+    "tvg_id": "SonyMax1.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2262,22 +2246,6 @@
     "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
     "name": "Star Bharat (United Kingdom) (576p)",
     "tvg_id": "StarBharat.uk@SD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarGold.in@HD\" tvg-logo=\"https://i.imgur.com/xC460sj.png\" group-title=\"Movies\",Star Gold HD (1080p)",
-    "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
-    "name": "Star Gold HD (1080p)",
-    "tvg_id": "StarGold.in@HD"
-  },
-  {
-    "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"StarMovies.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png\" group-title=\"Movies\",Star Movies (India) HD (1080p)",
-    "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
-    "name": "Star Movies (India) HD (1080p)",
-    "tvg_id": "StarMovies.in@HD"
   },
   {
     "lang": "Hindi",
@@ -2366,6 +2334,14 @@
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8",
     "name": "Swaraj Express SMBC (576p)",
     "tvg_id": "SwarajExpressSMBC.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"SwastikStories.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png\" group-title=\"Entertainment\",Swastik Stories (1080p)",
+    "url": "https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8",
+    "name": "Swastik Stories (1080p)",
+    "tvg_id": "SwastikStories.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2482,9 +2458,9 @@
   {
     "lang": "Hindi",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"TotalTVHaryana.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png\" group-title=\"Undefined\",Total TV Haryana (576p)",
-    "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
-    "name": "Total TV Haryana (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TotalTVHaryana.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png\" group-title=\"Undefined\",Total TV Haryana (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4836fb71b5764f70ab1f3815e0295dfd/index.m3u8",
+    "name": "Total TV Haryana (1080p)",
     "tvg_id": "TotalTVHaryana.in@SD"
   },
   {
@@ -2546,9 +2522,9 @@
   {
     "lang": "Hindi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"TV9Bharatvarsh.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png\" group-title=\"News\",TV9 Bharatvarsh (720p)",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
-    "name": "TV9 Bharatvarsh (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV9Bharatvarsh.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png\" group-title=\"News\",TV9 Bharatvarsh (1080p)",
+    "url": "https://amg01106-amg01106c2-amgplt0747.playout.now3.amagi.tv/amg01106c2/hls.m3u8",
+    "name": "TV9 Bharatvarsh (1080p)",
     "tvg_id": "TV9Bharatvarsh.in@SD"
   },
   {
@@ -2618,9 +2594,9 @@
   {
     "lang": "Hindi",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"Vedic.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Vedic (576p)",
-    "url": "https://fta.ektv.in/live/628/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Vedic (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Vedic.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540\" group-title=\"Religious\",Vedic (720p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/index.m3u8",
+    "name": "Vedic (720p)",
     "tvg_id": "Vedic.in@SD"
   },
   {
@@ -2729,14 +2705,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ZeeCinema.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",Zee Cinema HD (1080p)",
-    "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
-    "name": "Zee Cinema HD (1080p)",
-    "tvg_id": "ZeeCinema.in@HD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"ZeeComedyNation.in@HD\" tvg-logo=\"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png\" group-title=\"Comedy\",Zee Comedy Nation (1080p)",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
@@ -2832,14 +2800,6 @@
     "tvg_id": "Zoom.in@SD"
   },
   {
-    "lang": "Hindi",
-    "category": "Music",
-    "extinf": "#EXTINF:-1 tvg-id=\"Zoom.in@Nepal\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png\" group-title=\"Music\",Zoom (India) Nepal (720p)",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
-    "name": "Zoom (India) Nepal (720p)",
-    "tvg_id": "Zoom.in@Nepal"
-  },
-  {
     "lang": "Marathi",
     "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"9XJhakaas.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540\" group-title=\"Music\",9X Jhakaas (1080p)",
@@ -2930,6 +2890,14 @@
   {
     "lang": "Marathi",
     "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStateMaharashtraGoa.in@SD\" tvg-logo=\"https://i.imgur.com/Wl8WMq1.jpg\" group-title=\"News\",News State Maharashtra Goa (720p)",
+    "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8",
+    "name": "News State Maharashtra Goa (720p)",
+    "tvg_id": "NewsStateMaharashtraGoa.in@SD"
+  },
+  {
+    "lang": "Marathi",
+    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"PudhariNews.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUDHARI_NEWS/images/LOGO_HD/image.png\" group-title=\"News\",Pudhari News (576p)",
     "url": "https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8",
     "name": "Pudhari News (576p)",
@@ -2978,9 +2946,9 @@
   {
     "lang": "Marathi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"TV9Marathi.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LOGO_HD/image.png\" group-title=\"News\",TV9 Marathi (720p)",
-    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
-    "name": "TV9 Marathi (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV9Marathi.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_MARATHI/images/LOGO_HD/image.png\" group-title=\"News\",TV9 Marathi (1080p)",
+    "url": "https://amg01106-amg01106c7-amgplt0747.playout.now3.amagi.tv/amg01106c7/hls.m3u8",
+    "name": "TV9 Marathi (1080p)",
     "tvg_id": "TV9Marathi.in@SD"
   },
   {
@@ -3082,6 +3050,14 @@
   {
     "lang": "Punjabi",
     "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"D5ChannelPunjabi.in@SD\" tvg-logo=\"https://play-lh.googleusercontent.com/8zcsR5HWFk84RwYkA6r-OXvYzFtVBOmgnicCYMGXPAmMKEozaRQ9Idw4g2dljsIvZ5ES6r8G_lxs19IU9h-ADg\" group-title=\"News\",D5 Channel Punjabi (1080p)",
+    "url": "https://d5.tv360.ca:3453/live/cd5live.m3u8",
+    "name": "D5 Channel Punjabi (1080p)",
+    "tvg_id": "D5ChannelPunjabi.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"DailyPostTV.in@SD\" tvg-logo=\"https://papaji.freetvindia.com/media/Daily_post.png\" group-title=\"News\",Daily Post TV (1080p)",
     "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8",
     "name": "Daily Post TV (1080p)",
@@ -3098,9 +3074,9 @@
   {
     "lang": "Punjabi",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"DesiChannel.in@SD\" tvg-logo=\"https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png\" group-title=\"Entertainment\",Desi Channel (720p)",
-    "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
-    "name": "Desi Channel (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"DesiChannel.in@SD\" tvg-logo=\"https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png\" group-title=\"Entertainment\",Desi Channel (1080p)",
+    "url": "https://desichannel.kableone.com/desichannel/master.m3u8",
+    "name": "Desi Channel (1080p)",
     "tvg_id": "DesiChannel.in@SD"
   },
   {
@@ -3210,9 +3186,9 @@
   {
     "lang": "Punjabi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"GulistanNews.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Gulistan News (576p)",
-    "url": "https://fta.ektv.in/live/427/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Gulistan News (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"GulistanNews.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540\" group-title=\"News\",Gulistan News (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/030a117c40d84ca99ac8927d3e2a1eec/index.m3u8",
+    "name": "Gulistan News (1080p)",
     "tvg_id": "GulistanNews.in@SD"
   },
   {
@@ -3306,9 +3282,9 @@
   {
     "lang": "Punjabi",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"NamdhariTV.in@SD\" tvg-logo=\"https://i.imgur.com/NalsXTo.png\" group-title=\"Religious\",Namdhari TV (404p) [Not 24/7]",
-    "url": "https://namdhari.tv/live/sbs1.m3u8",
-    "name": "Namdhari TV (404p) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"NamdhariTV.in@SD\" tvg-logo=\"https://i.imgur.com/NalsXTo.png\" group-title=\"Religious\",Namdhari TV (576p)",
+    "url": "https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8",
+    "name": "Namdhari TV (576p)",
     "tvg_id": "NamdhariTV.in@SD"
   },
   {
@@ -3426,10 +3402,18 @@
   {
     "lang": "Punjabi",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"PTCSimran.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540\" group-title=\"Religious\",PTC Simran (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/1503/master.m3u8",
-    "name": "PTC Simran (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"PTCSimran.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540\" group-title=\"Religious\",PTC Simran (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3bc92ffb55814535801f929a1ac96c57/index.m3u8",
+    "name": "PTC Simran (1080p)",
     "tvg_id": "PTCSimran.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"PunjabPlus.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Punjab_Plus.png\" group-title=\"Entertainment\",Punjab Plus (1080p)",
+    "url": "https://punjabplustv.akamaized.net/punjabplustv/master.m3u8",
+    "name": "Punjab Plus (1080p)",
+    "tvg_id": "PunjabPlus.in@SD"
   },
   {
     "lang": "Punjabi",
@@ -3542,6 +3526,14 @@
     "url": "https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8",
     "name": "Tabbar Hits (1080p)",
     "tvg_id": "TabbarHits.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TheUnmute.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/unmute.png\" group-title=\"News\",The Unmute (1080p)",
+    "url": "https://stream.ottlive.co.in/unmute/index.m3u8",
+    "name": "The Unmute (1080p)",
+    "tvg_id": "TheUnmute.in@SD"
   },
   {
     "lang": "Punjabi",
@@ -3714,9 +3706,9 @@
   {
     "lang": "Urdu",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"BharatExpress.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png\" group-title=\"News\",Bharat Express (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/1139/master.m3u8",
-    "name": "Bharat Express (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"BharatExpress.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png\" group-title=\"News\",Bharat Express (1080p)",
+    "url": "https://stream.ottlive.co.in/bharatexpress/index.m3u8",
+    "name": "Bharat Express (1080p)",
     "tvg_id": "BharatExpress.in@SD"
   },
   {
@@ -4042,9 +4034,9 @@
   {
     "lang": "Urdu",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"MunsifTV.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Munsif TV (576p)",
-    "url": "https://fta.ektv.in/live/598/master.m3u8",
-    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",Munsif TV (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MunsifTV.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png\" group-title=\"News\",Munsif TV (1080p)",
+    "url": "https://stream.ottlive.co.in/munsiftv/index.m3u8",
+    "name": "Munsif TV (1080p)",
     "tvg_id": "MunsifTV.in@SD"
   },
   {
@@ -6945,6 +6937,14 @@
   },
   {
     "lang": "English",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"BlessTV.jm@SD\" tvg-logo=\"https://i.imgur.com/USshSMj.png\" group-title=\"Religious\",Bless TV (1080p)",
+    "url": "https://932y483pdjv8-hls-live.5centscdn.com/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "name": "Bless TV (1080p)",
+    "tvg_id": "BlessTV.jm@SD"
+  },
+  {
+    "lang": "English",
     "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"BloombergOriginals.us@US\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png\" group-title=\"Business;Documentary\",Bloomberg Originals (1080p)",
     "url": "https://bloomberg.com/media-manifest/streams/qt.m3u8",
@@ -7698,6 +7698,14 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png\" group-title=\"Animation;Kids\",Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
+    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "tvg_id": "CartoonNetwork.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetworkAsia.sg@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoon Network Asia (720p)",
     "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",Cartoon Network Asia (720p)",
@@ -7779,7 +7787,7 @@
     "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"CBCNewsNetwork.ca@SD\" tvg-logo=\"https://i.imgur.com/SjTdhvJ.png\" group-title=\"News\",CBC News Network (1080p)",
-    "url": "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
+    "url": "https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8",
     "name": "CBC News Network (1080p)",
     "tvg_id": "CBCNewsNetwork.ca@SD"
   },
@@ -8098,9 +8106,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"CCTV4America.cn@SD\" tvg-logo=\"https://i.imgur.com/gBbLyqh.png\" group-title=\"General\",CCTV-4 America (1080p)",
-    "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
-    "name": "CCTV-4 America (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"CCTV4America.cn@SD\" tvg-logo=\"https://i.imgur.com/gBbLyqh.png\" group-title=\"General\",CCTV-4 America",
+    "url": "https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8",
+    "name": "CCTV-4 America",
     "tvg_id": "CCTV4America.cn@SD"
   },
   {
@@ -9867,7 +9875,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"DellaTV.it@HD\" tvg-logo=\"https://i.imgur.com/6lvQ3Xz.png\" group-title=\"General\",DellaTV (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8",
     "name": "DellaTV (720p)",
     "tvg_id": "DellaTV.it@HD"
   },
@@ -11762,9 +11770,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"FoxWeather.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png\" group-title=\"Weather\",Fox Weather (720p)",
-    "url": "https://247wlive.foxweather.com/stream/index.m3u8",
-    "name": "Fox Weather (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"FoxWeather.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png\" group-title=\"Weather\",Fox Weather (1080p)",
+    "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
+    "name": "Fox Weather (1080p)",
     "tvg_id": "FoxWeather.us@SD"
   },
   {
@@ -13338,9 +13346,9 @@
   {
     "lang": "English",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"IndiaToday.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png\" group-title=\"News\",India Today (720p)",
-    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
-    "name": "India Today (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"IndiaToday.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png\" group-title=\"News\",India Today (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8",
+    "name": "India Today (1080p)",
     "tvg_id": "IndiaToday.in@SD"
   },
   {
@@ -14522,9 +14530,9 @@
   {
     "lang": "English",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"LiveNOWfromFOX.us@SD\" tvg-logo=\"https://i.imgur.com/1JnyzHv.png\" group-title=\"News\",LiveNOW from FOX (720p)",
-    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
-    "name": "LiveNOW from FOX (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"LiveNOWfromFOX.us@SD\" tvg-logo=\"https://i.imgur.com/1JnyzHv.png\" group-title=\"News\",LiveNOW from FOX (1080p)",
+    "url": "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8",
+    "name": "LiveNOW from FOX (1080p)",
     "tvg_id": "LiveNOWfromFOX.us@SD"
   },
   {
@@ -15298,6 +15306,14 @@
   {
     "lang": "English",
     "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"Mezzo.fr@SD\" tvg-logo=\"https://i.imgur.com/auNdGeW.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Music\",Mezzo",
+    "url": "http://92.180.26.103/stream/62/index.m3u8",
+    "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Music\",Mezzo",
+    "tvg_id": "Mezzo.fr@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"MezzoLive.fr@SD\" tvg-logo=\"https://i.imgur.com/H9ytKPN.png\" group-title=\"Music\",Mezzo Live (1080p)",
     "url": "http://stream.mcquack.net/276/index.m3u8",
     "name": "Mezzo Live (1080p)",
@@ -15770,18 +15786,10 @@
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"MoviesNow.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png\" group-title=\"Movies\",Movies Now HD (1080p)",
-    "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
-    "name": "Movies Now HD (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MoviesNow.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png\" group-title=\"Movies\",Movies Now HD (576p)",
+    "url": "http://27.124.71.27/Movies_Now/index.m3u8",
+    "name": "Movies Now HD (576p)",
     "tvg_id": "MoviesNow.in@HD"
-  },
-  {
-    "lang": "English",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"MoviesNowPlus.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png\" group-title=\"Movies\",Movies Now + (1080p)",
-    "url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
-    "name": "Movies Now + (1080p)",
-    "tvg_id": "MoviesNowPlus.in@HD"
   },
   {
     "lang": "English",
@@ -16954,9 +16962,9 @@
   {
     "lang": "English",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"NDTV.in@SD\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png\" group-title=\"News\",NDTV (576p)",
-    "url": "https://cdn.pishow.tv/ott/live/315/master.m3u8",
-    "name": "NDTV (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTV.in@SD\" tvg-logo=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png\" group-title=\"News\",NDTV (1080p)",
+    "url": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8",
+    "name": "NDTV (1080p)",
     "tvg_id": "NDTV.in@SD"
   },
   {
@@ -21001,6 +21009,14 @@
   },
   {
     "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"ScaresbyShudder.us@SD\" tvg-logo=\"https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg\" group-title=\"Movies\",Scares by Shudder (1080p)",
+    "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8",
+    "name": "Scares by Shudder (1080p)",
+    "tvg_id": "ScaresbyShudder.us@SD"
+  },
+  {
+    "lang": "English",
     "category": "Business",
     "extinf": "#EXTINF:-1 tvg-id=\"SchwabNetwork.us@SD\" tvg-logo=\"https://i.imgur.com/zmQnKV6.png\" group-title=\"Business\",Schwab Network (1080p)",
     "url": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
@@ -21107,7 +21123,7 @@
     "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"ScrippsNews.us@SD\" tvg-logo=\"https://i.imgur.com/W0Jvi5o.png\" group-title=\"News\",Scripps News (1080p)",
-    "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
+    "url": "https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8",
     "name": "Scripps News (1080p)",
     "tvg_id": "ScrippsNews.us@SD"
   },
@@ -22987,7 +23003,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"Telecyan.us@HD\" tvg-logo=\"https://i.imgur.com/9BnHCj5.png\" group-title=\"Comedy;Series\",Telecyan (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8",
     "name": "Telecyan (720p)",
     "tvg_id": "Telecyan.us@HD"
   },
@@ -25602,9 +25618,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"VTV1.vn@HD\" tvg-logo=\"https://i.imgur.com/vZYlGIW.png\" group-title=\"Undefined\",VTV1 HD (1080p)",
-    "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8",
-    "name": "VTV1 HD (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"VTV1.vn@HD\" tvg-logo=\"https://i.imgur.com/vZYlGIW.png\" group-title=\"Undefined\",VTV1 HD (720p)",
+    "url": "https://dethich.pw/vtv1/index.m3u8",
+    "name": "VTV1 HD (720p)",
     "tvg_id": "VTV1.vn@HD"
   },
   {
@@ -26458,6 +26474,14 @@
   {
     "lang": "Hindi",
     "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"7XMusic.in@SD\",7X Music (360p)",
+    "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+    "name": "7X Music (360p)",
+    "tvg_id": "7XMusic.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
     "extinf": "#EXTINF:-1 tvg-id=\"9XJalwa.in@SD\",9X Jalwa (576p)",
     "url": "https://fta.ektv.in/live/161/master.m3u8",
     "name": "9X Jalwa (576p)",
@@ -26625,14 +26649,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\",&TV International (1080p)",
-    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-    "name": "&TV International (1080p)",
-    "tvg_id": "AndTV.in@International"
-  },
-  {
-    "lang": "Hindi",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"AadinathTV.in@SD\",Aadinath TV (576p)",
     "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -26718,6 +26734,14 @@
     "url": "https://fta.ektv.in/live/338/master.m3u8",
     "name": "Aastha (576p)",
     "tvg_id": "Aastha.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"AasthaBhajan.in@SD\",Aastha Bhajan (576p)",
+    "url": "http://103.175.73.12:8080/live/339/master.m3u8",
+    "name": "Aastha Bhajan (576p)",
+    "tvg_id": "AasthaBhajan.in@SD"
   },
   {
     "lang": "Hindi",
@@ -27250,6 +27274,14 @@
   {
     "lang": "Hindi",
     "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"BansalNews.in@SD\",Bansal News (720p)",
+    "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+    "name": "Bansal News (720p)",
+    "tvg_id": "BansalNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"BansalNews.in@SD\",Bansal News (576p)",
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8",
     "name": "Bansal News (576p)",
@@ -27294,6 +27326,14 @@
     "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
     "name": "Bharat24 (576p)",
     "tvg_id": "Bharat24.in@SD"
+  },
+  {
+    "lang": "Urdu",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"BharatExpress.in@SD\",Bharat Express (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/1139/master.m3u8",
+    "name": "Bharat Express (576p)",
+    "tvg_id": "BharatExpress.in@SD"
   },
   {
     "lang": "Urdu",
@@ -27776,6 +27816,22 @@
     "tvg_id": "DDUttarakhand.in@SD"
   },
   {
+    "lang": "Punjabi",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"DesiChannel.in@SD\",Desi Channel (720p)",
+    "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+    "name": "Desi Channel (720p)",
+    "tvg_id": "DesiChannel.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"DharmSandesh.in@SD\",Dharm Sandesh (576p)",
+    "url": "https://fta.ektv.in/live/625/master.m3u8",
+    "name": "Dharm Sandesh (576p)",
+    "tvg_id": "DharmSandesh.in@SD"
+  },
+  {
     "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"DNN.in@SD\",DNN (576p)",
@@ -27859,6 +27915,14 @@
     "lang": "Hindi",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"FatehTV.in@SD\",Fateh TV (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/349/master.m3u8",
+    "name": "Fateh TV (576p)",
+    "tvg_id": "FatehTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"FatehTV.in@SD\",Fateh TV (576p)",
     "url": "https://fta.ektv.in/live/635/master.m3u8",
     "name": "Fateh TV (576p)",
     "tvg_id": "FatehTV.in@SD"
@@ -27886,6 +27950,14 @@
     "url": "https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
     "name": "First India News (360p) [Not 24/7]",
     "tvg_id": "FirstIndiaNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"FoodFood.in@SD\",Food Food (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/267/master.m3u8",
+    "name": "Food Food (576p)",
+    "tvg_id": "FoodFood.in@SD"
   },
   {
     "lang": "Hindi",
@@ -27987,6 +28059,14 @@
     "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"GoodNewsToday.in@SD\",Good News Today (720p)",
+    "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+    "name": "Good News Today (720p)",
+    "tvg_id": "GoodNewsToday.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"GoodNewsToday.in@SD\",Good News Today (720p)",
     "url": "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8",
     "name": "Good News Today (720p)",
     "tvg_id": "GoodNewsToday.in@SD"
@@ -28070,6 +28150,14 @@
     "url": "https://streams.tangotv.in/GTC/ORIGIN/index.m3u8",
     "name": "GTC Punjabi (576p)",
     "tvg_id": "GTCPunjabi.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"GulistanNews.in@SD\",Gulistan News (576p)",
+    "url": "https://fta.ektv.in/live/427/master.m3u8",
+    "name": "Gulistan News (576p)",
+    "tvg_id": "GulistanNews.in@SD"
   },
   {
     "lang": "Hindi",
@@ -28331,6 +28419,14 @@
     "lang": "English",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"IndiaToday.in@SD\",India Today (720p)",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
+    "name": "India Today (720p)",
+    "tvg_id": "IndiaToday.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"IndiaToday.in@SD\",India Today (720p)",
     "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8",
     "name": "India Today (720p)",
     "tvg_id": "IndiaToday.in@SD"
@@ -28350,6 +28446,14 @@
     "url": "https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8",
     "name": "India Today (720p) [Geo-blocked]",
     "tvg_id": "IndiaToday.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"IndiaTV.in@SD\",India TV (720p)",
+    "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+    "name": "India TV (720p)",
+    "tvg_id": "IndiaTV.in@SD"
   },
   {
     "lang": "Hindi",
@@ -28827,6 +28931,14 @@
     "lang": "Urdu",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"MunsifTV.in@SD\",Munsif TV (576p)",
+    "url": "https://fta.ektv.in/live/598/master.m3u8",
+    "name": "Munsif TV (576p)",
+    "tvg_id": "MunsifTV.in@SD"
+  },
+  {
+    "lang": "Urdu",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"MunsifTV.in@SD\",Munsif TV (576p)",
     "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
     "name": "Munsif TV (576p)",
     "tvg_id": "MunsifTV.in@SD"
@@ -28866,10 +28978,26 @@
   {
     "lang": "Punjabi",
     "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"NamdhariTV.in@SD\",Namdhari (404p) [Not 24/7]",
+    "url": "https://namdhari.tv/live/sbs1.m3u8",
+    "name": "Namdhari (404p) [Not 24/7]",
+    "tvg_id": "NamdhariTV.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"NanaksarLive.in@SD\",Nanaksar Live (720p)",
     "url": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8",
     "name": "Nanaksar Live (720p)",
     "tvg_id": "NanaksarLive.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTV.in@SD\",NDTV (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/315/master.m3u8",
+    "name": "NDTV (576p)",
+    "tvg_id": "NDTV.in@SD"
   },
   {
     "lang": "English",
@@ -28902,6 +29030,14 @@
     "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8",
     "name": "NDTV Good Times (396p)",
     "tvg_id": "NDTVGoodTimes.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTVIndia.in@SD\",NDTV India (720p)",
+    "url": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8",
+    "name": "NDTV India (720p)",
+    "tvg_id": "NDTVIndia.in@SD"
   },
   {
     "lang": "Hindi",
@@ -29603,6 +29739,14 @@
     "lang": "Punjabi",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"PTCSimran.in@SD\",PTC Simran (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/1503/master.m3u8",
+    "name": "PTC Simran (576p)",
+    "tvg_id": "PTCSimran.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"PTCSimran.in@SD\",PTC Simran (576p)",
     "url": "https://fta.ektv.in/live/183/master.m3u8",
     "name": "PTC Simran (576p)",
     "tvg_id": "PTCSimran.in@SD"
@@ -29934,6 +30078,14 @@
     "url": "https://fta.ektv.in/live/165/master.m3u8",
     "name": "Sanskar TV (576p)",
     "tvg_id": "SanskarTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"SantvaniChannel.in@SD\",Santvani Channel (576p)",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8",
+    "name": "Santvani Channel (576p)",
+    "tvg_id": "SantvaniChannel.in@SD"
   },
   {
     "lang": "Hindi",
@@ -30322,6 +30474,14 @@
   {
     "lang": "Hindi",
     "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"TotalTVHaryana.in@SD\",Total TV Haryana (576p)",
+    "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
+    "name": "Total TV Haryana (576p)",
+    "tvg_id": "TotalTVHaryana.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TotalTVHaryana.in@SD\",Total TV Haryana (396p)",
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8",
     "name": "Total TV Haryana (396p)",
@@ -30355,6 +30515,14 @@
     "lang": "Hindi",
     "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"TV9Bharatvarsh.in@SD\",TV9 Bharatvarsh (720p)",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
+    "name": "TV9 Bharatvarsh (720p)",
+    "tvg_id": "TV9Bharatvarsh.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV9Bharatvarsh.in@SD\",TV9 Bharatvarsh (720p)",
     "url": "https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/019dfce4b3371ea55784752988544/019dfce515ea1ea540a871e333259/main.m3u8",
     "name": "TV9 Bharatvarsh (720p)",
     "tvg_id": "TV9Bharatvarsh.in@SD"
@@ -30374,6 +30542,14 @@
     "url": "https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8",
     "name": "TV9 Bharatvarsh (576p)",
     "tvg_id": "TV9Bharatvarsh.in@SD"
+  },
+  {
+    "lang": "Marathi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV9Marathi.in@SD\",TV9 Marathi (720p)",
+    "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8",
+    "name": "TV9 Marathi (720p)",
+    "tvg_id": "TV9Marathi.in@SD"
   },
   {
     "lang": "Marathi",
@@ -30422,6 +30598,14 @@
     "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
     "name": "Unique TV (576p)",
     "tvg_id": "UniqueTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"Vedic.in@SD\",Vedic (576p)",
+    "url": "https://fta.ektv.in/live/628/master.m3u8",
+    "name": "Vedic (576p)",
+    "tvg_id": "Vedic.in@SD"
   },
   {
     "lang": "Hindi",
@@ -31126,6 +31310,318 @@
     "url": "http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass",
     "name": "Unique TV (576p)",
     "tvg_id": "UniqueTV.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTV.in@SD\",NDTV (1080p)",
+    "url": "https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8",
+    "name": "NDTV (1080p)",
+    "tvg_id": "NDTV.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NDTV.in@SD\",NDTV (1080p)",
+    "url": "https://web-ndtv24x7-us.akamaized.net/hls/live/2109282/ndtv24x7us/master.m3u8",
+    "name": "NDTV (1080p)",
+    "tvg_id": "NDTV.in@SD"
+  },
+  {
+    "lang": "Urdu",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"MunsifTV.in@SD\",Munsif TV (576p)",
+    "url": "https://samitaorigin.tangotv.in/MUNSIFTV/SAMITAORIGIN/index.m3u8",
+    "name": "Munsif TV (576p)",
+    "tvg_id": "MunsifTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"B4UMusic.in@India\",B4U Music (1080p)",
+    "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
+    "name": "B4U Music (1080p)",
+    "tvg_id": "B4UMusic.in@India"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"PrathamNews.in@SD\",Pratham News (576p)",
+    "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8",
+    "name": "Pratham News (576p)",
+    "tvg_id": "PrathamNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"AajTak.in@SD\",Aaj Tak (720p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7b044d82f0bc462b8be3e2dec0bf2bd2/index.m3u8",
+    "name": "Aaj Tak (720p)",
+    "tvg_id": "AajTak.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"ABPNews.in@SD\",ABP News (1080p)",
+    "url": "https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8",
+    "name": "ABP News (1080p)",
+    "tvg_id": "ABPNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"APN.in@SD\",APN (576p)",
+    "url": "https://stream.ottlive.co.in/apnnews/index.m3u8",
+    "name": "APN (576p)",
+    "tvg_id": "APN.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"Bharat24.in@SD\",Bharat24 (1080p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8",
+    "name": "Bharat24 (1080p)",
+    "tvg_id": "Bharat24.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"Network10.in@SD\",Network 10 (720p)",
+    "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
+    "name": "Network 10 (720p)",
+    "tvg_id": "Network10.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"RepublicBharat.in@SD\",Republic Bharat (1080p) [Geo-blocked]",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8",
+    "name": "Republic Bharat (1080p) [Geo-blocked]",
+    "tvg_id": "RepublicBharat.in@SD"
+  },
+  {
+    "lang": "English",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"News9Live.in@SD\",News9Live (1080p)",
+    "url": "https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8",
+    "name": "News9Live (1080p)",
+    "tvg_id": "News9Live.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"LivingIndiaNews.in@SD\",Living India News (1080p)",
+    "url": "https://livingindia.ottlive.co.in/livingindia/index.m3u8",
+    "name": "Living India News (1080p)",
+    "tvg_id": "LivingIndiaNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"SudarshanNews.in@SD\",Sudarshan News (576p)",
+    "url": "https://stream.ottlive.co.in/sudarshannews/index.m3u8",
+    "name": "Sudarshan News (576p)",
+    "tvg_id": "SudarshanNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"B4UKadak.in@SD\",B4U Kadak (1080p)",
+    "url": "https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8",
+    "name": "B4U Kadak (1080p)",
+    "tvg_id": "B4UKadak.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"B4UMovies.in@India\",B4U Movies (1080p)",
+    "url": "https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8",
+    "name": "B4U Movies (1080p)",
+    "tvg_id": "B4UMovies.in@India"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStateMPCHG.in@SD\",News State MP & CHG (720p)",
+    "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnmp/index.m3u8",
+    "name": "News State MP & CHG (720p)",
+    "tvg_id": "NewsStateMPCHG.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStatePunjabHaryanaHimachal.in@SD\",News State Punjab Haryana Himachal (720p)",
+    "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnpunj/index.m3u8",
+    "name": "News State Punjab Haryana Himachal (720p)",
+    "tvg_id": "NewsStatePunjabHaryanaHimachal.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsStateUPUK.in@SD\",News State UP & UK (720p)",
+    "url": "https://prasarbharti-nn.vidgyor.com/nntv/nnup/index.m3u8",
+    "name": "News State UP & UK (720p)",
+    "tvg_id": "NewsStateUPUK.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Music",
+    "extinf": "#EXTINF:-1 tvg-id=\"PunjabiHits.in@SD\",Punjabi Hits (1080p)",
+    "url": "https://livingindia.ottlive.co.in/punjabihits/index.m3u8",
+    "name": "Punjabi Hits (1080p)",
+    "tvg_id": "PunjabiHits.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"ChannelDivya.in@SD\",Channel Divya (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8",
+    "name": "Channel Divya (1080p)",
+    "tvg_id": "ChannelDivya.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"Aastha.in@HD\",Aastha HD (720p)",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c0a91ce585024dc9ac69786ea4e6ebd4/index.m3u8",
+    "name": "Aastha HD (720p)",
+    "tvg_id": "Aastha.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"SanskarTV.in@SD\",Sanskar TV (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8",
+    "name": "Sanskar TV (1080p)",
+    "tvg_id": "SanskarTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"SatsangTV.in@SD\",Satsang TV (1080p)",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8",
+    "name": "Satsang TV (1080p)",
+    "tvg_id": "SatsangTV.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TheUnmute.in@SD\",The Unmute (1080p)",
+    "url": "https://unmute.akamaized.net/unmute/index.m3u8",
+    "name": "The Unmute (1080p)",
+    "tvg_id": "TheUnmute.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"RozanaSpokesman.in@SD\",Rozana Spokesman (1080p)",
+    "url": "https://stream.ottlive.co.in/spokesman/index.m3u8",
+    "name": "Rozana Spokesman (1080p)",
+    "tvg_id": "RozanaSpokesman.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsNation.in@SD\",News Nation (1080p)",
+    "url": "https://nn-khabriyatv.originein.in/nntv/national/master_nnna_khabriyatv.m3u8",
+    "name": "News Nation (1080p)",
+    "tvg_id": "NewsNation.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"WorldPunjabiTV.in@SD\",World Punjabi TV (1080p)",
+    "url": "https://livingindiaottlive.akamaized.net/worldpunjabitv/index.m3u8",
+    "name": "World Punjabi TV (1080p)",
+    "tvg_id": "WorldPunjabiTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NewsNation81.in@SD\",News Nation 81 (1080p)",
+    "url": "https://newsnation18.akamaized.net/newsnation18/master.m3u8",
+    "name": "News Nation 81 (1080p)",
+    "tvg_id": "NewsNation81.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"RozanaSpokesman.in@SD\",Rozana Spokesman (1080p)",
+    "url": "https://livingindiaottlive.akamaized.net/spokesman/index.m3u8",
+    "name": "Rozana Spokesman (1080p)",
+    "tvg_id": "RozanaSpokesman.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"GTCNews.in@SD\",GTC News (1080p)",
+    "url": "https://gtcnews.akamaized.net/gtcnews/index.m3u8",
+    "name": "GTC News (1080p)",
+    "tvg_id": "GTCNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV9Bharatvarsh.in@SD\",TV9 Bharatvarsh (1080p)",
+    "url": "https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c2-amgplt0844/playlist.m3u8",
+    "name": "TV9 Bharatvarsh (1080p)",
+    "tvg_id": "TV9Bharatvarsh.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"GTCPunjabi.in@SD\",GTC Punjabi (1080p)",
+    "url": "https://gtcpunjabi.akamaized.net/gtcpunjabi/index.m3u8",
+    "name": "GTC Punjabi (1080p)",
+    "tvg_id": "GTCPunjabi.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"ChardiklaGurbaaniTV.in@SD\",Chardikla Gurbaani TV (1080p)",
+    "url": "https://chardiklagurbani.akamaized.net/chardiklagurbanitv/master.m3u8",
+    "name": "Chardikla Gurbaani TV (1080p)",
+    "tvg_id": "ChardiklaGurbaaniTV.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"PunjabiShorts.in@SD\",Punjabi Shorts (1080p)",
+    "url": "https://punjabishorts.akamaized.net/punjabshort/index.m3u8",
+    "name": "Punjabi Shorts (1080p)",
+    "tvg_id": "PunjabiShorts.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"D5ChannelPunjabi.in@SD\",D5 Channel Punjabi (1080p)",
+    "url": "https://d5channel.akamaized.net/D5Channel/master.m3u8",
+    "name": "D5 Channel Punjabi (1080p)",
+    "tvg_id": "D5ChannelPunjabi.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"ChardiklaTimeTVNorthAmerica.in@SD\",Chardikla Time TV North America (1080p)",
+    "url": "https://chardiklatimestvna.akamaized.net/chardiklatimetvna/master.m3u8",
+    "name": "Chardikla Time TV North America (1080p)",
+    "tvg_id": "ChardiklaTimeTVNorthAmerica.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"ChardiklaTimeTV.in@SD\",Chardikla Time TV (1080p)",
+    "url": "https://chardiklatimetv.akamaized.net/chardiklatimetv/master.m3u8",
+    "name": "Chardikla Time TV (1080p)",
+    "tvg_id": "ChardiklaTimeTV.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Devotional",
+    "extinf": "#EXTINF:-1 tvg-id=\"Aastha.in@HD\",Aastha HD (720p)",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aastha.smil/playlist.m3u8",
+    "name": "Aastha HD (720p)",
+    "tvg_id": "Aastha.in@HD"
   },
   {
     "lang": "Urdu",
@@ -31918,6 +32414,14 @@
     "url": "https://FFFFFFF110156200.tvustream.com/ryfy.m3u8",
     "name": "Stryk TV",
     "tvg_id": "StrykTV.us"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-name=\"FOX Live Now\" tvg-logo=\"https://graph.facebook.com/livenowfox/picture?width=200&height=200\" tvg-id=\"\" tvg-chno=\"5\" tvg-country=\"US\" group-title=\"USA\",FOX Live Now",
+    "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+    "name": "FOX Live Now",
+    "tvg_id": ""
   },
   {
     "lang": "English",
