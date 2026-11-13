@@ -35,7 +35,7 @@
     "lang": "Hindi",
     "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png\" group-title=\"Movies\",&TV International (1080p)",
-    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
     "name": "&TV International (1080p)",
     "tvg_id": "AndTV.in@International"
   },
@@ -1241,6 +1241,14 @@
   },
   {
     "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"JK24x7News.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540\" group-title=\"News\",JK 24x7 News (576p)",
+    "url": "https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8",
+    "name": "JK 24x7 News (576p)",
+    "tvg_id": "JK24x7News.in@SD"
+  },
+  {
+    "lang": "Hindi",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"JusHindi.us@SD\" tvg-logo=\"https://i.imgur.com/5GI7Nh7.png\" group-title=\"Culture\",Jus Hindi (1080p)",
     "url": "http://103.154.3.101:5001/live/960.m3u8",
@@ -1766,6 +1774,14 @@
     "url": "http://103.185.24.134:3001/NICK/index.m3u8",
     "name": "Nickelodeon (India) (576p)",
     "tvg_id": "Nickelodeon.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NonStopBharat.in@SD\" tvg-logo=\"https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png\" group-title=\"News\",Non Stop Bharat (576p)",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8",
+    "name": "Non Stop Bharat (576p)",
+    "tvg_id": "NonStopBharat.in@SD"
   },
   {
     "lang": "Hindi",
@@ -2506,9 +2522,9 @@
   {
     "lang": "Hindi",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"TV7Bharat.in@SD\" tvg-logo=\"https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg\" group-title=\"News\",TV7 Bharat (576p)",
-    "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
-    "name": "TV7 Bharat (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV7Bharat.in@SD\" tvg-logo=\"https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg\" group-title=\"News\",TV7 Bharat (1080p)",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
+    "name": "TV7 Bharat (1080p)",
     "tvg_id": "TV7Bharat.in@SD"
   },
   {
@@ -4070,6 +4086,14 @@
     "url": "https://sscsott.com/srt/noortvuk/index.m3u8",
     "name": "Noor TV (United Kingdom) (720p)",
     "tvg_id": "NoorTV.uk@SD"
+  },
+  {
+    "lang": "Urdu",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"PaighamTelevision.pk@SD\" tvg-logo=\"https://papaji.freetvindia.com/media/1655_FreeTV_Paigam.png\" group-title=\"Undefined\",Paigham Television (576p)",
+    "url": "https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8",
+    "name": "Paigham Television (576p)",
+    "tvg_id": "PaighamTelevision.pk@SD"
   },
   {
     "lang": "Urdu",
@@ -7146,9 +7170,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Boomerang.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png\" group-title=\"Kids\",Boomerang (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Boomerang.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png\" group-title=\"Kids\",Boomerang (United States) (720p)",
     "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
-    "name": "Boomerang (720p)",
+    "name": "Boomerang (United States) (720p)",
     "tvg_id": "Boomerang.us@SD"
   },
   {
@@ -10866,6 +10890,14 @@
   {
     "lang": "English",
     "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport1.fr@UK\" tvg-logo=\"https://i.imgur.com/olQJgm7.png\" group-title=\"Sports\",Eurosport 1 UK (1080p)",
+    "url": "http://85.117.37.43/eurosport1/index.m3u8",
+    "name": "Eurosport 1 UK (1080p)",
+    "tvg_id": "Eurosport1.fr@UK"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
     "extinf": "#EXTINF:-1 tvg-id=\"Eurosport.fr@Asia\" tvg-logo=\"https://i.imgur.com/s4jDnJh.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport (France)",
     "url": "http://103.253.74.210:7070/stream/122/index.m3u8",
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport (France)",
@@ -11494,6 +11526,14 @@
     "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
     "name": "Forever Kids",
     "tvg_id": "ForeverKids.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"Formula1AntenaPlay.ro@SD\" tvg-logo=\"https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png\" group-title=\"Sports\",Formula 1 AntenaPlay (576i) [Not 24/7]",
+    "url": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8",
+    "name": "Formula 1 AntenaPlay (576i) [Not 24/7]",
+    "tvg_id": "Formula1AntenaPlay.ro@SD"
   },
   {
     "lang": "English",
@@ -14266,9 +14306,9 @@
   {
     "lang": "English",
     "category": "Devotional",
-    "extinf": "#EXTINF:-1 tvg-id=\"LaVozdeJesusHD.do@HD\" tvg-logo=\"https://gia.tv/streams/pstream/208429.png\" group-title=\"Religious\",La Voz de Jesus HD (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
-    "name": "La Voz de Jesus HD (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"LaVozdeJesusHD.do@HD\" tvg-logo=\"https://gia.tv/streams/pstream/208429.png\" group-title=\"Religious\",La Voz de Jesus HD (720p) [Not 24/7]",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8",
+    "name": "La Voz de Jesus HD (720p) [Not 24/7]",
     "tvg_id": "LaVozdeJesusHD.do@HD"
   },
   {
@@ -21185,6 +21225,14 @@
   },
   {
     "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"SetantaSportsPlusGeorgia.ge@SD\" tvg-logo=\"https://i.imgur.com/ZtoZQUV.png\" group-title=\"Sports\",Setanta Sports+ Georgia (1080p)",
+    "url": "http://85.117.61.84/setanta2/index.m3u8",
+    "name": "Setanta Sports+ Georgia (1080p)",
+    "tvg_id": "SetantaSportsPlusGeorgia.ge@SD"
+  },
+  {
+    "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"SFCommons29.us@SD\" tvg-logo=\"https://i.imgur.com/aVkJkgm.png\" group-title=\"General\",SF Commons 29 (480p)",
     "url": "https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8",
@@ -24082,9 +24130,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"TomAndJerry.do@HD\" tvg-logo=\"https://gia.tv/streams/pptv/208314.jpg?1750373428\" group-title=\"Kids\",Tom And Jerry (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
-    "name": "Tom And Jerry (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TomAndJerry.do@HD\" tvg-logo=\"https://gia.tv/streams/pptv/208314.jpg?1750373428\" group-title=\"Kids\",Tom And Jerry (720p) [Not 24/7]",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "name": "Tom And Jerry (720p) [Not 24/7]",
     "tvg_id": "TomAndJerry.do@HD"
   },
   {
@@ -24538,9 +24586,9 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"TurismoHD.do@HD\" tvg-logo=\"https://gia.tv/streams/pptv/208343.jpg\" group-title=\"Entertainment\",Turismo HD (720p)",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8",
-    "name": "Turismo HD (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TurismoHD.do@HD\" tvg-logo=\"https://gia.tv/streams/pptv/208343.jpg\" group-title=\"Entertainment\",Turismo HD (720p) [Not 24/7]",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8",
+    "name": "Turismo HD (720p) [Not 24/7]",
     "tvg_id": "TurismoHD.do@HD"
   },
   {
@@ -26646,6 +26694,14 @@
     "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "name": "9XM (576p)",
     "tvg_id": "9XM.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"AndTV.in@International\",&TV International (1080p)",
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+    "name": "&TV International (1080p)",
+    "tvg_id": "AndTV.in@International"
   },
   {
     "lang": "Hindi",
@@ -30514,6 +30570,14 @@
   {
     "lang": "Hindi",
     "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV7Bharat.in@SD\",TV7 Bharat (576p)",
+    "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+    "name": "TV7 Bharat (576p)",
+    "tvg_id": "TV7Bharat.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"TV9Bharatvarsh.in@SD\",TV9 Bharatvarsh (720p)",
     "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8",
     "name": "TV9 Bharatvarsh (720p)",
@@ -31622,6 +31686,54 @@
     "url": "https://aasthaott.akamaized.net/110923/smil:aastha.smil/playlist.m3u8",
     "name": "Aastha HD (720p)",
     "tvg_id": "Aastha.in@HD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"SudarshanNews.in@SD\",Sudarshan News (576p)",
+    "url": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/index.m3u8",
+    "name": "Sudarshan News (576p)",
+    "tvg_id": "SudarshanNews.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"NonStopBharat.in@SD\",Non Stop Bharat (576p)",
+    "url": "https://samitaorigin.tangotv.in/CHAUKASTV/SAMITAORIGIN/index.m3u8",
+    "name": "Non Stop Bharat (576p)",
+    "tvg_id": "NonStopBharat.in@SD"
+  },
+  {
+    "lang": "Punjabi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"RozanaSpokesman.in@SD\",Rozana Spokesman (1080p)",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3db47599-d666-4cfd-93a1-f424aa0f444f/index.m3u8",
+    "name": "Rozana Spokesman (1080p)",
+    "tvg_id": "RozanaSpokesman.in@SD"
+  },
+  {
+    "lang": "Urdu",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"BharatExpress.in@SD\",Bharat Express (1080p)",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e029a22c-cbd9-493b-9b37-e7f0cabe78cc/index.m3u8",
+    "name": "Bharat Express (1080p)",
+    "tvg_id": "BharatExpress.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"TV7National.in@SD\",TV7 National (1080p)",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
+    "name": "TV7 National (1080p)",
+    "tvg_id": "TV7National.in@SD"
+  },
+  {
+    "lang": "Hindi",
+    "category": "News",
+    "extinf": "#EXTINF:-1 tvg-id=\"Media9.in@SD\",Media9 (1080p)",
+    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3a24ad7f-632f-47f2-acdd-6409bd2e9ec2/playlist.m3u8",
+    "name": "Media9 (1080p)",
+    "tvg_id": "Media9.in@SD"
   },
   {
     "lang": "Urdu",
