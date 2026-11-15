@@ -177,14 +177,6 @@
   },
   {
     "lang": "Hindi",
-    "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"AmarUjala.in@SD\" tvg-logo=\"https://i.imgur.com/ndQ8LZp.png\" group-title=\"News\",AmarUjala (1080p)",
-    "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-    "name": "AmarUjala (1080p)",
-    "tvg_id": "AmarUjala.in@SD"
-  },
-  {
-    "lang": "Hindi",
     "category": "Devotional",
     "extinf": "#EXTINF:-1 tvg-id=\"AnandTV.in@SD\" tvg-logo=\"https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png\" group-title=\"Religious\",Anand TV (India) (1080p)",
     "url": "https://live.legitpro.co.in/anandtv/index.m3u8",
@@ -6146,6 +6138,14 @@
   {
     "lang": "English",
     "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"AXN.es@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png\" group-title=\"Movies\",AXN (Spain)",
+    "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+    "name": "AXN (Spain)",
+    "tvg_id": "AXN.es@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
     "extinf": "#EXTINF:-1 tvg-id=\"AXNAdria.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Adria (576p)",
     "url": "http://87.238.211.217:2209/stream/104/index.m3u8",
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Adria (576p)",
@@ -6930,14 +6930,6 @@
   {
     "lang": "English",
     "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"BlackNewsChannel.us@SD\" tvg-logo=\"https://i.imgur.com/oX5oR4d.png\" group-title=\"News\",Black News Channel (1080p)",
-    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
-    "name": "Black News Channel (1080p)",
-    "tvg_id": "BlackNewsChannel.us@SD"
-  },
-  {
-    "lang": "English",
-    "category": "News",
     "extinf": "#EXTINF:-1 tvg-id=\"BlazeLive.us@SD\" tvg-logo=\"https://i.imgur.com/GwxneSQ.png\" group-title=\"News\",Blaze Live (720p)",
     "url": "https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8",
     "name": "Blaze Live (720p)",
@@ -7706,9 +7698,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png\" group-title=\"Animation;Kids\",Cartoon Network (United States) [Not 24/7;Geo-blocked]",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
-    "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
+    "extinf": "#EXTINF:-1 tvg-id=\"CartoonNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png\" group-title=\"Animation;Kids\",Cartoon Network (United States) (1080p)",
+    "url": "https://tvnow.hostless.app/cartoon-network.m3u8",
+    "name": "Cartoon Network (United States) (1080p)",
     "tvg_id": "CartoonNetwork.us@East"
   },
   {
@@ -9058,6 +9050,14 @@
   {
     "lang": "English",
     "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"ComedyCentral.us@East\" tvg-logo=\"https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png\" group-title=\"Comedy\",Comedy Central (United States) (1080p)",
+    "url": "https://tvnow.hostless.app/comedy-central.m3u8",
+    "name": "Comedy Central (United States) (1080p)",
+    "tvg_id": "ComedyCentral.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"ComedyCentral.us@CA\" tvg-logo=\"https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png\" group-title=\"Comedy\",Comedy Central (United States) CA",
     "url": "https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8",
     "name": "Comedy Central (United States) CA",
@@ -10081,6 +10081,14 @@
   },
   {
     "lang": "English",
+    "category": "Entertainment",
+    "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryChannelMiddleEastAfrica.us@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png\" group-title=\"Entertainment\",Discovery Channel Middle East & Africa (720p)",
+    "url": "http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8",
+    "name": "Discovery Channel Middle East & Africa (720p)",
+    "tvg_id": "DiscoveryChannelMiddleEastAfrica.us@SD"
+  },
+  {
+    "lang": "English",
     "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"DiscoveryHistory.uk@SD\" tvg-logo=\"https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png\" group-title=\"Documentary\",Discovery History",
     "url": "http://37.49.224.5/stream/12/index.m3u8",
@@ -10138,9 +10146,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"DisneyJunior.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png\" group-title=\"Kids\",Disney Junior (United States) (480p)",
-    "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-    "name": "Disney Junior (United States) (480p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"DisneyJunior.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png\" group-title=\"Kids\",Disney Junior (United States) (720p)",
+    "url": "https://tvnow.hostless.app/disney-junior.m3u8",
+    "name": "Disney Junior (United States) (720p)",
     "tvg_id": "DisneyJunior.us@East"
   },
   {
@@ -10554,9 +10562,9 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"E.us@East\" tvg-logo=\"https://i.imgur.com/TWFDkap.png\" group-title=\"Entertainment\",E! East (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"E.us@East\" tvg-logo=\"https://i.imgur.com/TWFDkap.png\" group-title=\"Entertainment\",E! (United States) East (1080p)",
     "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
-    "name": "E! East (1080p)",
+    "name": "E! (United States) East (1080p)",
     "tvg_id": "E.us@East"
   },
   {
@@ -10878,6 +10886,14 @@
     "url": "http://85.117.37.43/eurosport1/index.m3u8",
     "name": "Eurosport 1 UK (1080p)",
     "tvg_id": "Eurosport1.fr@UK"
+  },
+  {
+    "lang": "English",
+    "category": "Sports",
+    "extinf": "#EXTINF:-1 tvg-id=\"Eurosport2.fr@UK\" tvg-logo=\"https://i.imgur.com/f56dHgR.png\" group-title=\"Sports\",Eurosport 2 UK",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8",
+    "name": "Eurosport 2 UK",
+    "tvg_id": "Eurosport2.fr@UK"
   },
   {
     "lang": "English",
@@ -17258,9 +17274,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"NickJr.us@East\" tvg-logo=\"https://i.imgur.com/KT4tdQs.png\" group-title=\"Kids\",Nick Jr. (United States) (720p)",
-    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
-    "name": "Nick Jr. (United States) (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"NickJr.us@East\" tvg-logo=\"https://i.imgur.com/KT4tdQs.png\" group-title=\"Kids\",Nick Jr. (United States) (1080p)",
+    "url": "https://tvnow.hostless.app/nick-jr.m3u8",
+    "name": "Nick Jr. (United States) (1080p)",
     "tvg_id": "NickJr.us@East"
   },
   {
@@ -17330,6 +17346,22 @@
   {
     "lang": "English",
     "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"Nickelodeon.us@East\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" group-title=\"Kids\",Nickelodeon (United States) (1080p)",
+    "url": "https://tvnow.hostless.app/nickelodeon.m3u8",
+    "name": "Nickelodeon (United States) (1080p)",
+    "tvg_id": "Nickelodeon.us@East"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
+    "extinf": "#EXTINF:-1 tvg-id=\"NickelodeonArabia.ae@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" group-title=\"Kids\",Nickelodeon Arabia (1080i)",
+    "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
+    "name": "Nickelodeon Arabia (1080i)",
+    "tvg_id": "NickelodeonArabia.ae@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Kids",
     "extinf": "#EXTINF:-1 tvg-id=\"NickelodeonAsia.sg@SD\" tvg-logo=\"https://i.imgur.com/E84jnP8.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
     "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
     "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon Asia",
@@ -17370,9 +17402,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Nicktoons.us@East\" tvg-logo=\"https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png\" group-title=\"Kids\",Nicktoons (United States) (720p)",
-    "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
-    "name": "Nicktoons (United States) (720p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Nicktoons.us@East\" tvg-logo=\"https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png\" group-title=\"Kids\",Nicktoons (United States) (1080p)",
+    "url": "https://tvnow.hostless.app/nicktoons.m3u8",
+    "name": "Nicktoons (United States) (1080p)",
     "tvg_id": "Nicktoons.us@East"
   },
   {
@@ -18106,9 +18138,9 @@
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ParamountNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png\" group-title=\"Movies;Series\",Paramount Network (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"ParamountNetwork.us@East\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png\" group-title=\"Movies;Series\",Paramount Network (United States) (1080p)",
     "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
-    "name": "Paramount Network (1080p)",
+    "name": "Paramount Network (United States) (1080p)",
     "tvg_id": "ParamountNetwork.us@East"
   },
   {
@@ -22137,6 +22169,14 @@
   },
   {
     "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"StarAction.us@SD\" tvg-logo=\"https://i.imgur.com/XD1Tpet.png\" group-title=\"Movies\",Star Action (720p)",
+    "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8",
+    "name": "Star Action (720p)",
+    "tvg_id": "StarAction.us@SD"
+  },
+  {
+    "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"StarAsia.pk@SD\" tvg-logo=\"https://i.imgur.com/9coLhX8.png\" group-title=\"Undefined\",Star Asia (720p)",
     "url": "http://103.250.28.74:8000/play/a010/index.m3u8",
@@ -22238,6 +22278,14 @@
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
     "name": "Star Vijay UK (396p)",
     "tvg_id": "StarVijay.in@UK"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"StarWorldMiddleEast.ae@SD\" tvg-logo=\"https://i.imgur.com/TD8d1eQ.png\" group-title=\"Undefined\",Star World Middle East (720p)",
+    "url": "http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8",
+    "name": "Star World Middle East (720p)",
+    "tvg_id": "StarWorldMiddleEast.ae@SD"
   },
   {
     "lang": "English",
@@ -23195,7 +23243,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"TFX.fr@SD\" tvg-logo=\"https://i.imgur.com/d91GcVf.png\" group-title=\"Undefined\",TFX (1080p)",
-    "url": "http://149.62.177.107:9999/TFX/index.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8",
     "name": "TFX (1080p)",
     "tvg_id": "TFX.fr@SD"
   },
@@ -23862,6 +23910,14 @@
     "url": "https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8",
     "name": "TheGrio TV (720p)",
     "tvg_id": "TheGrioTV.us@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"TheGrioTV.us@FAST\" tvg-logo=\"https://i.imgur.com/8nqbi9b.png\" group-title=\"Undefined\",TheGrio TV FAST (1080p)",
+    "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+    "name": "TheGrio TV FAST (1080p)",
+    "tvg_id": "TheGrioTV.us@FAST"
   },
   {
     "lang": "English",
@@ -24818,9 +24874,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"TVEInternacionalEurope.es@SD\" tvg-logo=\"https://i.ibb.co/RpKLCMvp/tve.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVE Internacional Europe",
-    "url": "http://91.228.35.249:8001/1:0:1:DAD:1F40:13E:820000:0:0:0",
-    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVE Internacional Europe",
+    "extinf": "#EXTINF:-1 tvg-id=\"TVEInternacionalEurope.es@SD\" tvg-logo=\"https://i.ibb.co/RpKLCMvp/tve.png\" group-title=\"Undefined\",TVE Internacional Europe (576p)",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8",
+    "name": "TVE Internacional Europe (576p)",
     "tvg_id": "TVEInternacionalEurope.es@SD"
   },
   {
