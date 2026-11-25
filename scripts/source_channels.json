@@ -1450,7 +1450,7 @@
   {
     "lang": "Hindi",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"MTV.in@SD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (396p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MTV.in@SD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (396p)",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) (396p)",
     "tvg_id": "MTV.in@SD"
@@ -1458,7 +1458,7 @@
   {
     "lang": "Hindi",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"MTV.in@HD\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png\" http-referrer=\"https://bhoomtv.me/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) HD (396p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MTV.in@HD\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540\" http-referrer=\"https://bhoomtv.me/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) HD (396p)",
     "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) HD (396p)",
     "tvg_id": "MTV.in@HD"
@@ -4234,6 +4234,14 @@
   {
     "lang": "English",
     "category": "Others",
+    "extinf": "#EXTINF:-1 tvg-id=\"316Channel.sa@SD\" tvg-logo=\"https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/3.16%20Channel.jpeg\" group-title=\"General\",3.16 Channel (1080p)",
+    "url": "https://316hls.wns.live/hls/stream.m3u8",
+    "name": "3.16 Channel (1080p)",
+    "tvg_id": "316Channel.sa@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"5Cops.us@UK\" tvg-logo=\"https://i.imgur.com/QFPRaXK.png\" group-title=\"Series\",5 Cops",
     "url": "https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8",
     "name": "5 Cops",
@@ -4710,14 +4718,6 @@
     "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8",
     "name": "ABC WWAY (720p)",
     "tvg_id": "ABC.us@WWAY"
-  },
-  {
-    "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"ABCAustralia.au@SD\" tvg-logo=\"https://i.imgur.com/qQ33TVM.png\" http-referrer=\"https://www.visionplus.id/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\" group-title=\"General\",ABC Australia (480p)",
-    "url": "https://proxy-v.rctiplus.id/live/web/abcaus/index.m3u8",
-    "name": "ABC Australia (480p)",
-    "tvg_id": "ABCAustralia.au@SD"
   },
   {
     "lang": "English",
@@ -6234,14 +6234,6 @@
   {
     "lang": "English",
     "category": "Documentary",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCEarth.uk@Asia\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg\" http-referrer=\"https://www.visionplus.id/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\" group-title=\"Documentary\",BBC Earth Asia (720p)",
-    "url": "https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8",
-    "name": "BBC Earth Asia (720p)",
-    "tvg_id": "BBCEarth.uk@Asia"
-  },
-  {
-    "lang": "English",
-    "category": "Documentary",
     "extinf": "#EXTINF:-1 tvg-id=\"BBCEarth.uk@Turkiye\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Turkiye",
     "url": "https://nord.ayakkabiparti.lol/bbc/index.m3u8",
     "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Turkiye",
@@ -6310,14 +6302,6 @@
     "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
     "name": "BBC News Africa (1080p)",
     "tvg_id": "BBCNews.uk@Africa"
-  },
-  {
-    "lang": "English",
-    "category": "News",
-    "extinf": "#EXTINF:-1 tvg-id=\"BBCNews.uk@AsiaPacific\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png\" http-referrer=\"https://www.visionplus.id/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",BBC News Asia Pacific (480p)",
-    "url": "https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8",
-    "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",BBC News Asia Pacific (480p)",
-    "tvg_id": "BBCNews.uk@AsiaPacific"
   },
   {
     "lang": "English",
@@ -8043,7 +8027,7 @@
     "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"CCTV4Europe.cn@SD\" tvg-logo=\"https://i.imgur.com/HGLFdfk.png\" group-title=\"General\",CCTV-4 Europe",
-    "url": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8",
     "name": "CCTV-4 Europe",
     "tvg_id": "CCTV4Europe.cn@SD"
   },
@@ -12121,14 +12105,6 @@
   },
   {
     "lang": "English",
-    "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"GlobalTrekker.sg@SD\" tvg-logo=\"https://i.imgur.com/5nlmJIw.png\" http-referrer=\"https://www.visionplus.id/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\" group-title=\"Travel\",Global Trekker (720p)",
-    "url": "https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8",
-    "name": "Global Trekker (720p)",
-    "tvg_id": "GlobalTrekker.sg@SD"
-  },
-  {
-    "lang": "English",
     "category": "Entertainment",
     "extinf": "#EXTINF:-1 tvg-id=\"GlobalWorldTV.us@SD\" tvg-logo=\"https://i.imgur.com/2u33Ayy.jpeg\" group-title=\"Entertainment\",GlobalWorldTV (720p)",
     "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8",
@@ -15722,7 +15698,7 @@
   {
     "lang": "English",
     "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"MTV.in@International\" tvg-logo=\"https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png\" http-referrer=\"https://bhoomtv.org/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) International (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"MTV.in@International\" tvg-logo=\"https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540\" http-referrer=\"https://bhoomtv.org/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) International (576p)",
     "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Entertainment\",MTV (India) International (576p)",
     "tvg_id": "MTV.in@International"
@@ -16826,9 +16802,9 @@
   {
     "lang": "English",
     "category": "Sports",
-    "extinf": "#EXTINF:-1 tvg-id=\"NHLAntenaPlay.ro@SD\" tvg-logo=\"https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png\" group-title=\"Sports\",NHL AntenaPlay (576i) [Not 24/7]",
-    "url": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8",
-    "name": "NHL AntenaPlay (576i) [Not 24/7]",
+    "extinf": "#EXTINF:-1 tvg-id=\"NHLAntenaPlay.ro@SD\" tvg-logo=\"https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png\" group-title=\"Sports\",NHL AntenaPlay (576p) [Not 24/7]",
+    "url": "https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8",
+    "name": "NHL AntenaPlay (576p) [Not 24/7]",
     "tvg_id": "NHLAntenaPlay.ro@SD"
   },
   {
@@ -17002,9 +16978,9 @@
   {
     "lang": "English",
     "category": "Kids",
-    "extinf": "#EXTINF:-1 tvg-id=\"Nicktoons.ro@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939\" group-title=\"Kids\",Nicktoons (Romania)",
-    "url": "http://178.76.68.60:7442/80/mpegts",
-    "name": "Nicktoons (Romania)",
+    "extinf": "#EXTINF:-1 tvg-id=\"Nicktoons.ro@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939\" group-title=\"Kids\",Nicktoons (Romania) (576p)",
+    "url": "http://91.235.165.117:8001/play/a061/index.m3u8",
+    "name": "Nicktoons (Romania) (576p)",
     "tvg_id": "Nicktoons.ro@SD"
   },
   {
@@ -20169,22 +20145,6 @@
   },
   {
     "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"ROCKAction.sg@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png\" http-referrer=\"https://www.visionplus.id/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\" group-title=\"Entertainment\",ROCK Action (720p)",
-    "url": "https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8",
-    "name": "ROCK Action (720p)",
-    "tvg_id": "ROCKAction.sg@SD"
-  },
-  {
-    "lang": "English",
-    "category": "Entertainment",
-    "extinf": "#EXTINF:-1 tvg-id=\"ROCKEntertainment.sg@SD\" tvg-logo=\"https://i.imgur.com/PWzq0aU.png\" http-referrer=\"https://www.visionplus.id/\" http-user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\" group-title=\"Entertainment\",ROCK Entertainment (720p)",
-    "url": "https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8",
-    "name": "ROCK Entertainment (720p)",
-    "tvg_id": "ROCKEntertainment.sg@SD"
-  },
-  {
-    "lang": "English",
     "category": "Others",
     "extinf": "#EXTINF:-1 tvg-id=\"RockyHillChannel16.us@SD\" tvg-logo=\"https://i.imgur.com/2ZDcH2L.png\" group-title=\"Legislative\",Rocky Hill Channel 16 (480p)",
     "url": "https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8",
@@ -22210,9 +22170,9 @@
   {
     "lang": "English",
     "category": "Others",
-    "extinf": "#EXTINF:-1 tvg-id=\"TanzaniaSafariChannel.tz@SD\" tvg-logo=\"https://i.imgur.com/fcLFYhn.png\" group-title=\"Travel\",Tanzania Safari Channel (576p)",
-    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
-    "name": "Tanzania Safari Channel (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"TanzaniaSafariChannel.tz@SD\" tvg-logo=\"https://i.imgur.com/fcLFYhn.png\" group-title=\"Travel\",Tanzania Safari Channel (1080p)",
+    "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f1951119e8afeb4224/index.m3u8",
+    "name": "Tanzania Safari Channel (1080p)",
     "tvg_id": "TanzaniaSafariChannel.tz@SD"
   },
   {
@@ -24818,17 +24778,25 @@
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ViasatKino.ua@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg\" group-title=\"Movies\",Viasat Kino (576p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"ViasatKino.ro@SD\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346\" group-title=\"Movies\",Viasat Kino (Romania) (576i)",
+    "url": "http://91.235.165.117:8001/play/a055/index.m3u8",
+    "name": "Viasat Kino (Romania) (576i)",
+    "tvg_id": "ViasatKino.ro@SD"
+  },
+  {
+    "lang": "English",
+    "category": "Movies",
+    "extinf": "#EXTINF:-1 tvg-id=\"ViasatKino.ua@SD\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg\" group-title=\"Movies\",Viasat Kino (Ukraine) (576p)",
     "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
-    "name": "Viasat Kino (576p)",
+    "name": "Viasat Kino (Ukraine) (576p)",
     "tvg_id": "ViasatKino.ua@SD"
   },
   {
     "lang": "English",
     "category": "Movies",
-    "extinf": "#EXTINF:-1 tvg-id=\"ViasatKino.ua@Balkan\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg\" group-title=\"Movies\",Viasat Kino Balkan (1080p)",
+    "extinf": "#EXTINF:-1 tvg-id=\"ViasatKino.ua@Balkan\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg\" group-title=\"Movies\",Viasat Kino (Ukraine) Balkan (1080p)",
     "url": "http://176.61.157.250/TV1000/index.m3u8",
-    "name": "Viasat Kino Balkan (1080p)",
+    "name": "Viasat Kino (Ukraine) Balkan (1080p)",
     "tvg_id": "ViasatKino.ua@Balkan"
   },
   {
